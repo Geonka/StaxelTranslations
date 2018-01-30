@@ -1,7 +1,7 @@
 //[Reference] 'en-GB'
 language.code=ru-RU
 //[Reference] 'English'
-language=Russian
+language=Русский
 //[Reference] 'You should try fishing in different types of water!'
 staxel.village.dialogue.job.CaithFisherRumour.line:10000100=Тебе стоит попробовать порыбачить в разных типах водоемов!
 //[Reference] 'There are all sorts of fish out there mya!'
