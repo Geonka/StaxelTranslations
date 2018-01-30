@@ -2,15 +2,15 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Documents keep piling up at my house.'
-staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000100=
-//TODO Translate [Reference] 'The lack of a ^c:1486b0;town hall^c:pop; is wreaking havoc on my workflow.'
-staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000200=
-//TODO Translate [Reference] 'At this rate, the opposition might pull ahead!'
-staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000300=
-//TODO Translate [Reference] 'When will the ^c:1486b0;town hall^c:pop; repairs begin?'
-staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000400=
-//TODO Translate [Reference] 'I miss my office.'
-staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000500=
-//TODO Translate [Reference] 'I knew I should have hired a better contractor...'
-staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000600=
+//[Reference] 'Documents keep piling up at my house.'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000100=Документы продолжают скапиваться у меня дома.
+//[Reference] 'The lack of a ^c:1486b0;town hall^c:pop; is wreaking havoc on my workflow.'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000200=Отсутствие ^c:1486b0;Ратуши^c:pop; нарушает мой рабочий процесс.
+//[Reference] 'At this rate, the opposition might pull ahead!'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000300=Такими темпами оппозиция может вырваться вперед!
+//[Reference] 'When will the ^c:1486b0;town hall^c:pop; repairs begin?'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000400=Когда ^c:1486b0;Ратуша^c:pop; будет отремонтирована?
+//[Reference] 'I miss my office.'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000500=Я скучаю по своему офису.
+//[Reference] 'I knew I should have hired a better contractor...'
+staxel.village.dialogue.job.MayorWorkPlaceMissing.line:10000600=Я знаю, что должен был нанять лучшего подрядчика...
