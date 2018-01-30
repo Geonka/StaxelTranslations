@@ -2,7 +2,7 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'A thief in town? They won't steal any free drinks from me!'
-staxel.village.dialogue.BarkeepTheft.line:10000100=
-//TODO Translate [Reference] 'Keep an eye out for suspicious characters.'
-staxel.village.dialogue.BarkeepTheft.line:10000200=
+//[Reference] 'A thief in town? They won't steal any free drinks from me!'
+staxel.village.dialogue.BarkeepTheft.line:10000100=Воры в городе? Они получат от меня ничего бесплатно!
+//[Reference] 'Keep an eye out for suspicious characters.'
+staxel.village.dialogue.BarkeepTheft.line:10000200=Следи за подозрительными личностями.
