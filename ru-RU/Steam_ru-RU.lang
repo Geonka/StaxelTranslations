@@ -2,29 +2,32 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Staxel is a creative farming and village life game with a cast of quirky characters. Build your farmhouse, help villagers, take to the wilds to fish or hunt for bugs, and grow a variety of crops in your backyard. If you’re feeling social, you can even invite your friends over to share in the fun!\n[b]Experience Village Life[/b]\n\nIn Staxel, you’re tasked with restoring the farm to its former glory as the newest resident in a budding village. While they may have their quirks, the other residents will help you get settled in. Return the favour and help the village flourish!\n\nWhen you’re not hanging out with your newfound friends or working on your farm, you could be pursuing a new hobby, completing one of many collections, spending your hard-earned money on precious seeds, or lending a hand and making your mark on the town!\n\n[b]Nurture Your Farm[/b]\n\nPut down your roots and settle into life as a newcomer to the village. Starting out with a run-down, old home and farmland reclaimed by the wilderness, it’s up to you to turn the place around. Plant seeds, carefully tend to your crops, take care of your animals, and expand your farm. Don’t forget: take care of your farm, and your farm will take care of you!\n\n[b]Customise Your World[/b]\n\nStaxel’s voxel-based sandbox world lets you alter your surroundings however you like, and with a rich selection of in-game materials and an intuitive approach to modding, you can truly create your own unique world within the game.\n\nWill you grow the village while keeping its rustic charm, or take it in an entirely new direction? Perhaps you’d rather leave the village and focus on your own projects? It’s all up to you, and your creativity is exactly the tool for the job!'
-steam.store.description.About=
-//TODO Translate [Reference] 'Grow your farm, meet the villagers, and join your friends online in building your world.'
-steam.store.description.ShortDescription=
-//TODO Translate [Reference] '<Empty>'
-steam.store.LegalLines=
-//TODO Translate [Reference] 'Get notified when Staxel comes out on Steam by clicking the [b]Add to your wishlist[/b] button above'
-steam.store.sections.section1.Content=
-//TODO Translate [Reference] 'Staxel is getting ready for steam'
-steam.store.sections.section1.Header=
-//TODO Translate [Reference] '512 MB VRAM'
-steam.store.systemrequirements.minimum.Graphics=
-//TODO Translate [Reference] 'Windows 7 SP1 (64bit)'
-steam.store.systemrequirements.minimum.OsVersion=
-//TODO Translate [Reference] 'Intel Core i5 @ 2Ghz (or equivalent)'
-steam.store.systemrequirements.minimum.Processor=
-//TODO Translate [Reference] '1 GMB VRAM'
-steam.store.systemrequirements.recommended.Graphics=
-//TODO Translate [Reference] 'Windows 7 SP1 (64bit) or newer'
-steam.store.systemrequirements.recommended.OsVersion=
-//TODO Translate [Reference] 'Intel Core i5 @ 3Ghz (or equivalent)'
-steam.store.systemrequirements.recommended.Processor=
+//[Validate] Delete this comment if or when the translation is accurate.
+//[Reference] 'Staxel is a creative farming and village life game with a cast of quirky characters. Build your farmhouse, help villagers, take to the wilds to fish or hunt for bugs, and grow a variety of crops in your backyard. If you’re feeling social, you can even invite your friends over to share in the fun!\n[b]Experience Village Life[/b]\n\nIn Staxel, you’re tasked with restoring the farm to its former glory as the newest resident in a budding village. While they may have their quirks, the other residents will help you get settled in. Return the favour and help the village flourish!\n\nWhen you’re not hanging out with your newfound friends or working on your farm, you could be pursuing a new hobby, completing one of many collections, spending your hard-earned money on precious seeds, or lending a hand and making your mark on the town!\n\n[b]Nurture Your Farm[/b]\n\nPut down your roots and settle into life as a newcomer to the village. Starting out with a run-down, old home and farmland reclaimed by the wilderness, it’s up to you to turn the place around. Plant seeds, carefully tend to your crops, take care of your animals, and expand your farm. Don’t forget: take care of your farm, and your farm will take care of you!\n\n[b]Customise Your World[/b]\n\nStaxel’s voxel-based sandbox world lets you alter your surroundings however you like, and with a rich selection of in-game materials and an intuitive approach to modding, you can truly create your own unique world within the game.\n\nWill you grow the village while keeping its rustic charm, or take it in an entirely new direction? Perhaps you’d rather leave the village and focus on your own projects? It’s all up to you, and your creativity is exactly the tool for the job!'
+steam.store.description.About=Staxel - это творческая игра о фермерской и деревенской жизни среди причудливых и интересных персонажей. Постройте свою ферму, помогайте жителям деревни, отправляйтесь на рыбалку и поиски насекомых в глубокие дебри, выращивайте различные культуры на своем заднем дворе. Если Вам нравится быть в компании - Вы можете пригласить своих друзей и поделиться с ними удовольствием! \n[b]Почувствуйте вкус жизни в деревне[/b]\n\n В Staxel Вам предстоит вернуть ферме ее былое величие в качестве нового жителя в строящейся деревне. Пока одни жители будут удивлять Вас своими причудами, другие помогут освоиться и объяснят, что к чему. Отплатите им той же монетой и помогите деревне расцвести! \n\n В те моменты, когда Вы не будете проводить время со своими новыми друзьями или работать в поте лица на своей ферме, Вы можете заняться чем-нибудь новеньким, например, собрать одну из коллекций, потратить с трудом заработанные деньги на покупку семян или внести свой вклад в изменение и строительство города! \n\n[b]Развивайте свою ферму[/b]\n\n Пустите свои корни и поселитесь здесь в качестве новичка в деревне. Начиная с обветшалого, старого дома и запущенных угодий, Вы можете изменить это место до неузнаваемости. Сажайте семена, бережно относитесь к своим растениям, заботьтесь о своей живности и расширяйте ферму. Не забывайте - позаботишься о своей ферме, и ферма позаботится о тебе! \n\n[b]Измените мир вокруг себя[/b]\n\n Мир-песочница Staxel, построенный на вокселях позволяет изменять окресности так, как душе угодно, а с огромным выбором материалов и интуитивным подходом к моддингу Вам действительно под силу создать свой уникальный мир в пределах игры. \n\n Будете расширять деревню, сохраняя при этом ее сельский шарм или пойдете по совершенно иному пути? Возможно, Вы предпочтете покинуть деревню и сосредоточиться на собственных проэктах? Это все зависит от Вас, ведь именно Ваше творчество - это инструмент для работы!
+//[Reference] 'Grow your farm, meet the villagers, and join your friends online in building your world.'
+steam.store.description.ShortDescription=Развивайте свою ферму, встречайтесь с жителями и присоединяйтесь к своим друзьями онлайн в строительстве своего мира.
+//[Reference] '<Empty>'
+steam.store.LegalLines=<Пусто>
+//[Reference] 'Get notified when Staxel comes out on Steam by clicking the [b]Add to your wishlist[/b] button above'
+steam.store.sections.section1.Content=Нажмите [b]Добавить в список желаемого[/b], Чтобы получать уведомления о публикациях Staxel в Steam.
+
+//[Reference] 'Staxel is getting ready for steam'
+steam.store.sections.section1.Header=Staxel готов к установке в Steam
+//[Reference] '512 MB VRAM'
+steam.store.systemrequirements.minimum.Graphics=512 MB VRAM
+
+//[Reference] 'Windows 7 SP1 (64bit)'
+steam.store.systemrequirements.minimum.OsVersion=Windows 7 SP1 (64-бит)
+//[Reference] 'Intel Core i5 @ 2Ghz (or equivalent)'
+steam.store.systemrequirements.minimum.Processor=Intel Core i5 @ 2 GHz (или равноценный)
+//[Reference] '1 GMB VRAM'
+steam.store.systemrequirements.recommended.Graphics=1 GB VRAM
+//[Reference] 'Windows 7 SP1 (64bit) or newer'
+steam.store.systemrequirements.recommended.OsVersion=Windows 7 SP1 (64-бит) или новее
+//[Reference] 'Intel Core i5 @ 3Ghz (or equivalent)'
+steam.store.systemrequirements.recommended.Processor=Intel Core i5 @ 3 GHz (или равноценный)
 //TODO Translate [Reference] 'Expand your choice of building blocks, furniture, and character style with everything the Staxel community has come up with. You can even contribute your own designs!'
-steam.workshop.Description=
+steam.workshop.Description=Расширьте выбор строительных блоков, мебели и стилей персонажа со всем, что придумало сообщество Staxel. Вы даже можете внести свой собственный дизайн.
 //TODO Translate [Reference] 'Staxel Workshop'
-steam.workshop.Title=
+steam.workshop.Title=Мастерская Staxel
