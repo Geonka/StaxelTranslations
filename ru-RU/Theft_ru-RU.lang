@@ -2,9 +2,9 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'I've heard things have been going missing around town.'
-staxel.village.dialogue.Theft.line:10000100=
-//TODO Translate [Reference] 'Could there be a thief among us?'
-staxel.village.dialogue.Theft.line:10000200=
-//TODO Translate [Reference] 'I hope not. Shop items are getting expensive!'
-staxel.village.dialogue.Theft.line:10000300=
+//[Reference] 'I've heard things have been going missing around town.'
+staxel.village.dialogue.Theft.line:10000100=Говорят, в городе пропадают вещи.
+//[Reference] 'Could there be a thief among us?'
+staxel.village.dialogue.Theft.line:10000200=Может быть, среди нас есть вор?
+//[Reference] 'I hope not. Shop items are getting expensive!'
+staxel.village.dialogue.Theft.line:10000300=Надеюсь, что нет. Товары в магазинах становятся дорогими!
