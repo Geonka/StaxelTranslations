@@ -2,13 +2,13 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Last night, someone ransacked my home...'
-staxel.village.dialogue.leaving.Generic.line:10000100=
-//TODO Translate [Reference] 'I want to leave town but they ruined the ^c:1486b0;airship landing^c:pop; too...'
-staxel.village.dialogue.leaving.Generic.line:10000200=
-//TODO Translate [Reference] 'Now there's no way off the island!'
-staxel.village.dialogue.leaving.Generic.line:10000300=
-//TODO Translate [Reference] 'There's nothing for me here anymore so I'm leaving town for a while.'
-staxel.village.dialogue.leaving.Generic.line:10000400=
-//TODO Translate [Reference] 'I hope someone can fix things while I'm gone...'
-staxel.village.dialogue.leaving.Generic.line:10000500=
+//[Reference] 'Last night, someone ransacked my home...'
+staxel.village.dialogue.leaving.Generic.line:10000100=Прошлой ночью кто-то ограбил мой дом...
+//[Reference] 'I want to leave town but they ruined the ^c:1486b0;airship landing^c:pop; too...'
+staxel.village.dialogue.leaving.Generic.line:10000200=Я хочу покинуть город, но ^c:1486b0;взлетная площадка^c:pop; разрушен...
+//[Reference] 'Now there's no way off the island!'
+staxel.village.dialogue.leaving.Generic.line:10000300=Теперь нет никакого способа покинуть остров!
+//[Reference] 'There's nothing for me here anymore so I'm leaving town for a while.'
+staxel.village.dialogue.leaving.Generic.line:10000400=Здесь меня больше ничего не держит, поэтому я собираюсь уехать из города на какое-то время.
+//[Reference] 'I hope someone can fix things while I'm gone...'
+staxel.village.dialogue.leaving.Generic.line:10000500=Надеюсь, кто-то сможет все исправить, пока меня не будет...
