@@ -2,9 +2,10 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'We thought the mischeivous fairies were our only concern...'
-staxel.village.dialogue.job.festival.FeyThroneRoomMissing.line:10000100=
-//TODO Translate [Reference] 'It would seem that someone else has taken it upon themselves to pull apart our manor...'
-staxel.village.dialogue.job.festival.FeyThroneRoomMissing.line:10000200=
-//TODO Translate [Reference] 'If you would be so kind as to repair the ^c:1486b0;throne room^c:pop; we could perhaps resume our repairs...'
-staxel.village.dialogue.job.festival.FeyThroneRoomMissing.line:10000300=
+//[Reference] 'We thought the mischeivous fairies were our only concern...'
+//[note] I think you mean 'mischievous' against 'mischeivous'.
+staxel.village.dialogue.job.festival.FeyThroneRoomMissing.line:10000100=Мы думали, что озорные феи будут нашей единственной проблемой...
+//[Reference] 'It would seem that someone else has taken it upon themselves to pull apart our manor...'
+staxel.village.dialogue.job.festival.FeyThroneRoomMissing.line:10000200=Похоже, что кто-то другой взял на себя их работу, чтобы разнести нашу усадьбу...
+//[Reference] 'If you would be so kind as to repair the ^c:1486b0;throne room^c:pop; we could perhaps resume our repairs...'
+staxel.village.dialogue.job.festival.FeyThroneRoomMissing.line:10000300=Не могли бы вы быть так любезны, чтобы восстановить наш ^c:1486b0;Тронный залл^c:pop;, чтобы мы могли возобновить ремонт...
