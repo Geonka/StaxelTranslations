@@ -2,15 +2,15 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Have you received your ^c:d03e37;farm license^c:pop; yet?'
-staxel.village.dialogue.TutorialNotCompleted.line:10000100=
-//TODO Translate [Reference] 'You need to talk to ^c:1486b0;{0-fan}^c:pop; so she can show you the ropes!'
-staxel.village.dialogue.TutorialNotCompleted.line:10000200=
-//TODO Translate [Reference] 'She's probably somewhere around the ^c:1486b0;Town Hall^c:pop; or ^c:1486b0;Tavern^c:pop;!'
-staxel.village.dialogue.TutorialNotCompleted.line:10000300=
-//TODO Translate [Reference] 'I heard ^c:1486b0;{0-fan}^c:pop; was looking for you.'
-staxel.village.dialogue.TutorialNotCompleted.line:10000400=
-//TODO Translate [Reference] 'She said she hasn't had a chance to show you around.'
-staxel.village.dialogue.TutorialNotCompleted.line:10000500=
-//TODO Translate [Reference] 'You're supposed to get some rewards from her!'
-staxel.village.dialogue.TutorialNotCompleted.line:10000600=
+//[Reference] 'Have you received your ^c:d03e37;farm license^c:pop; yet?'
+staxel.village.dialogue.TutorialNotCompleted.line:10000100=^c:d03e37;Farmerlizenz^c:pop; все еще не получена?
+//[Reference] 'You need to talk to ^c:1486b0;{0-fan}^c:pop; so she can show you the ropes!'
+staxel.village.dialogue.TutorialNotCompleted.line:10000200=Тебе следует поговорить с ^c:1486b0;{0-fan}^c:pop; как можно скорее, чтобы она начала работать с тобой!
+//[Reference] 'She's probably somewhere around the ^c:1486b0;Town Hall^c:pop; or ^c:1486b0;Tavern^c:pop;!'
+staxel.village.dialogue.TutorialNotCompleted.line:10000300=Ты найдешь ее около ^c:1486b0;Rathaus^c:pop; или ^c:1486b0;Gasthaus^c:pop;!
+//[Reference] 'I heard ^c:1486b0;{0-fan}^c:pop; was looking for you.'
+staxel.village.dialogue.TutorialNotCompleted.line:10000400=Я слышал, что ^c:1486b0;{0-fan}^c:pop; искала тебя.
+//[Reference] 'She said she hasn't had a chance to show you around.'
+staxel.village.dialogue.TutorialNotCompleted.line:10000500=Она сказала, что ей не удалось показать тебе, что тут и как.
+//[Reference] 'You're supposed to get some rewards from her!'
+staxel.village.dialogue.TutorialNotCompleted.line:10000600=Ты можешь получить некоторые награды от нее!
