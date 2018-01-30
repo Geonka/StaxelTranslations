@@ -2,71 +2,71 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Just between you and me, I love doughnuts!'
-staxel.village.dialogue.Cutesy.line:10000100=
-//TODO Translate [Reference] 'The fluffy softness of the dough, the range of fillings and toppings...'
-staxel.village.dialogue.Cutesy.line:10000200=
-//TODO Translate [Reference] 'They're just so perfect!'
-staxel.village.dialogue.Cutesy.line:10000300=
-//TODO Translate [Reference] 'It really helps that they're zero calories too!'
-staxel.village.dialogue.Cutesy.line:10000400=
-//TODO Translate [Reference] 'Ahhh...'
-staxel.village.dialogue.Cutesy.line:10000500=
-//TODO Translate [Reference] 'What I wouldn't give to live in a castle...'
-staxel.village.dialogue.Cutesy.line:10000600=
-//TODO Translate [Reference] 'I'd hire an army of maids, and a trusty butler to oversee them.'
-staxel.village.dialogue.Cutesy.line:10000700=
-//TODO Translate [Reference] 'Their skirts would paint a rainbow of silken cloth!'
-staxel.village.dialogue.Cutesy.line:10000800=
-//TODO Translate [Reference] 'The lipstick I ordered the other day was the wrong colour...'
-staxel.village.dialogue.Cutesy.line:10000900=
-//TODO Translate [Reference] 'I ended up giving it away.'
-staxel.village.dialogue.Cutesy.line:10001000=
-//TODO Translate [Reference] '^c:1486b0;{0-tomboy_name}^c:pop; didn't seem to want it though...'
-staxel.village.dialogue.Cutesy.line:10001100=
-//TODO Translate [Reference] 'I wonder what it would feel like to ride on a cloud.'
-staxel.village.dialogue.Cutesy.line:10001200=
-//TODO Translate [Reference] 'Would it be as fluffy as it looks do you think?'
-staxel.village.dialogue.Cutesy.line:10001300=
-//TODO Translate [Reference] 'Or just cold and damp?'
-staxel.village.dialogue.Cutesy.line:10001400=
-//TODO Translate [Reference] 'You know what I'd love right now?'
-staxel.village.dialogue.Cutesy.line:10001500=
-//TODO Translate [Reference] 'A nice cup of rose hip tea, steeped juuuust the right amount.'
-staxel.village.dialogue.Cutesy.line:10001600=
-//TODO Translate [Reference] 'Wouldn't it be amazing if life was a musical?'
-staxel.village.dialogue.Cutesy.line:10001700=
-//TODO Translate [Reference] 'We'd all dance and sing as we went about our daily chores.'
-staxel.village.dialogue.Cutesy.line:10001800=
-//TODO Translate [Reference] 'I think everything would become far more enjoyable!'
-staxel.village.dialogue.Cutesy.line:10001900=
-//TODO Translate [Reference] 'Someday I'm going to get a really cute pet.'
-staxel.village.dialogue.Cutesy.line:10002000=
-//TODO Translate [Reference] 'I'll spend all day filming it and turn it into an internet celebrity!'
-staxel.village.dialogue.Cutesy.line:10002100=
-//TODO Translate [Reference] 'I don't understand why everyone drinks so much coffee!'
-staxel.village.dialogue.Cutesy.line:10002200=
-//TODO Translate [Reference] 'Even with a heap of sugar I can't get past the bitterness...'
-staxel.village.dialogue.Cutesy.line:10002300=
-//TODO Translate [Reference] 'Hey ^c:1486b0;{0-playername}^c:pop;...'
-staxel.village.dialogue.Cutesy.line:10002400=
-//TODO Translate [Reference] 'Would you mind if I gave some of your animals cute haircuts?'
-staxel.village.dialogue.Cutesy.line:10002500=
-//TODO Translate [Reference] 'I think it would be a good way to promote your farm too!'
-staxel.village.dialogue.Cutesy.line:10002600=
-//TODO Translate [Reference] 'Living out here in this rural town has its downsides.'
-staxel.village.dialogue.Cutesy.line:10002700=
-//TODO Translate [Reference] 'It's so hard to get hold of the latest accessories!'
-staxel.village.dialogue.Cutesy.line:10002800=
-//TODO Translate [Reference] 'By the time they ship them out here, fashions are already changing!'
-staxel.village.dialogue.Cutesy.line:10002900=
-//TODO Translate [Reference] 'It's nice to have ^c:1486b0;{0-tomboy_name}^c:pop; around.'
-staxel.village.dialogue.Cutesy.line:10003000=
-//TODO Translate [Reference] 'The village becomes a lot more lively!'
-staxel.village.dialogue.Cutesy.line:10003100=
-//TODO Translate [Reference] 'I don't know if I've mentioned this, but we were childhood friends!'
-staxel.village.dialogue.Cutesy.line:10003200=
-//TODO Translate [Reference] 'I wonder if my childhood friend will ever come back to the village?'
-staxel.village.dialogue.Cutesy.line:10003300=
-//TODO Translate [Reference] 'They always livened the place up!'
-staxel.village.dialogue.Cutesy.line:10003400=
+//[Reference] 'Just between you and me, I love doughnuts!'
+staxel.village.dialogue.Cutesy.line:10000100=Только между нами, я обожаю пончики!
+//[Reference] 'The fluffy softness of the dough, the range of fillings and toppings...'
+staxel.village.dialogue.Cutesy.line:10000200=Пушистая мягкость теста, ассортимент начинок и глазури...
+//[Reference] 'They're just so perfect!'
+staxel.village.dialogue.Cutesy.line:10000300=Они просто идеальны!
+//[Reference] 'It really helps that they're zero calories too!'
+staxel.village.dialogue.Cutesy.line:10000400=А еще в них совсем нет каллорий!
+//[Reference] 'Ahhh...'
+staxel.village.dialogue.Cutesy.line:10000500=Ах...
+//[Reference] 'What I wouldn't give to live in a castle...'
+staxel.village.dialogue.Cutesy.line:10000600=Я бы все отдала, чтобы жить в замке...
+//[Reference] 'I'd hire an army of maids, and a trusty butler to oversee them.'
+staxel.village.dialogue.Cutesy.line:10000700=Я бы наняла армию горничных и надежного дворецкого, чтобы наблюдать за ними.
+//[Reference] 'Their skirts would paint a rainbow of silken cloth!'
+staxel.village.dialogue.Cutesy.line:10000800=Их юбки будут из ткани всех цветов радуги!
+//[Reference] 'The lipstick I ordered the other day was the wrong colour...'
+staxel.village.dialogue.Cutesy.line:10000900=Помада, которую я заказала на днях, была не того цвета...
+//[Reference] 'I ended up giving it away.'
+staxel.village.dialogue.Cutesy.line:10001000=В итоге я подарила ее...
+//[Reference] '^c:1486b0;{0-tomboy_name}^c:pop; didn't seem to want it though...'
+staxel.village.dialogue.Cutesy.line:10001100=Не похоже, чтобы ^c:1486b0;{0-tomboy_name}^c:pop; хотелось ее получить.
+//[Reference] 'I wonder what it would feel like to ride on a cloud.'
+staxel.village.dialogue.Cutesy.line:10001200=Интересно, каково это - прокатиться на облаке.
+//[Reference] 'Would it be as fluffy as it looks do you think?'
+staxel.village.dialogue.Cutesy.line:10001300=Будет ли оно на ощупь таким же пушистым, как выглядит, как ты думаешь?
+//[Reference] 'Or just cold and damp?'
+staxel.village.dialogue.Cutesy.line:10001400=Или просто холодным и сырым?...
+//[Reference] 'You know what I'd love right now?'
+staxel.village.dialogue.Cutesy.line:10001500=Знаешь, чего бы мне хотелось прямо сейчас?
+//[Reference] 'A nice cup of rose hip tea, steeped juuuust the right amount.'
+staxel.village.dialogue.Cutesy.line:10001600=Хорошей такой кружки чая с шиповником, добавленным в саааамой правильной пропорции.
+//[Reference] 'Wouldn't it be amazing if life was a musical?'
+staxel.village.dialogue.Cutesy.line:10001700=Как бы было здорово, будь наша жизнь мюзиклом!
+//[Reference] 'We'd all dance and sing as we went about our daily chores.'
+staxel.village.dialogue.Cutesy.line:10001800=Мы бы танцевали и пели, занимаясь своими повседневными делами.
+//[Reference] 'I think everything would become far more enjoyable!'
+staxel.village.dialogue.Cutesy.line:10001900=Думаю, всё бы стало намного приятней!
+//[Reference] 'Someday I'm going to get a really cute pet.'
+staxel.village.dialogue.Cutesy.line:10002000=Однажды я заведу действително милого питомца.
+//[Reference] 'I'll spend all day filming it and turn it into an internet celebrity!'
+staxel.village.dialogue.Cutesy.line:10002100=Я проведу весь день, снимая его и превращу его в интернет-знаменитость!
+//[Reference] 'I don't understand why everyone drinks so much coffee!'
+staxel.village.dialogue.Cutesy.line:10002200=Не понимаю, почему все пьют так много кофе!
+//[Reference] 'Even with a heap of sugar I can't get past the bitterness...'
+staxel.village.dialogue.Cutesy.line:10002300=Даже с кучей сахара я не могу вытерпеть его горечь...
+//[Reference] 'Hey ^c:1486b0;{0-playername}^c:pop;...'
+staxel.village.dialogue.Cutesy.line:10002400=Хэй, {0-playername}...
+//[Reference] 'Would you mind if I gave some of your animals cute haircuts?'
+staxel.village.dialogue.Cutesy.line:10002500=Не возражаешь, если я сделаю твоим животным милые стрижки?
+//[Reference] 'I think it would be a good way to promote your farm too!'
+staxel.village.dialogue.Cutesy.line:10002600=Я думаю, это отличный способ сделать твою ферму более привлекательной!
+//[Reference] 'Living out here in this rural town has its downsides.'
+staxel.village.dialogue.Cutesy.line:10002700=У жизни в этом сельском городке есть свои минусы.
+//[Reference] 'It's so hard to get hold of the latest accessories!'
+staxel.village.dialogue.Cutesy.line:10002800=Так трудно получить новые аксессуары!
+//[Reference] 'By the time they ship them out here, fashions are already changing!'
+staxel.village.dialogue.Cutesy.line:10002900=К тому времени, как они отправляют их сюда, мода уже меняется!
+//[Reference] 'It's nice to have ^c:1486b0;{0-tomboy_name}^c:pop; around.'
+staxel.village.dialogue.Cutesy.line:10003000=Приятно, когда ^c:1486b0;{0-tomboy_name}^c:pop; здесь.
+//[Reference] 'The village becomes a lot more lively!'
+staxel.village.dialogue.Cutesy.line:10003100=Деревня становится гораздо оживленнее!
+//[Reference] 'I don't know if I've mentioned this, but we were childhood friends!'
+staxel.village.dialogue.Cutesy.line:10003200=Не знаю, упоминала ли я об этом, но мы были друзьями в детстве!
+//[Reference] 'I wonder if my childhood friend will ever come back to the village?'
+staxel.village.dialogue.Cutesy.line:10003300=Интересно, вернутся ли когда-нибудь мои друзья детства в деревню?
+//[Reference] 'They always livened the place up!'
+staxel.village.dialogue.Cutesy.line:10003400=Они всегда оживляли это место!
