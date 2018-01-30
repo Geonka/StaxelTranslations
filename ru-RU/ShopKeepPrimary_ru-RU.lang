@@ -2,27 +2,27 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Ah, so ^c:1486b0;{0-bar_name}^c:pop; has finally sent someone to pick up his order...'
-staxel.village.dialogue.ShopKeepPrimary.line:10000100=
-//TODO Translate [Reference] 'Certainly took him long enough...'
-staxel.village.dialogue.ShopKeepPrimary.line:10000200=
-//TODO Translate [Reference] 'Whatever it is, it's starting to smell a bit funny - I'll be happy to see it go!'
-staxel.village.dialogue.ShopKeepPrimary.line:10000300=
-//TODO Translate [Reference] 'By the way, congratulations on your new pet!'
-staxel.village.dialogue.ShopKeepPrimary.line:10000400=
-//TODO Translate [Reference] 'Must be nice to have such a good companion...'
-staxel.village.dialogue.ShopKeepPrimary.line:10000500=
-//TODO Translate [Reference] 'It can get pretty lonely out here...'
-staxel.village.dialogue.ShopKeepPrimary.line:10000600=
-//TODO Translate [Reference] 'You look a bit confused? Well, never mind, I have something for you too!'
-staxel.village.dialogue.ShopKeepPrimary.line:10000700=
-//TODO Translate [Reference] 'These will definitely come in handy now that you have a pet...'
-staxel.village.dialogue.ShopKeepPrimary.line:10000800=
-//TODO Translate [Reference] 'We sell a lot of useful stuff here in the store.'
-staxel.village.dialogue.ShopKeepPrimary.line:10000900=
-//TODO Translate [Reference] 'Feel free to browse the shelves and buy whatever you need any time!'
-staxel.village.dialogue.ShopKeepPrimary.line:10001000=
-//TODO Translate [Reference] 'But for now, you'd better get that ^c:d03e37;parcel^c:pop; out of here...'
-staxel.village.dialogue.ShopKeepPrimary.line:10001100=
-//TODO Translate [Reference] 'I'm not sure how much longer I can stand it.'
-staxel.village.dialogue.ShopKeepPrimary.line:10001200=
+//[Reference] 'Ah, so ^c:1486b0;{0-bar_name}^c:pop; has finally sent someone to pick up his order...'
+staxel.village.dialogue.ShopKeepPrimary.line:10000100=Итак, кто-то наконец прибыл, чтобы забрать заказ ^c:1486b0;{0-bar_name}^c:pop;...
+//[Reference] 'Certainly took him long enough...'
+staxel.village.dialogue.ShopKeepPrimary.line:10000200=Конечно, это заняло достаточно много времени...
+//[Reference] 'Whatever it is, it's starting to smell a bit funny - I'll be happy to see it go!'
+staxel.village.dialogue.ShopKeepPrimary.line:10000300=Что бы это ни было, оно начало похнуть довольно забавно - посмотрим, что тут у нас!
+//[Reference] 'By the way, congratulations on your new pet!'
+staxel.village.dialogue.ShopKeepPrimary.line:10000400=Кстати, поздравляю тебя с твоим новым питомцем!
+//[Reference] 'Must be nice to have such a good companion...'
+staxel.village.dialogue.ShopKeepPrimary.line:10000500=Должно быть здорово, иметь такого хорошего товарища...
+//[Reference] 'It can get pretty lonely out here...'
+staxel.village.dialogue.ShopKeepPrimary.line:10000600=Здесь может быть довольно одиноко...
+//[Reference] 'You look a bit confused? Well, never mind, I have something for you too!'
+staxel.village.dialogue.ShopKeepPrimary.line:10000700=Ты выглядишь немного смущенно. однако, не бери в голову, у меня для тебя кое-что есть!
+//[Reference] 'These will definitely come in handy now that you have a pet...'
+staxel.village.dialogue.ShopKeepPrimary.line:10000800=Это, безусловно, будет тебе полезно теперь, когда у тебя есть домашнее животное...
+//[Reference] 'We sell a lot of useful stuff here in the store.'
+staxel.village.dialogue.ShopKeepPrimary.line:10000900=Мы продаем множество полезных вещей здесь, в магазине.
+//[Reference] 'Feel free to browse the shelves and buy whatever you need any time!'
+staxel.village.dialogue.ShopKeepPrimary.line:10001000=Не стесняйся рассматривать полки и покупать все, что душе угодно, в любое время!
+//[Reference] 'But for now, you'd better get that ^c:d03e37;parcel^c:pop; out of here...'
+staxel.village.dialogue.ShopKeepPrimary.line:10001100=А сейчас, тебе лучше унести эту ^c:d03e37;посылку^c:pop; отсюда...
+//[Reference] 'I'm not sure how much longer I can stand it.'
+staxel.village.dialogue.ShopKeepPrimary.line:10001200=Я не знаю, сколько еще смогу выдержать.
