@@ -2,9 +2,9 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Some tools can be charged to increase their effects.'
-staxel.village.dialogue.GeneralChat.5.line:10000100=
-//TODO Translate [Reference] 'For example, a charged shovel will dig up a larger area.'
-staxel.village.dialogue.GeneralChat.5.line:10000200=
-//TODO Translate [Reference] 'It can be very handy for clearing out large regions!'
-staxel.village.dialogue.GeneralChat.5.line:10000300=
+//[Reference] 'Some tools can be charged to increase their effects.'
+staxel.village.dialogue.GeneralChat.5.line:10000100=Некоторые инструменты могут быть заряжены, чтобы увеличить их эффективность.
+//[Reference] 'For example, a charged shovel will dig up a larger area.'
+staxel.village.dialogue.GeneralChat.5.line:10000200=Например, заряженная лопата выкопает бóльшую зону.
+//[Reference] 'It can be very handy for clearing out large regions!'
+staxel.village.dialogue.GeneralChat.5.line:10000300=Это может оказаться очень удобным для очистки больших регионов!
