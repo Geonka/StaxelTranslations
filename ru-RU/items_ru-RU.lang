@@ -822,7 +822,7 @@ staxel.item.farmAnimals.TroughFood.name=Trog-Комбикорм
 //[Reference] 'The license to your farm. You should treasure it.'
 staxel.item.FarmLicense.description=Лицензия на твою ферму. Тебе стоит ее сохранить.
 //[Reference] 'Farm License'
-staxel.item.FarmLicense.name=Лицензия на ферму
+staxel.item.FarmLicense.name=Лицензия фермера
 //[Reference] 'A letter that registers you and your farm. Better hand it to the Mayor quick!'
 staxel.item.FarmRegistrationLetter.description=Письмо, которое регистрирует тебя и твою ферму. Лучше отнеси это мэру, как можно скорее!
 //[Reference] 'Farm Registration Letter'
