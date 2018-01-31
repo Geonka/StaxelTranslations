@@ -2,63 +2,63 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Have you seen my board lying around?'
-staxel.village.dialogue.Tomboy.line:10000100=
-//TODO Translate [Reference] 'I was gonna go skate but I can't find it anywhere...'
-staxel.village.dialogue.Tomboy.line:10000200=
-//TODO Translate [Reference] 'How about a match sometime?'
-staxel.village.dialogue.Tomboy.line:10000300=
-//TODO Translate [Reference] 'I'll wipe the floor with you easy!'
-staxel.village.dialogue.Tomboy.line:10000400=
-//TODO Translate [Reference] 'What's up?'
-staxel.village.dialogue.Tomboy.line:10000500=
-//TODO Translate [Reference] 'Did you get lost?'
-staxel.village.dialogue.Tomboy.line:10000600=
-//TODO Translate [Reference] 'Watcha doing out here?'
-staxel.village.dialogue.Tomboy.line:10000700=
-//TODO Translate [Reference] 'Off on an adventure?'
-staxel.village.dialogue.Tomboy.line:10000800=
-//TODO Translate [Reference] 'Get bored of farming?'
-staxel.village.dialogue.Tomboy.line:10000900=
-//TODO Translate [Reference] 'Someday I'd love to go a grand adventure.'
-staxel.village.dialogue.Tomboy.line:10001000=
-//TODO Translate [Reference] 'Slay a dragon, rescue a princess...'
-staxel.village.dialogue.Tomboy.line:10001100=
-//TODO Translate [Reference] 'You know the kind of thing right?'
-staxel.village.dialogue.Tomboy.line:10001200=
-//TODO Translate [Reference] 'Y'know ^c:1486b0;{0-playername}^c:pop;...'
-staxel.village.dialogue.Tomboy.line:10001300=
-//TODO Translate [Reference] 'I really don't understand why some girls wear skirts.'
-staxel.village.dialogue.Tomboy.line:10001400=
-//TODO Translate [Reference] 'How can they wear something with only one leg hole?'
-staxel.village.dialogue.Tomboy.line:10001500=
-//TODO Translate [Reference] 'We have two legs!'
-staxel.village.dialogue.Tomboy.line:10001600=
-//TODO Translate [Reference] 'Hey ^c:1486b0;{0-playername}^c:pop;, d'ya think a tie would look good with my tee?'
-staxel.village.dialogue.Tomboy.line:10001700=
-//TODO Translate [Reference] 'I've heard all the cool girls do it!'
-staxel.village.dialogue.Tomboy.line:10001800=
-//TODO Translate [Reference] 'If you're gonna do something, do it with passion!'
-staxel.village.dialogue.Tomboy.line:10001900=
-//TODO Translate [Reference] 'There's no excuse for not putting in the effort!'
-staxel.village.dialogue.Tomboy.line:10002000=
-//TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;... you don't have enough pockets...'
-staxel.village.dialogue.Tomboy.line:10002100=
-//TODO Translate [Reference] 'I always make sure to count pockets before I buy clothes!'
-staxel.village.dialogue.Tomboy.line:10002200=
-//TODO Translate [Reference] 'Urgh... I'm so hungry...'
-staxel.village.dialogue.Tomboy.line:10002300=
-//TODO Translate [Reference] 'I could probably eat a live cow...'
-staxel.village.dialogue.Tomboy.line:10002400=
-//TODO Translate [Reference] 'Not that I would though! Promise!'
-staxel.village.dialogue.Tomboy.line:10002500=
-//TODO Translate [Reference] '^c:1486b0;{0-cutesy_name}^c:pop; keeps trying to give me lipstick.'
-staxel.village.dialogue.Tomboy.line:10002600=
-//TODO Translate [Reference] 'I hate lipstick... it makes my lips too shiny.'
-staxel.village.dialogue.Tomboy.line:10002700=
-//TODO Translate [Reference] 'I used to have this childhood friend around here.'
-staxel.village.dialogue.Tomboy.line:10002800=
-//TODO Translate [Reference] 'We were complete opposites in every way!'
-staxel.village.dialogue.Tomboy.line:10002900=
-//TODO Translate [Reference] 'It was fun though!'
-staxel.village.dialogue.Tomboy.line:10003000=
+//[Reference] 'Have you seen my board lying around?'
+staxel.village.dialogue.Tomboy.line:10000100=Тебе не попадался мой скейт?
+//[Reference] 'I was gonna go skate but I can't find it anywhere...'
+staxel.village.dialogue.Tomboy.line:10000200=Я собираюсь кататься на роликах, но нигде не могу их найти...
+//[Reference] 'How about a match sometime?'
+staxel.village.dialogue.Tomboy.line:10000300=Как насчет матча когда-нибудь?
+//[Reference] 'I'll wipe the floor with you easy!'
+staxel.village.dialogue.Tomboy.line:10000400=Я тебя порву на тряпочки!
+//[Reference] 'What's up?'
+staxel.village.dialogue.Tomboy.line:10000500=Как жела?
+//[Reference] 'Did you get lost?'
+staxel.village.dialogue.Tomboy.line:10000600=Проблемы с нахождением пути?
+//[Reference] 'Watcha doing out here?'
+staxel.village.dialogue.Tomboy.line:10000700=Что ты тут делаешь?
+//[Reference] 'Off on an adventure?'
+staxel.village.dialogue.Tomboy.line:10000800=В поиске приключений?
+//[Reference] 'Get bored of farming?'
+staxel.village.dialogue.Tomboy.line:10000900=Надоело копаться на грядках?
+//[Reference] 'Someday I'd love to go a grand adventure.'
+staxel.village.dialogue.Tomboy.line:10001000=Когда-нибудь я с удовольствием отправлюсь в грандиозное приключение.
+//[Reference] 'Slay a dragon, rescue a princess...'
+staxel.village.dialogue.Tomboy.line:10001100=Убить дракона, спасти принцессу...
+//[Reference] 'You know the kind of thing right?'
+staxel.village.dialogue.Tomboy.line:10001200=Ты ведь знаешь, что это такое?
+//[Reference] 'Y'know ^c:1486b0;{0-playername}^c:pop;...'
+staxel.village.dialogue.Tomboy.line:10001300=Знаешь, {0-playername}...
+//[Reference] 'I really don't understand why some girls wear skirts.'
+staxel.village.dialogue.Tomboy.line:10001400=Я правда не понимаю, почему некоторые девушки носят юбки.
+//[Reference] 'How can they wear something with only one leg hole?'
+staxel.village.dialogue.Tomboy.line:10001500=Как они могут носить что-то только с одним отверстием для ног?
+//[Reference] 'We have two legs!'
+staxel.village.dialogue.Tomboy.line:10001600=У нас две ноги!
+//[Reference] 'Hey ^c:1486b0;{0-playername}^c:pop;, d'ya think a tie would look good with my tee?'
+staxel.village.dialogue.Tomboy.line:10001700=Хэй, {0-playername}, как думаешь, галстук будет хорошо смотреться с моей футболкой?
+//[Reference] 'I've heard all the cool girls do it!'
+staxel.village.dialogue.Tomboy.line:10001800=Я слышала, все крутые девчонки делают так!
+//[Reference] 'If you're gonna do something, do it with passion!'
+staxel.village.dialogue.Tomboy.line:10001900=Если ты собираешься что-то сделать, сделай это со всей душой!
+//[Reference] 'There's no excuse for not putting in the effort!'
+staxel.village.dialogue.Tomboy.line:10002000=Нет никакого оправдания для того, кто не прикладывает усилия!
+//[Reference] '^c:1486b0;{0-playername}^c:pop;... you don't have enough pockets...'
+staxel.village.dialogue.Tomboy.line:10002100={0-playername}... У тебя недостаточно много карманов...
+//[Reference] 'I always make sure to count pockets before I buy clothes!'
+staxel.village.dialogue.Tomboy.line:10002200=Я всегда стараюсь сосчитать карманы, прежде чем покупаю одежду!
+//[Reference] 'Urgh... I'm so hungry...'
+staxel.village.dialogue.Tomboy.line:10002300=Ух... Так есть хочется.
+//[Reference] 'I could probably eat a live cow...'
+staxel.village.dialogue.Tomboy.line:10002400=Быка бы сьела!
+//[Reference] 'Not that I would though! Promise!'
+staxel.village.dialogue.Tomboy.line:10002500=Не то, чтобы я стану это делать... Обещаю!
+//[Reference] '^c:1486b0;{0-cutesy_name}^c:pop; keeps trying to give me lipstick.'
+staxel.village.dialogue.Tomboy.line:10002600=^c:1486b0;{0-cutesy_name}^c:pop; пыталась дать мне помаду.
+//[Reference] 'I hate lipstick... it makes my lips too shiny.'
+staxel.village.dialogue.Tomboy.line:10002700=Фу, помада... Она делает губы дурацки-яркими.
+//[Reference] 'I used to have this childhood friend around here.'
+staxel.village.dialogue.Tomboy.line:10002800=У меня здесь был друг детства.
+//[Reference] 'We were complete opposites in every way!'
+staxel.village.dialogue.Tomboy.line:10002900=Мы были полными противоположностями во всех отношениях!
+//[Reference] 'It was fun though!'
+staxel.village.dialogue.Tomboy.line:10003000=Хотя это было весело!
