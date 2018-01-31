@@ -2,123 +2,127 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Did you hear about that new console?'
-staxel.village.dialogue.Nerd.line:10000100=
-//TODO Translate [Reference] 'They say it only manages one teraflop...'
-staxel.village.dialogue.Nerd.line:10000200=
-//TODO Translate [Reference] 'Do you think it will be worth the investment?'
-staxel.village.dialogue.Nerd.line:10000300=
-//TODO Translate [Reference] 'Have you seen any rare monsters around town?'
-staxel.village.dialogue.Nerd.line:10000400=
-//TODO Translate [Reference] 'No, no, not real monsters... you know what, never mind.'
-staxel.village.dialogue.Nerd.line:10000500=
-//TODO Translate [Reference] 'I'd love to go to one of those game conferences someday.'
-staxel.village.dialogue.Nerd.line:10000600=
-//TODO Translate [Reference] 'We're so far away from civilisation out here...'
-staxel.village.dialogue.Nerd.line:10000700=
-//TODO Translate [Reference] 'No matter how many times I try, I can never get the characters I want...'
-staxel.village.dialogue.Nerd.line:10000800=
-//TODO Translate [Reference] 'I don't know why I keep playing these phone games.'
-staxel.village.dialogue.Nerd.line:10000900=
-//TODO Translate [Reference] 'Someday, I want to make my own game. I have the budget after all!'
-staxel.village.dialogue.Nerd.line:10001000=
-//TODO Translate [Reference] 'I've been planning it for years now.'
-staxel.village.dialogue.Nerd.line:10001100=
-//TODO Translate [Reference] 'I have a six hundred page design document hidden away!'
-staxel.village.dialogue.Nerd.line:10001200=
-//TODO Translate [Reference] 'All I have to do now is learn how to program it...'
-staxel.village.dialogue.Nerd.line:10001300=
-//TODO Translate [Reference] '^c:1486b0;{0-s_name}^c:pop; can be pretty stubborn sometimes...'
-staxel.village.dialogue.Nerd.line:10001400=
-//TODO Translate [Reference] 'All I want is to try out the time machine!'
-staxel.village.dialogue.Nerd.line:10001500=
-//TODO Translate [Reference] 'I even offered to pay good money for the chance!'
-staxel.village.dialogue.Nerd.line:10001600=
-//TODO Translate [Reference] 'I refuse to believe it doesn't exist!'
-staxel.village.dialogue.Nerd.line:10001700=
-//TODO Translate [Reference] 'Wouldn't it be cool if there was a scientist around here?'
-staxel.village.dialogue.Nerd.line:10001800=
-//TODO Translate [Reference] 'Some sort of professor with all kinds of wacky gadgets!'
-staxel.village.dialogue.Nerd.line:10001900=
-//TODO Translate [Reference] 'Maybe they'd help me build my dream super robot!'
-staxel.village.dialogue.Nerd.line:10002000=
-//TODO Translate [Reference] 'The new expansion for my favourite MMO is launching soon!'
-staxel.village.dialogue.Nerd.line:10002100=
-//TODO Translate [Reference] 'I can't wait!'
-staxel.village.dialogue.Nerd.line:10002200=
-//TODO Translate [Reference] 'I just hope they don't turn it into a gear treadmill again...'
-staxel.village.dialogue.Nerd.line:10002300=
-//TODO Translate [Reference] 'One of my online friends recommended a new book series to me.'
-staxel.village.dialogue.Nerd.line:10002400=
-//TODO Translate [Reference] 'I really can't remember what it was called though...'
-staxel.village.dialogue.Nerd.line:10002500=
-//TODO Translate [Reference] 'M-M- I think it started with M?'
-staxel.village.dialogue.Nerd.line:10002600=
-//TODO Translate [Reference] 'Mist...something?'
-staxel.village.dialogue.Nerd.line:10002700=
-//TODO Translate [Reference] 'Why do I choose to play female characters in games?'
-staxel.village.dialogue.Nerd.line:10002800=
-//TODO Translate [Reference] 'I get asked that a lot actually.'
-staxel.village.dialogue.Nerd.line:10002900=
-//TODO Translate [Reference] 'My answer is simple...'
-staxel.village.dialogue.Nerd.line:10003000=
-//TODO Translate [Reference] 'Well, why not?'
-staxel.village.dialogue.Nerd.line:10003100=
-//TODO Translate [Reference] 'Do you have a favourite boat?'
-staxel.village.dialogue.Nerd.line:10003200=
-//TODO Translate [Reference] 'It's been a hot topic online for ages!'
-staxel.village.dialogue.Nerd.line:10003300=
-//TODO Translate [Reference] 'Mine's the Shimakaze by the way!'
-staxel.village.dialogue.Nerd.line:10003400=
-//TODO Translate [Reference] 'The Amatsukaze is pretty cool too I suppose...'
-staxel.village.dialogue.Nerd.line:10003500=
-//TODO Translate [Reference] ''Please look forward to it!''
-staxel.village.dialogue.Nerd.line:10003600=
-//TODO Translate [Reference] 'That's what he said...'
-staxel.village.dialogue.Nerd.line:10003700=
-//TODO Translate [Reference] 'What a joke.'
-staxel.village.dialogue.Nerd.line:10003800=
-//TODO Translate [Reference] 'That was the worst reveal stream yet.'
-staxel.village.dialogue.Nerd.line:10003900=
-//TODO Translate [Reference] 'People keep telling me the new Game of Seats book is coming soon.'
-staxel.village.dialogue.Nerd.line:10004000=
-//TODO Translate [Reference] 'That's the TV series!'
-staxel.village.dialogue.Nerd.line:10004100=
-//TODO Translate [Reference] 'Not the book!'
-staxel.village.dialogue.Nerd.line:10004200=
-//TODO Translate [Reference] 'The TV series! At least get them right!'
-staxel.village.dialogue.Nerd.line:10004300=
-//TODO Translate [Reference] 'My favourite manga keeps going on hiatus.'
-staxel.village.dialogue.Nerd.line:10004400=
-//TODO Translate [Reference] 'It's been months now.'
-staxel.village.dialogue.Nerd.line:10004500=
-//TODO Translate [Reference] 'It comes off hiatus. Then goes back on hiatus a few days later.'
-staxel.village.dialogue.Nerd.line:10004600=
-//TODO Translate [Reference] 'I don't even care any more. I just want it to end!'
-staxel.village.dialogue.Nerd.line:10004700=
-//TODO Translate [Reference] 'Imagine being able to finish off monsters in one punch!'
-staxel.village.dialogue.Nerd.line:10004800=
-//TODO Translate [Reference] 'That would be my dream super power!'
-staxel.village.dialogue.Nerd.line:10004900=
-//TODO Translate [Reference] 'Now to just wait until I get pulled into another world!'
-staxel.village.dialogue.Nerd.line:10005000=
-//TODO Translate [Reference] 'Just one more card!'
-staxel.village.dialogue.Nerd.line:10005100=
-//TODO Translate [Reference] 'I only need one more card to finish off my collection!'
-staxel.village.dialogue.Nerd.line:10005200=
-//TODO Translate [Reference] 'The problem is it's a super rare promotional card...'
-staxel.village.dialogue.Nerd.line:10005300=
-//TODO Translate [Reference] 'No matter how much I'm willing to pay...'
-staxel.village.dialogue.Nerd.line:10005400=
-//TODO Translate [Reference] 'I can't do much if no one is selling...'
-staxel.village.dialogue.Nerd.line:10005500=
-//TODO Translate [Reference] 'HB might be my favourite character of all time now...'
-staxel.village.dialogue.Nerd.line:10005600=
-//TODO Translate [Reference] 'I played through the whole game in one sitting!'
-staxel.village.dialogue.Nerd.line:10005700=
-//TODO Translate [Reference] 'She's so perfect!'
-staxel.village.dialogue.Nerd.line:10005800=
-//TODO Translate [Reference] 'All the forums I frequent are flooded with fanart these days...'
-staxel.village.dialogue.Nerd.line:10005900=
-//TODO Translate [Reference] 'I just want to have good discussions and talk theories!'
-staxel.village.dialogue.Nerd.line:10006000=
+//[Reference] 'Did you hear about that new console?'
+staxel.village.dialogue.Nerd.line:10000100=Ты слышал о новой консоли?
+//[Reference] 'They say it only manages one teraflop...'
+staxel.village.dialogue.Nerd.line:10000200=говорят, она мощностью в один терафлоп...
+//[Reference] 'Do you think it will be worth the investment?'
+staxel.village.dialogue.Nerd.line:10000300=Как думашеь, это хорошее вложение?
+//[Reference] 'Have you seen any rare monsters around town?'
+staxel.village.dialogue.Nerd.line:10000400=Тебе встречались какие-нибудь редкие монстры вокруг города?
+//[Reference] 'No, no, not real monsters... you know what, never mind.'
+staxel.village.dialogue.Nerd.line:10000500=Нет, нет, не настоящие монстры... А, знаешь... неважно.
+//[Reference] 'I'd love to go to one of those game conferences someday.'
+staxel.village.dialogue.Nerd.line:10000600=Я бы хотел однажды пойти на одну из этих игровых конференций..
+//[Reference] 'We're so far away from civilisation out here...'
+staxel.village.dialogue.Nerd.line:10000700=Мы так далеко от цивилизации...
+//[Reference] 'No matter how many times I try, I can never get the characters I want...'
+staxel.village.dialogue.Nerd.line:10000800=Независимо от того, сколько раз я пытаюсь, я никогда не смогу создать персонажей, которе бы мне нравились...
+//[Reference] 'I don't know why I keep playing these phone games.'
+staxel.village.dialogue.Nerd.line:10000900=Я не знаю, почему я продолжаю играть в эти игры на телефоне.
+//[Reference] 'Someday, I want to make my own game. I have the budget after all!'
+staxel.village.dialogue.Nerd.line:10001000=Я хочу когда-нибудь сделать свою собственную игру. У меня даже есть бюджет!
+//[Reference] 'I've been planning it for years now.'
+staxel.village.dialogue.Nerd.line:10001100=Я планирую это уже много лет.
+//[Reference] 'I have a six hundred page design document hidden away!'
+staxel.village.dialogue.Nerd.line:10001200=Я спрятал 600-страничный дизайн документа!
+//[Reference] 'All I have to do now is learn how to program it...'
+staxel.village.dialogue.Nerd.line:10001300=JВсе, что мне сейчас нужно сделать, это научиться программировать...
+//[Reference] '^c:1486b0;{0-s_name}^c:pop; can be pretty stubborn sometimes...'
+staxel.village.dialogue.Nerd.line:10001400=^c:1486b0;{0-s_name}^c:pop; иногда может быть очень упрямой...
+//[Reference] 'All I want is to try out the time machine!'
+staxel.village.dialogue.Nerd.line:10001500=Все, что я хочу, это испытать машину времени!
+//[Reference] 'I even offered to pay good money for the chance!'
+staxel.village.dialogue.Nerd.line:10001600=Я даже предложил заплатить хорошие деньги за этот шанс!
+//[Reference] 'I refuse to believe it doesn't exist!'
+staxel.village.dialogue.Nerd.line:10001700=Я отказываюсь верить, что ее не существует!
+//[Reference] 'Wouldn't it be cool if there was a scientist around here?'
+staxel.village.dialogue.Nerd.line:10001800=Как было бы здорово, если бы здесь был ученый!
+//[Reference] 'Some sort of professor with all kinds of wacky gadgets!'
+staxel.village.dialogue.Nerd.line:10001900=Какой-нибудь профессор со всеми видами дурацких гаджетов!
+//[Reference] 'Maybe they'd help me build my dream super robot!'
+staxel.village.dialogue.Nerd.line:10002000=Может быть, он поможет мне построить супер-робота моей мечты!
+//[Reference] 'The new expansion for my favourite MMO is launching soon!'
+staxel.village.dialogue.Nerd.line:10002100=Новое расширение для моей любимой MMO скоро выйдет в свет!
+//[Reference] 'I can't wait!'
+staxel.village.dialogue.Nerd.line:10002200=Не могу дождаться!
+//[Reference] 'I just hope they don't turn it into a gear treadmill again...'
+staxel.village.dialogue.Nerd.line:10002300=Я только надеюсь, что они не превратят его в гонку вооружений снова...
+//[Reference] 'One of my online friends recommended a new book series to me.'
+staxel.village.dialogue.Nerd.line:10002400=Один из моих друзей порекомендовал мне новую серию книг.
+//[Reference] 'I really can't remember what it was called though...'
+staxel.village.dialogue.Nerd.line:10002500=Я действительно не могу вспомнить, как это называлось...
+//[Reference] 'M-M- I think it started with M?'
+staxel.village.dialogue.Nerd.line:10002600=Р... Р... Кажется, оно начиналось на Р...
+//[Reference] 'Mist...something?'
+staxel.village.dialogue.Nerd.line:10002700=Рожденный... где-то?
+//[Reference] 'Why do I choose to play female characters in games?'
+staxel.village.dialogue.Nerd.line:10002800=Почему я предпочитаю играть за женских персонажей в играх?
+//[Reference] 'I get asked that a lot actually.'
+staxel.village.dialogue.Nerd.line:10002900=Меня часто спрашивают об этом.
+//[Reference] 'My answer is simple...'
+staxel.village.dialogue.Nerd.line:10003000=Ответ прост…
+//[Reference] 'Well, why not?'
+staxel.village.dialogue.Nerd.line:10003100=Чтож... Почему бы и нет?
+//[Reference] 'Do you have a favourite boat?'
+staxel.village.dialogue.Nerd.line:10003200=Есть ли у тебя любимый корабль?
+//[Reference] 'It's been a hot topic online for ages!'
+staxel.village.dialogue.Nerd.line:10003300=Это было горячей темой в сети долгое время!
+//[Reference] 'Mine's the Shimakaze by the way!'
+staxel.village.dialogue.Nerd.line:10003400=Кстати, мой - Шимаказе!
+//[Reference] 'The Amatsukaze is pretty cool too I suppose...'
+staxel.village.dialogue.Nerd.line:10003500=Аматцуказе тоже ничего, я думаю...
+//[Reference] ''Please look forward to it!''
+staxel.village.dialogue.Nerd.line:10003600=„Ожидайте с нетерпением!“
+//[Reference] 'That's what he said...'
+staxel.village.dialogue.Nerd.line:10003700=Вот, что он сказал...
+//[Reference] 'What a joke.'
+staxel.village.dialogue.Nerd.line:10003800=Что за глупости.
+//[Reference] 'That was the worst reveal stream yet.'
+staxel.village.dialogue.Nerd.line:10003900=Пока что это был худший анонс.
+//[Reference] 'People keep telling me the new Game of Seats book is coming soon.'
+staxel.village.dialogue.Nerd.line:10004000=Люди продолжают говорить мне, что новая книга по Игре Рассолов скоро выйдет...
+//[Reference] 'That's the TV series!'
+staxel.village.dialogue.Nerd.line:10004100=Это сериал!
+//[Reference] 'Not the book!'
+staxel.village.dialogue.Nerd.line:10004200=Не книга!
+//[Reference] 'The TV series! At least get them right!'
+staxel.village.dialogue.Nerd.line:10004300=Телесериал! Вы не можете ошибиться!
+//[Reference] 'My favourite manga keeps going on hiatus.'
+staxel.village.dialogue.Nerd.line:10004400=Моя любимая манга все еще не возобновилась.
+//[Reference] 'It's been months now.'
+staxel.village.dialogue.Nerd.line:10004500=Прошло уже несколько месяцев.
+//[Reference] 'It comes off hiatus. Then goes back on hiatus a few days later.'
+staxel.village.dialogue.Nerd.line:10004600=Иногда выходит пара страниц, а затем вновь большой перерыв.
+//[Reference] 'I don't even care any more. I just want it to end!'
+staxel.village.dialogue.Nerd.line:10004700=Мне уже все равно. Я просто хочу, чтобы все закончилось!
+//[Reference] 'Imagine being able to finish off monsters in one punch!'
+staxel.village.dialogue.Nerd.line:10004800=Только представь - убивать монстров с одного удара!
+//[Reference] 'That would be my dream super power!'
+staxel.village.dialogue.Nerd.line:10004900=Это супер-сила моей мечты!
+//[Reference] 'Now to just wait until I get pulled into another world!'
+staxel.village.dialogue.Nerd.line:10005000=Остается лишь ждать, когда меня потянет в очередную вселенную!
+//[Reference] 'Just one more card!'
+staxel.village.dialogue.Nerd.line:10005100=Осталась одна карта!
+//[Reference] 'I only need one more card to finish off my collection!'
+staxel.village.dialogue.Nerd.line:10005200=Мне нужна всего лишь одна карта, чтобы закончить мою коллекцию!
+//[Reference] 'The problem is it's a super rare promotional card...'
+staxel.village.dialogue.Nerd.line:10005300=Проблема в том, что это супер редкая промо-карта...
+//[Reference] 'No matter how much I'm willing to pay...'
+staxel.village.dialogue.Nerd.line:10005400=Независимо от того, сколько я готов заплатить...
+//[Reference] 'I can't do much if no one is selling...'
+staxel.village.dialogue.Nerd.line:10005500=Я ничего не могу сделать, если её никто не продает...
+//[Reference] 'HB might be my favourite character of all time now...'
+staxel.village.dialogue.Nerd.line:10005600=ЭшБи могла бы быть моей любимой героиней на века...
+//[Reference] 'I played through the whole game in one sitting!'
+staxel.village.dialogue.Nerd.line:10005700=Я прошел всю игру за один присест!
+//[Reference] 'She's so perfect!'
+staxel.village.dialogue.Nerd.line:10005800=Она так крута!
+//[Reference] 'All the forums I frequent are flooded with fanart these days...'
+staxel.village.dialogue.Nerd.line:10005900=Все форумы, которые я часто посещаю, забиты фанартом...
+//[Reference] 'I just want to have good discussions and talk theories!'
+staxel.village.dialogue.Nerd.line:10006000=А я просто хочу провести хорошую беседу и обсудить теории!
+
+// строки 51-58 - имеется ввиду серия книг Брэндона Сандерсона, рожденный туманом (Mistborn)
+// строки 67-82 - отсылка к японской карточной игре Kantai Collection
+// строки 83-90 - отсылка с Игре Престолов (Game of Thrones). Посмотрев разные переводы на разные языки, я пришла к выводу, что надо придерживаться созвучия с оригиналом и отсылок к с\х теме.
