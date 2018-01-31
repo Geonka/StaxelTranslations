@@ -149,5 +149,5 @@ staxel.crafting.recipes.VegetableMedley.description=Прочти это, что�
 //[Reference] 'Vegetable Medley Recipe'
 staxel.crafting.recipes.VegetableMedley.name=Рецепт винегрета
 
-строка 135, описание повторяет описание томатного супа. думаю, это опечатка.
-line 135, same description on file "Items" on "Tomato soup". I think it's typo
+//строка 135, описание повторяет описание томатного супа. думаю, это опечатка.
+//line 135, same description on file "Items" on "Tomato soup". I think it's typo
