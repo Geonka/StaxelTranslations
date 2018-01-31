@@ -2,125 +2,125 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Hmm...'
-staxel.village.dialogue.MayorRumour.line:10000300=
-//TODO Translate [Reference] 'I must say I've been thinking about raising taxes again recently.'
-staxel.village.dialogue.MayorRumour.line:10000400=
-//TODO Translate [Reference] 'We could really use some renovations.'
-staxel.village.dialogue.MayorRumour.line:10000500=
-//TODO Translate [Reference] 'You should see the state of my office.'
-staxel.village.dialogue.MayorRumour.line:10000600=
-//TODO Translate [Reference] 'Not even a single marble column!'
-staxel.village.dialogue.MayorRumour.line:10000700=
-//TODO Translate [Reference] 'Why are they so against opening a new coal mine?'
-staxel.village.dialogue.MayorRumour.line:10000800=
-//TODO Translate [Reference] 'It's not like it would do any real damage to the environment...'
-staxel.village.dialogue.MayorRumour.line:10000900=
-//TODO Translate [Reference] 'Oh, sorry, I didn't see you there!'
-staxel.village.dialogue.MayorRumour.line:10001000=
-//TODO Translate [Reference] 'They tell me the opposition is trying to build a strong following.'
-staxel.village.dialogue.MayorRumour.line:10001100=
-//TODO Translate [Reference] 'Not on my watch!'
-staxel.village.dialogue.MayorRumour.line:10001200=
-//TODO Translate [Reference] 'If there's one thing I love most about our little town...'
-staxel.village.dialogue.MayorRumour.line:10004300=
-//TODO Translate [Reference] 'It's the degree of trust we residents have in each other.'
-staxel.village.dialogue.MayorRumour.line:10004400=
-//TODO Translate [Reference] 'We haven't needed a police force in more than a decade!'
-staxel.village.dialogue.MayorRumour.line:10004500=
-//TODO Translate [Reference] 'That's why I abolished it. Nothing to do with saving money!'
-staxel.village.dialogue.MayorRumour.line:10004600=
-//TODO Translate [Reference] 'Airships are extremely beneficial to our island economy!'
-staxel.village.dialogue.MayorRumour.line:10004700=
-//TODO Translate [Reference] 'The requisite traffic laws, however, are nothing if not a headache.'
-staxel.village.dialogue.MayorRumour.line:10004800=
-//TODO Translate [Reference] 'I've lost track of the number of times I've written amendments...'
-staxel.village.dialogue.MayorRumour.line:10004900=
-//TODO Translate [Reference] 'Why, just the other week a near miss shaved some tiles off my roof!'
-staxel.village.dialogue.MayorRumour.line:10005000=
-//TODO Translate [Reference] 'I swear that travelling merchant is skipping out on his permit fees...'
-staxel.village.dialogue.MayorRumour.line:10005100=
-//TODO Translate [Reference] 'You know the one I mean right? The one with the funny hood...'
-staxel.village.dialogue.MayorRumour.line:10005200=
-//TODO Translate [Reference] 'There's no way our funds for this month should be this low!'
-staxel.village.dialogue.MayorRumour.line:10005300=
-//TODO Translate [Reference] 'Huh? What do you mean they all have funny hoods?'
-staxel.village.dialogue.MayorRumour.line:10005400=
-//TODO Translate [Reference] 'Be careful when cultivating crops in large quantities.'
-staxel.village.dialogue.MayorRumour.line:10005500=
-//TODO Translate [Reference] 'If you start selling too much at once, it will result in an oversupply.'
-staxel.village.dialogue.MayorRumour.line:10005600=
-//TODO Translate [Reference] 'The surplus will gradually be worth less and less the more you sell.'
-staxel.village.dialogue.MayorRumour.line:10005700=
-//TODO Translate [Reference] 'It takes quite a while for prices to return to normal.'
-staxel.village.dialogue.MayorRumour.line:10005800=
-//TODO Translate [Reference] 'The other day, we had a foreign delegate visiting.'
-staxel.village.dialogue.MayorRumour.line:10005900=
-//TODO Translate [Reference] 'One of those cactus people from warmer lands.'
-staxel.village.dialogue.MayorRumour.line:10006000=
-//TODO Translate [Reference] 'It caused quite the stir!'
-staxel.village.dialogue.MayorRumour.line:10006100=
-//TODO Translate [Reference] 'I may start imposing restrictions on ^c:1486b0;{0-s_name}^c:pop;'s experiments.'
-staxel.village.dialogue.MayorRumour.line:10006200=
-//TODO Translate [Reference] 'I've been hearing some... disturbing rumours regarding their subjects.'
-staxel.village.dialogue.MayorRumour.line:10006300=
-//TODO Translate [Reference] 'There are limits to what constitutes ethical research!'
-staxel.village.dialogue.MayorRumour.line:10006400=
-//TODO Translate [Reference] 'The costs incurred in damages to the town are inexcusable!'
-staxel.village.dialogue.MayorRumour.line:10006500=
-//TODO Translate [Reference] 'You have no idea how hard I fought to get this place classified as a town.'
-staxel.village.dialogue.MayorRumour.line:10006600=
-//TODO Translate [Reference] 'By all rights, our low population should rule us out...'
-staxel.village.dialogue.MayorRumour.line:10006700=
-//TODO Translate [Reference] 'But with some creative negotiation, I managed to get it through!'
-staxel.village.dialogue.MayorRumour.line:10006800=
-//TODO Translate [Reference] 'In the end, no one seems to care...'
-staxel.village.dialogue.MayorRumour.line:10006900=
-//TODO Translate [Reference] 'I've been reading through some of our legislation in my spare time.'
-staxel.village.dialogue.MayorRumour.line:10007000=
-//TODO Translate [Reference] 'Did you know that until recently, we required all barns to contain a stack of empty crates?'
-staxel.village.dialogue.MayorRumour.line:10007100=
-//TODO Translate [Reference] 'Some of the other by-laws are even stranger...'
-staxel.village.dialogue.MayorRumour.line:10007200=
-//TODO Translate [Reference] 'Some days, I start to think I need an assistant.'
-staxel.village.dialogue.MayorRumour.line:10007300=
-//TODO Translate [Reference] 'Handling all the work myself can be quite a burden!'
-staxel.village.dialogue.MayorRumour.line:10007400=
-//TODO Translate [Reference] 'But it's hard to find someone I trust to do a good enough job...'
-staxel.village.dialogue.MayorRumour.line:10007500=
-//TODO Translate [Reference] '^c:1486b0;{0-j_name}^c:pop; seems to have filed a proposal for an enormous office complex.'
-staxel.village.dialogue.MayorRumour.line:10007600=
-//TODO Translate [Reference] 'Supposedly, he has ambitions to start some sort of company...'
-staxel.village.dialogue.MayorRumour.line:10007700=
-//TODO Translate [Reference] 'I had to reject it, of course.'
-staxel.village.dialogue.MayorRumour.line:10007800=
-//TODO Translate [Reference] 'It's important to preserve our rural aesthetic!'
-staxel.village.dialogue.MayorRumour.line:10007900=
-//TODO Translate [Reference] 'Why are there always so many complaints to trawl through!'
-staxel.village.dialogue.MayorRumour.line:10008000=
-//TODO Translate [Reference] 'We don't even have that many residents!'
-staxel.village.dialogue.MayorRumour.line:10008100=
-//TODO Translate [Reference] 'I... I'm not even sure what I'm looking at here!'
-staxel.village.dialogue.MayorRumour.line:10008200=
-//TODO Translate [Reference] 'These proposals from ^c:1486b0;{0-c_name}^c:pop; make my head spin just by looking at them.'
-staxel.village.dialogue.MayorRumour.line:10008300=
-//TODO Translate [Reference] 'Rejected! Incomprehensible and potentially dangerous!'
-staxel.village.dialogue.MayorRumour.line:10008400=
-//TODO Translate [Reference] 'Every year, ^c:1486b0;{0-o_name}^c:pop; submits new proposals to re-establish a police force.'
-staxel.village.dialogue.MayorRumour.line:10008500=
-//TODO Translate [Reference] 'I invariably give him the same answer yet still he persists.'
-staxel.village.dialogue.MayorRumour.line:10008600=
-//TODO Translate [Reference] 'Our town is too peaceful to justify the costs of maintaining police!'
-staxel.village.dialogue.MayorRumour.line:10008700=
-//TODO Translate [Reference] 'Ah, ^c:1486b0;{0-e_name}^c:pop;...'
-staxel.village.dialogue.MayorRumour.line:10008800=
-//TODO Translate [Reference] 'I'd seriously consider approving her request for a skate park.'
-staxel.village.dialogue.MayorRumour.line:10008900=
-//TODO Translate [Reference] 'We just don't have the funds to spare for such things right now.'
-staxel.village.dialogue.MayorRumour.line:10009000=
-//TODO Translate [Reference] 'Once a month, ^c:1486b0;{0-l_name}^c:pop; requests permission to grow more trees in town.'
-staxel.village.dialogue.MayorRumour.line:10009100=
-//TODO Translate [Reference] 'I keep granting it but he never does anything about it...'
-staxel.village.dialogue.MayorRumour.line:10009200=
-//TODO Translate [Reference] 'Perhaps my notices are going astray?'
-staxel.village.dialogue.MayorRumour.line:10009300=
+//[Reference] 'Hmm...'
+staxel.village.dialogue.MayorRumour.line:10000300=Хмм...
+//[Reference] 'I must say I've been thinking about raising taxes again recently.'
+staxel.village.dialogue.MayorRumour.line:10000400=Я должен сказать, что подумываю о повышении налогов в последнее время.
+//[Reference] 'We could really use some renovations.'
+staxel.village.dialogue.MayorRumour.line:10000500=Нам бы не помешал ремонт.
+//[Reference] 'You should see the state of my office.'
+staxel.village.dialogue.MayorRumour.line:10000600=Надо видеть состояние моего офиса.
+//[Reference] 'Not even a single marble column!'
+staxel.village.dialogue.MayorRumour.line:10000700=Ни одной мраморной колонны!
+//[Reference] 'Why are they so against opening a new coal mine?'
+staxel.village.dialogue.MayorRumour.line:10000800=Почему все против открытия новой угольной шахты?
+//[Reference] 'It's not like it would do any real damage to the environment...'
+staxel.village.dialogue.MayorRumour.line:10000900=Это не похоже на то, что может нанести реальный ущерб окружающей среде...
+//[Reference] 'Oh, sorry, I didn't see you there!'
+staxel.village.dialogue.MayorRumour.line:10001000=Ох, извини, я не заметил тебя.
+//[Reference] 'They tell me the opposition is trying to build a strong following.'
+staxel.village.dialogue.MayorRumour.line:10001100=Говорят, что оппозиция пытается собрать большую поддержку.
+//[Reference] 'Not on my watch!'
+staxel.village.dialogue.MayorRumour.line:10001200=Только не под моим присмотром!
+//[Reference] 'If there's one thing I love most about our little town...'
+staxel.village.dialogue.MayorRumour.line:10004300=Если есть кое-что, что я люблю больше всего в нашем маленьком городе...
+//[Reference] 'It's the degree of trust we residents have in each other.'
+staxel.village.dialogue.MayorRumour.line:10004400=Это степень доверия, которую мы испытываем друг к другу.
+//[Reference] 'We haven't needed a police force in more than a decade!'
+staxel.village.dialogue.MayorRumour.line:10004500=Мы не нуждались в полиции больше десяти лет!
+//[Reference] 'That's why I abolished it. Nothing to do with saving money!'
+staxel.village.dialogue.MayorRumour.line:10004600=Вот почему я распустил ее. Ничего общего с экономией денег!
+//[Reference] 'Airships are extremely beneficial to our island economy!'
+staxel.village.dialogue.MayorRumour.line:10004700=дирижабли чрезвычайно полезны для нашей островной экономики!
+//[Reference] 'The requisite traffic laws, however, are nothing if not a headache.'
+staxel.village.dialogue.MayorRumour.line:10004800=Необходимые законы о дорожном движении, однако это сплошная головная боль.
+//[Reference] 'I've lost track of the number of times I've written amendments...'
+staxel.village.dialogue.MayorRumour.line:10004900=Я потерял счет, сколько раз я писал поправки...
+//[Reference] 'Why, just the other week a near miss shaved some tiles off my roof!'
+staxel.village.dialogue.MayorRumour.line:10005000=Только на прошлой неделе мне чуть не сбрило усы несколько кусочков черепицы с крыши!
+//[Reference] 'I swear that travelling merchant is skipping out on his permit fees...'
+staxel.village.dialogue.MayorRumour.line:10005100=Я готов поклясться, что путешествующий торговец не заплатил никаких комиссий...
+//[Reference] 'You know the one I mean right? The one with the funny hood...'
+staxel.village.dialogue.MayorRumour.line:10005200=Ты знаешь, кого я имею ввиду? Тот, с забавным капюшоном...
+//[Reference] 'There's no way our funds for this month should be this low!'
+staxel.village.dialogue.MayorRumour.line:10005300=Не может быть иной причины, по кторой в этом месяце наши доходы так упали!
+//[Reference] 'Huh? What do you mean they all have funny hoods?'
+staxel.village.dialogue.MayorRumour.line:10005400=Да? Что значит, "у них у всех смешные капюшоны"?
+//[Reference] 'Be careful when cultivating crops in large quantities.'
+staxel.village.dialogue.MayorRumour.line:10005500=Будь аккуратнее при выращивании культур в больших количествах.
+//[Reference] 'If you start selling too much at once, it will result in an oversupply.'
+staxel.village.dialogue.MayorRumour.line:10005600=Если ты начнешь продавать слишком много одинаковых культур за раз, это приведет к избыточному предложению.
+//[Reference] 'The surplus will gradually be worth less and less the more you sell.'
+staxel.village.dialogue.MayorRumour.line:10005700=Излишек товара постепенно будет дешеветь и дешеветь, чем больше ты продаешь.
+//[Reference] 'It takes quite a while for prices to return to normal.'
+staxel.village.dialogue.MayorRumour.line:10005800=Чтобы вернуть цены в нормальное состояние, требуется довольно много времени.
+//[Reference] 'The other day, we had a foreign delegate visiting.'
+staxel.village.dialogue.MayorRumour.line:10005900=На днях у нас был иностранный делегат с визитом.
+//[Reference] 'One of those cactus people from warmer lands.'
+staxel.village.dialogue.MayorRumour.line:10006000=Один из этих кактусовых ребят из более теплых земель.
+//[Reference] 'It caused quite the stir!'
+staxel.village.dialogue.MayorRumour.line:10006100=Это вызвало настоящий ажиотаж!
+//[Reference] 'I may start imposing restrictions on ^c:1486b0;{0-s_name}^c:pop;'s experiments.'
+staxel.village.dialogue.MayorRumour.line:10006200=Мне стоит начать вводить ограничения на ксперементы ^c:1486b0;{0-s_name}^c:pop;.
+//[Reference] 'I've been hearing some... disturbing rumours regarding their subjects.'
+staxel.village.dialogue.MayorRumour.line:10006300=Я слышал кое-какие... тревожные слухи о некоторых ее обьектах.
+//[Reference] 'There are limits to what constitutes ethical research!'
+staxel.village.dialogue.MayorRumour.line:10006400=Исследовательская этика имеет свои границы!
+//[Reference] 'The costs incurred in damages to the town are inexcusable!'
+staxel.village.dialogue.MayorRumour.line:10006500=Расходы, понесенные из-за ущерба городу, непростительны!
+//[Reference] 'You have no idea how hard I fought to get this place classified as a town.'
+staxel.village.dialogue.MayorRumour.line:10006600=Ты понятия не имеешь, как сильно я боролся за то, чтобы это место было признано городом.
+//[Reference] 'By all rights, our low population should rule us out...'
+staxel.village.dialogue.MayorRumour.line:10006700=На самом деле, наша низкая плотность населения исключает нас...
+//[Reference] 'But with some creative negotiation, I managed to get it through!'
+staxel.village.dialogue.MayorRumour.line:10006800=Но прибегнув к некоторым манипуляциям в переговорах, я таки дожал их до конца!
+//[Reference] 'In the end, no one seems to care...'
+staxel.village.dialogue.MayorRumour.line:10006900=В конце концов, кому какое дело...
+//[Reference] 'I've been reading through some of our legislation in my spare time.'
+staxel.village.dialogue.MayorRumour.line:10007000=Я читал некоторые из наших законов в свободное время.
+//[Reference] 'Did you know that until recently, we required all barns to contain a stack of empty crates?'
+staxel.village.dialogue.MayorRumour.line:10007100=Знаешь ли ты, что до недавнего времени они требовали, чтобы все амбары содержали штабель пустых ящиков?
+//[Reference] 'Some of the other by-laws are even stranger...'
+staxel.village.dialogue.MayorRumour.line:10007200=Некоторые из других уставов еще более странные...
+//[Reference] 'Some days, I start to think I need an assistant.'
+staxel.village.dialogue.MayorRumour.line:10007300=Иногда я начинаю думать, что мне нужен помощник.
+//[Reference] 'Handling all the work myself can be quite a burden!'
+staxel.village.dialogue.MayorRumour.line:10007400=Выполнение всей работы в одиночку может быть довольно тяжелым бременем!
+//[Reference] 'But it's hard to find someone I trust to do a good enough job...'
+staxel.village.dialogue.MayorRumour.line:10007500=Но трудно найти кого-то, кому я доверяю, чтобы выполнять работу достаточно хорошо...
+//[Reference] '^c:1486b0;{0-j_name}^c:pop; seems to have filed a proposal for an enormous office complex.'
+staxel.village.dialogue.MayorRumour.line:10007600=Видимо, ^c:1486b0;{0-j_name}^c:pop; запросил строительство огромного офисного комплекса.
+//[Reference] 'Supposedly, he has ambitions to start some sort of company...'
+staxel.village.dialogue.MayorRumour.line:10007700=Предположительно, он хочет поставить какую-то фирму на ноги...
+//[Reference] 'I had to reject it, of course.'
+staxel.village.dialogue.MayorRumour.line:10007800=Конечно, мне пришлось это отвергнуть.
+//[Reference] 'It's important to preserve our rural aesthetic!'
+staxel.village.dialogue.MayorRumour.line:10007900=Важно сохранить нашу сельскую эстетику!
+//[Reference] 'Why are there always so many complaints to trawl through!'
+staxel.village.dialogue.MayorRumour.line:10008000=Почему мне приходится сталкиваться с таким ворохом жалоб?
+//[Reference] 'We don't even have that many residents!'
+staxel.village.dialogue.MayorRumour.line:10008100=У нас ведь не так много жителей!
+//[Reference] 'I... I'm not even sure what I'm looking at here!'
+staxel.village.dialogue.MayorRumour.line:10008200=Я... Я даже уверен, на что я сейчас смотрю!
+//[Reference] 'These proposals from ^c:1486b0;{0-c_name}^c:pop; make my head spin just by looking at them.'
+staxel.village.dialogue.MayorRumour.line:10008300=От одних только запросов от ^c:1486b0;{0-c_name}^c:pop; у меня идет кругом голова.
+//[Reference] 'Rejected! Incomprehensible and potentially dangerous!'
+staxel.village.dialogue.MayorRumour.line:10008400=Отказать! Непонятно и потенциально опасно!
+//[Reference] 'Every year, ^c:1486b0;{0-o_name}^c:pop; submits new proposals to re-establish a police force.'
+staxel.village.dialogue.MayorRumour.line:10008500=Каждый год ^c:1486b0;{0-o_name}^c:pop; делает новые предложения по восстановлению полицейкой структуры.
+//[Reference] 'I invariably give him the same answer yet still he persists.'
+staxel.village.dialogue.MayorRumour.line:10008600=Я неизменно даю ему тот же ответ, но он все равно не успокаивается.
+//[Reference] 'Our town is too peaceful to justify the costs of maintaining police!'
+staxel.village.dialogue.MayorRumour.line:10008700=Наш город слишком мирный, чтобы оправдать расходы на содержание полиции!
+//[Reference] 'Ah, ^c:1486b0;{0-e_name}^c:pop;...'
+staxel.village.dialogue.MayorRumour.line:10008800=Ах, ^c:1486b0;{0-e_name}^c:pop;...
+//[Reference] 'I'd seriously consider approving her request for a skate park.'
+staxel.village.dialogue.MayorRumour.line:10008900=Я серьезно подумываю одобрить ее просьбу о скейт-парке.
+//[Reference] 'We just don't have the funds to spare for such things right now.'
+staxel.village.dialogue.MayorRumour.line:10009000=Просто у нас нет средств на такие вещи сейчас.
+//[Reference] 'Once a month, ^c:1486b0;{0-l_name}^c:pop; requests permission to grow more trees in town.'
+staxel.village.dialogue.MayorRumour.line:10009100=Раз в месяц, ^c:1486b0;{0-l_name}^c:pop; запрашивает разрешение на выращивание бóльшего количества деревьев в городе.
+//[Reference] 'I keep granting it but he never does anything about it...'
+staxel.village.dialogue.MayorRumour.line:10009200=Я продолжаю его предоставлять, но он никогда ничего не делает...
+//[Reference] 'Perhaps my notices are going astray?'
+staxel.village.dialogue.MayorRumour.line:10009300=Возможно, мои уведомления сбиваются с пути?
