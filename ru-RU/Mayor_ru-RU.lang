@@ -2,101 +2,101 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Now that I think about it, I haven't properly introduced myself.'
-staxel.village.dialogue.Mayor.line:10000100=
-//TODO Translate [Reference] 'I'm the mayor of this little town.'
-staxel.village.dialogue.Mayor.line:10000200=
-//TODO Translate [Reference] 'Oh, is that your ^c:d03e37;Farm Registration Letter^c:pop;?'
-staxel.village.dialogue.Mayor.line:10001300=
-//TODO Translate [Reference] 'How nice! Let me just take that off you for filing.'
-staxel.village.dialogue.Mayor.line:10001400=
-//TODO Translate [Reference] 'In return, you get your ^c:d03e37;license^c:pop; and some very handy items!'
-staxel.village.dialogue.Mayor.line:10001500=
-//TODO Translate [Reference] 'Do you want to turn in your ^c:d03e37;Registration Letter^c:pop;?'
-staxel.village.dialogue.Mayor.line:10001600=
-//TODO Translate [Reference] 'Yes, please!'
-staxel.village.dialogue.Mayor.line:10001700=
-//TODO Translate [Reference] 'No, not just yet'
-staxel.village.dialogue.Mayor.line:10001800=
-//TODO Translate [Reference] 'Marvellous! Here is your ^c:d03e37;license^c:pop;.'
-staxel.village.dialogue.Mayor.line:10001900=
-//TODO Translate [Reference] 'We also have a few extras for you.'
-staxel.village.dialogue.Mayor.line:10002000=
-//TODO Translate [Reference] 'We're all looking forward to seeing the farm revitalised!'
-staxel.village.dialogue.Mayor.line:10002100=
-//TODO Translate [Reference] 'As you wish!'
-staxel.village.dialogue.Mayor.line:10002200=
-//TODO Translate [Reference] 'You can still turn it in later if you change your mind!'
-staxel.village.dialogue.Mayor.line:10002300=
-//TODO Translate [Reference] 'I imagine I'll be seeing you quite often!'
-staxel.village.dialogue.Mayor.line:10002400=
-//TODO Translate [Reference] 'Now that you're a fully licensed farmer...'
-staxel.village.dialogue.Mayor.line:10002500=
-//TODO Translate [Reference] 'We can finally get those stray ^c:d03e37;cattle^c:pop; off our hands!'
-staxel.village.dialogue.Mayor.line:10002600=
-//TODO Translate [Reference] 'But before we can do that, you need to build a ^c:1486b0;barn^c:pop;.'
-staxel.village.dialogue.Mayor.line:10002700=
-//TODO Translate [Reference] 'I'm not really sure I'm the best person to teach you these things.'
-staxel.village.dialogue.Mayor.line:10002800=
-//TODO Translate [Reference] 'I'd suggest you go see ^c:1486b0;{0-mech_name}^c:pop;!'
-staxel.village.dialogue.Mayor.line:10002900=
-//TODO Translate [Reference] 'She'll help you out with all the parts you need.'
-staxel.village.dialogue.Mayor.line:10003000=
-//TODO Translate [Reference] 'You'll probably find her hanging out around the ^c:1486b0;building store^c:pop;.'
-staxel.village.dialogue.Mayor.line:10003100=
-//TODO Translate [Reference] 'If not, your ^c:d03e37;map^c:pop; might be able to help you locate her.'
-staxel.village.dialogue.Mayor.line:10003150=
-//TODO Translate [Reference] 'Come and see me once it's all done and we'll get you some ^c:d03e37;cows^c:pop;!'
-staxel.village.dialogue.Mayor.line:10003200=
-//TODO Translate [Reference] 'How are you faring at building that ^c:1486b0;barn^c:pop;?'
-staxel.village.dialogue.Mayor.line:10003300=
-//TODO Translate [Reference] '^c:1486b0;{0-mech_name}^c:pop; should be able to help you out!'
-staxel.village.dialogue.Mayor.line:10003400=
-//TODO Translate [Reference] 'She's usually hanging out around the ^c:1486b0;building store^c:pop; during the day.'
-staxel.village.dialogue.Mayor.line:10003500=
-//TODO Translate [Reference] 'I've been hearing about the fabulous new ^c:1486b0;barn^c:pop; you built!'
-staxel.village.dialogue.Mayor.line:10003800=
-//TODO Translate [Reference] 'Sounds like everything is in order.'
-staxel.village.dialogue.Mayor.line:10003900=
-//TODO Translate [Reference] 'Here are the few ^c:d03e37;cows^c:pop; we managed to round up.'
-staxel.village.dialogue.Mayor.line:10004000=
-//TODO Translate [Reference] 'They all ran away when the previous owner left.'
-staxel.village.dialogue.Mayor.line:10004100=
-//TODO Translate [Reference] 'Good luck!'
-staxel.village.dialogue.Mayor.line:10004200=
-//TODO Translate [Reference] 'By the way, we've been looking for good builders for a long time.'
-staxel.village.dialogue.Mayor.line:10004300=
-//TODO Translate [Reference] 'Sometimes we get notices from people who want to move in here.'
-staxel.village.dialogue.Mayor.line:10004400=
-//TODO Translate [Reference] 'Before that, they need a house to live in.'
-staxel.village.dialogue.Mayor.line:10004500=
-//TODO Translate [Reference] 'Given your impressive work on the ^c:1486b0;barn^c:pop;, we'd love your help!'
-staxel.village.dialogue.Mayor.line:10004600=
-//TODO Translate [Reference] 'Come check in with me every once in a while!'
-staxel.village.dialogue.Mayor.line:10004700=
-//TODO Translate [Reference] 'New requests usually come in every week or so.'
-staxel.village.dialogue.Mayor.line:10004710=
-//TODO Translate [Reference] 'In the meantime, it might be a good idea to get to know everyone!'
-staxel.village.dialogue.Mayor.line:10004720=
-//TODO Translate [Reference] 'There's bound to be someone looking for assistance.'
-staxel.village.dialogue.Mayor.line:10004730=
-//TODO Translate [Reference] 'I know ^c:1486b0;{0-caith_name}^c:pop; has been moping around quite a bit ever since she arrived...'
-staxel.village.dialogue.Mayor.line:10004740=
-//TODO Translate [Reference] 'She's bound to have a task for you.'
-staxel.village.dialogue.Mayor.line:10004750=
-//TODO Translate [Reference] 'If that doesn't appeal, you can always head off exploring or kick back and look after the farm!'
-staxel.village.dialogue.Mayor.line:10004760=
-//TODO Translate [Reference] 'It's all up to you really! We just want to see what you make of the place!'
-staxel.village.dialogue.Mayor.line:10004770=
-//TODO Translate [Reference] 'Looks like someone new wants to move in!'
-staxel.village.dialogue.Mayor.line:10004800=
-//TODO Translate [Reference] 'Stick this ^c:d03e37;postbox^c:pop; somewhere and use it to build a house!'
-staxel.village.dialogue.Mayor.line:10004900=
-//TODO Translate [Reference] 'Once it's built, they'll move in the next day!'
-staxel.village.dialogue.Mayor.line:10005000=
-//TODO Translate [Reference] 'Hmm...'
-staxel.village.dialogue.Mayor.line:10005100=
-//TODO Translate [Reference] 'What happened to your ^c:d03e37;{0-ttm}^c:pop;?'
-staxel.village.dialogue.Mayor.line:10005200=
-//TODO Translate [Reference] 'Make sure you use it to build our future resident a home!'
-staxel.village.dialogue.Mayor.line:10005300=
+//[Reference] 'Now that I think about it, I haven't properly introduced myself.'
+staxel.village.dialogue.Mayor.line:10000100=Теперь, когда я думаю об этом, я понимаю, что не представил себя должным образом..
+//[Reference] 'I'm the mayor of this little town.'
+staxel.village.dialogue.Mayor.line:10000200=Я - мэр в этом маленьком городке.
+//[Reference] 'Oh, is that your ^c:d03e37;Farm Registration Letter^c:pop;?'
+staxel.village.dialogue.Mayor.line:10001300=Ой, это твое ^c:d03e37;письмо регистрации фермы^c:pop;?
+//[Reference] 'How nice! Let me just take that off you for filing.'
+staxel.village.dialogue.Mayor.line:10001400=Как замечательно! Теперь, позволь, я заберу его у тебя, чтобы заполнить.
+//[Reference] 'In return, you get your ^c:d03e37;license^c:pop; and some very handy items!'
+staxel.village.dialogue.Mayor.line:10001500=Взамен я выдам тебе ^c:d03e37;лицензию^c:pop; и несколько полезных вещиц!
+//[Reference] 'Do you want to turn in your ^c:d03e37;Registration Letter^c:pop;?'
+staxel.village.dialogue.Mayor.line:10001600=Ты готов сдать свою ^c:d03e37;регистрационную форму^c:pop;?
+//[Reference] 'Yes, please!'
+staxel.village.dialogue.Mayor.line:10001700=Да, вот она!
+//[Reference] 'No, not just yet'
+staxel.village.dialogue.Mayor.line:10001800=Нет, не сейчас.
+//[Reference] 'Marvellous! Here is your ^c:d03e37;license^c:pop;.'
+staxel.village.dialogue.Mayor.line:10001900=Изумительно! Вот твоя ^c:d03e37;лицензия^c:pop;.
+//[Reference] 'We also have a few extras for you.'
+staxel.village.dialogue.Mayor.line:10002000=У нас также есть несколько дополнительных услуг.
+//[Reference] 'We're all looking forward to seeing the farm revitalised!'
+staxel.village.dialogue.Mayor.line:10002100=Мы все с нетерпением ждем возрождения фермы!
+//[Reference] 'As you wish!'
+staxel.village.dialogue.Mayor.line:10002200=Как пожелаешь!
+//[Reference] 'You can still turn it in later if you change your mind!'
+staxel.village.dialogue.Mayor.line:10002300=Ты все еще можешь сдать ее позже, если изменишь мнение.
+//[Reference] 'I imagine I'll be seeing you quite often!'
+staxel.village.dialogue.Mayor.line:10002400=Я думаю, что мы будем видеться достаточно часто!
+//[Reference] 'Now that you're a fully licensed farmer...'
+staxel.village.dialogue.Mayor.line:10002500=Теперь, когда ты совершенно лицензированный фермер...
+//[Reference] 'We can finally get those stray ^c:d03e37;cattle^c:pop; off our hands!'
+staxel.village.dialogue.Mayor.line:10002600=Наконец, есть кому позаботиться об этих заблудших ^c:d03e37;коровах^c:pop;!
+//[Reference] 'But before we can do that, you need to build a ^c:1486b0;barn^c:pop;.'
+staxel.village.dialogue.Mayor.line:10002700=Но прежде всего тебе нужно построить ^c:1486b0;сарай^c:pop;.
+//[Reference] 'I'm not really sure I'm the best person to teach you these things.'
+staxel.village.dialogue.Mayor.line:10002800=Я не уверен, что я лучший кандидат на роль человека, который обучит тебя этому.
+//[Reference] 'I'd suggest you go see ^c:1486b0;{0-mech_name}^c:pop;!'
+staxel.village.dialogue.Mayor.line:10002900=Могу предложить повидаться с ^c:1486b0;{0-mech_name}^c:pop;!
+//[Reference] 'She'll help you out with all the parts you need.'
+staxel.village.dialogue.Mayor.line:10003000=Она поможет тебе со всеми необходимыми деталями.
+//[Reference] 'You'll probably find her hanging out around the ^c:1486b0;building store^c:pop;.'
+staxel.village.dialogue.Mayor.line:10003100=Ты, вероятно, найдешь ее болтающейся поблизости ^c:1486b0;строительного магазина^c:pop;.
+//[Reference] 'If not, your ^c:d03e37;map^c:pop; might be able to help you locate her.'
+staxel.village.dialogue.Mayor.line:10003150=Если же нет, можножно, стоит воспользоваться ^c:d03e37;картой^c:pop.
+//[Reference] 'Come and see me once it's all done and we'll get you some ^c:d03e37;cows^c:pop;!'
+staxel.village.dialogue.Mayor.line:10003200=Приходи, когда сарай будет готов, и я отдам тебе этих ^c:d03e37;коров^c:pop;!
+//[Reference] 'How are you faring at building that ^c:1486b0;barn^c:pop;?'
+staxel.village.dialogue.Mayor.line:10003300=Как успехи с постройкой ^c:1486b0;сарая^c:pop;?
+//[Reference] '^c:1486b0;{0-mech_name}^c:pop; should be able to help you out!'
+staxel.village.dialogue.Mayor.line:10003400=^c:1486b0;{0-mech_name}^c:pop; должна вам помочь с этим!
+//[Reference] 'She's usually hanging out around the ^c:1486b0;building store^c:pop; during the day.'
+staxel.village.dialogue.Mayor.line:10003500=Обычно она слоняется вокруг ^c:1486b0;строительного магазина^c:pop; весь день.
+//[Reference] 'I've been hearing about the fabulous new ^c:1486b0;barn^c:pop; you built!'
+staxel.village.dialogue.Mayor.line:10003800=Я слышал о сказочном новом ^c:1486b0;сарае^c:pop;, который тебе удалось построить.
+//[Reference] 'Sounds like everything is in order.'
+staxel.village.dialogue.Mayor.line:10003900=Похоже, все в порядке.
+//[Reference] 'Here are the few ^c:d03e37;cows^c:pop; we managed to round up.'
+staxel.village.dialogue.Mayor.line:10004000=Вот пара ^c:d03e37;коров^c:pop;, которых нам удалось поймать.
+//[Reference] 'They all ran away when the previous owner left.'
+staxel.village.dialogue.Mayor.line:10004100=Они поразбегались кто куда, когда предыдущий владелец покинул ферму.
+//[Reference] 'Good luck!'
+staxel.village.dialogue.Mayor.line:10004200=Удачи!
+//[Reference] 'By the way, we've been looking for good builders for a long time.'
+staxel.village.dialogue.Mayor.line:10004300=Кстати, время от времени я нуждаюсь в услугах хорошего строителя.
+//[Reference] 'Sometimes we get notices from people who want to move in here.'
+staxel.village.dialogue.Mayor.line:10004400=Иногда мы получаем сообщения от людей, которые хотят переехать сюда.
+//[Reference] 'Before that, they need a house to live in.'
+staxel.village.dialogue.Mayor.line:10004500=До переезда им нужен дом для проживания.
+//[Reference] 'Given your impressive work on the ^c:1486b0;barn^c:pop;, we'd love your help!'
+staxel.village.dialogue.Mayor.line:10004600=Учитывая твою впечатляющую работу над ^c:1486b0;сараем^c:pop;, буду очень рад твоей помощи.
+//[Reference] 'Come check in with me every once in a while!'
+staxel.village.dialogue.Mayor.line:10004700=Просто заходи ко мне и проверяй это время от времени!
+//[Reference] 'New requests usually come in every week or so.'
+staxel.village.dialogue.Mayor.line:10004710=Новые запросы обычно приходят каждую неделю или около того.
+//[Reference] 'In the meantime, it might be a good idea to get to know everyone!'
+staxel.village.dialogue.Mayor.line:10004720=Между тем, это, вероятно, не плохая идея, чтобы познакомить тебя со всеми.
+//[Reference] 'There's bound to be someone looking for assistance.'
+staxel.village.dialogue.Mayor.line:10004730=Обязательно должен быть кто-то, кто ищет помощи.
+//[Reference] 'I know ^c:1486b0;{0-caith_name}^c:pop; has been moping around quite a bit ever since she arrived...'
+staxel.village.dialogue.Mayor.line:10004740=Я знаю, что ^c:1486b0;{0-caith_name}^c:pop; совсем раскисла с тех пор, как приехала...
+//[Reference] 'She's bound to have a task for you.'
+staxel.village.dialogue.Mayor.line:10004750=Я уверен, у нее найдется работа для тебя.
+//[Reference] 'If that doesn't appeal, you can always head off exploring or kick back and look after the farm!'
+staxel.village.dialogue.Mayor.line:10004760=Если тебе такое не по душе, ты всегда можешь заняться исследованиями или уйти с головой в заботы о ферме!
+//[Reference] 'It's all up to you really! We just want to see what you make of the place!'
+staxel.village.dialogue.Mayor.line:10004770=На самом деле, абсолютно все на твое усмотрение! Мы просто хотим увидеть, что ты сделаешь из этого места!
+//[Reference] 'Looks like someone new wants to move in!'
+staxel.village.dialogue.Mayor.line:10004800=Похоже, кто-то хочет переехать в наш город!
+//[Reference] 'Stick this ^c:d03e37;postbox^c:pop; somewhere and use it to build a house!'
+staxel.village.dialogue.Mayor.line:10004900=Установи этот ^c:d03e37;почтовый ящик^c:pop; где-нибудь в городе и принимайся за постройку дома!
+//[Reference] 'Once it's built, they'll move in the next day!'
+staxel.village.dialogue.Mayor.line:10005000=Как только он будет построен, его заселят на следующий же день!
+//[Reference] 'Hmm...'
+staxel.village.dialogue.Mayor.line:10005100=Хмм...
+//[Reference] 'What happened to your ^c:d03e37;{0-ttm}^c:pop;?'
+staxel.village.dialogue.Mayor.line:10005200=Что случилось с твоим ^c:d03e37;{0-ttm}^c:pop;?
+//[Reference] 'Make sure you use it to build our future resident a home!'
+staxel.village.dialogue.Mayor.line:10005300=Убедись, что ты используешь его, чтобы построить дом для нашего будущего поселенца!
