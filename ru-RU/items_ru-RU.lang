@@ -2,1093 +2,1093 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'White powder for baking.'
-staxel.item.crafting.BakingPowder.description=
-//TODO Translate [Reference] 'Baking Powder'
-staxel.item.crafting.BakingPowder.name=
-//TODO Translate [Reference] 'Used to bake food in an oven.'
-staxel.item.crafting.BakingTray.description=
-//TODO Translate [Reference] 'Baking Tray'
-staxel.item.crafting.BakingTray.name=
-//TODO Translate [Reference] 'They're fresh and plentiful.'
-staxel.item.crafting.Blueberries.description=
-//TODO Translate [Reference] 'Blueberries'
-staxel.item.crafting.Blueberries.name=
-//TODO Translate [Reference] 'A white bowl.'
-staxel.item.crafting.Bowl.description=
-//TODO Translate [Reference] 'Bowl'
-staxel.item.crafting.Bowl.name=
-//TODO Translate [Reference] 'A loaf of bread.'
-staxel.item.crafting.Bread.description=
-//TODO Translate [Reference] 'Bread'
-staxel.item.crafting.Bread.name=
-//TODO Translate [Reference] 'A freshly cut slice of bread.'
-staxel.item.crafting.BreadSlice.description=
-//TODO Translate [Reference] 'Bread slice'
-staxel.item.crafting.BreadSlice.name=
-//TODO Translate [Reference] 'It's like sugar, but brown!'
-staxel.item.crafting.BrownSugar.description=
-//TODO Translate [Reference] 'Brown sugar'
-staxel.item.crafting.BrownSugar.name=
-//TODO Translate [Reference] 'A multipurpose miracle product. Useful for many recipes!'
-staxel.item.crafting.Butter.description=
-//TODO Translate [Reference] 'Butter'
-staxel.item.crafting.Butter.name=
+//[Reference] 'White powder for baking.'
+staxel.item.crafting.BakingPowder.description=Белый порошок для выпекания.
+//[Reference] 'Baking Powder'
+staxel.item.crafting.BakingPowder.name=Разрыхлитель
+//[Reference] 'Used to bake food in an oven.'
+staxel.item.crafting.BakingTray.description=Используется для запекания пищи в духовке.
+//[Reference] 'Baking Tray'
+staxel.item.crafting.BakingTray.name=Протвень
+//[Reference] 'They're fresh and plentiful.'
+staxel.item.crafting.Blueberries.description=Она свежая и ее много.
+//[Reference] 'Blueberries'
+staxel.item.crafting.Blueberries.name=Черника
+//[Reference] 'A white bowl.'
+staxel.item.crafting.Bowl.description=Белая миска.
+//[Reference] 'Bowl'
+staxel.item.crafting.Bowl.name=Миска
+//[Reference] 'A loaf of bread.'
+staxel.item.crafting.Bread.description=Буханка хлеба.
+//[Reference] 'Bread'
+staxel.item.crafting.Bread.name=Хлеб
+//[Reference] 'A freshly cut slice of bread.'
+staxel.item.crafting.BreadSlice.description=Свежесрезанный кусок хлеба.
+//[Reference] 'Bread slice'
+staxel.item.crafting.BreadSlice.name=Кусок хлеба
+//[Reference] 'It's like sugar, but brown!'
+staxel.item.crafting.BrownSugar.description=Такой же, как сахар, только коричневый!
+//[Reference] 'Brown sugar'
+staxel.item.crafting.BrownSugar.name=Неочищенный сахар
+//[Reference] 'A multipurpose miracle product. Useful for many recipes!'
+staxel.item.crafting.Butter.description=Многоцелевой чудо-продукт. используется во многих рецептов!
+//[Reference] 'Butter'
+staxel.item.crafting.Butter.name=масло
 staxel.item.crafting.Buttermilk.description=
-//TODO Translate [Reference] 'Buttermilk'
-staxel.item.crafting.Buttermilk.name=
+//[Reference] 'Buttermilk'
+staxel.item.crafting.Buttermilk.name=Сыворотка
 staxel.item.crafting.CakeCarrot.description=
-//TODO Translate [Reference] 'Carrot Cake'
-staxel.item.crafting.CakeCarrot.name=
+//[Reference] 'Carrot Cake'
+staxel.item.crafting.CakeCarrot.name=Морковный пирог
 staxel.item.crafting.CakeCarrotBatter.description=
-//TODO Translate [Reference] 'Carrot Cake Batter'
-staxel.item.crafting.CakeCarrotBatter.name=
-//TODO Translate [Reference] 'One of the classics, you can't go wrong with a chocolate cake.'
-staxel.item.crafting.CakeChocolate.description=
-//TODO Translate [Reference] 'Chocolate Cake'
-staxel.item.crafting.CakeChocolate.name=
+//[Reference] 'Carrot Cake Batter'
+staxel.item.crafting.CakeCarrotBatter.name=Основа для морковного пирога
+//[Reference] 'One of the classics, you can't go wrong with a chocolate cake.'
+staxel.item.crafting.CakeChocolate.description=Классика! Ты не ошибешься с шоколадным тортом.
+//[Reference] 'Chocolate Cake'
+staxel.item.crafting.CakeChocolate.name=Шоколадный пирог
 staxel.item.crafting.CakeChocolateBatter.description=
-//TODO Translate [Reference] 'Chocolate Cake Batter'
-staxel.item.crafting.CakeChocolateBatter.name=
+//[Reference] 'Chocolate Cake Batter'
+staxel.item.crafting.CakeChocolateBatter.name=Основа для шоколадного пирога
 staxel.item.crafting.CakeJam.description=
-//TODO Translate [Reference] 'Jam Cake'
-staxel.item.crafting.CakeJam.name=
+//[Reference] 'Jam Cake'
+staxel.item.crafting.CakeJam.name=Пирог с джемом
 staxel.item.crafting.CakePlain.description=
-//TODO Translate [Reference] 'Cake'
-staxel.item.crafting.CakePlain.name=
+//[Reference] 'Cake'
+staxel.item.crafting.CakePlain.name=Пирог
 staxel.item.crafting.CakePlainBatter.description=
-//TODO Translate [Reference] 'Cake Batter'
-staxel.item.crafting.CakePlainBatter.name=
-//TODO Translate [Reference] 'A circular cake tin, for round cakes!'
-staxel.item.crafting.CakeTin_Circle.description=
-//TODO Translate [Reference] 'Circle Cake Tin'
-staxel.item.crafting.CakeTin_Circle.name=
+//[Reference] 'Cake Batter'
+staxel.item.crafting.CakePlainBatter.name=Основа для пирога
+//[Reference] 'A circular cake tin, for round cakes!'
+staxel.item.crafting.CakeTin_Circle.description=Круглая оловянная формочка, для круглых пирогов!
+//[Reference] 'Circle Cake Tin'
+staxel.item.crafting.CakeTin_Circle.name=Круглая формочка
 staxel.item.crafting.CakeTin_Circle_Batter.description=
-//TODO Translate [Reference] 'Batter-Filled Cake Tin'
-staxel.item.crafting.CakeTin_Circle_Batter.name=
+//[Reference] 'Batter-Filled Cake Tin'
+staxel.item.crafting.CakeTin_Circle_Batter.name=Круглая формочка с тестом
 staxel.item.crafting.CandyBlue.description=
-//TODO Translate [Reference] 'Blue Candy'
-staxel.item.crafting.CandyBlue.name=
-//TODO Translate [Reference] 'A delicious treat, everything's better with chocolate!'
-staxel.item.crafting.CandyChocolateBar.description=
-//TODO Translate [Reference] 'Chocolate Bar'
-staxel.item.crafting.CandyChocolateBar.name=
+//[Reference] 'Blue Candy'
+staxel.item.crafting.CandyBlue.name=Голубая конфета
+//[Reference] 'A delicious treat, everything's better with chocolate!'
+staxel.item.crafting.CandyChocolateBar.description=Вкусное лакомство, все лучше с шоколадом!
+//[Reference] 'Chocolate Bar'
+staxel.item.crafting.CandyChocolateBar.name=Шоколадная плитка
 staxel.item.crafting.CandyGreen.description=
-//TODO Translate [Reference] 'Green Candy'
-staxel.item.crafting.CandyGreen.name=
-//TODO Translate [Reference] 'A delicious red lollipop!'
-staxel.item.crafting.CandyLollipop.description=
-//TODO Translate [Reference] 'Lollipop'
-staxel.item.crafting.CandyLollipop.name=
+//[Reference] 'Green Candy'
+staxel.item.crafting.CandyGreen.name=Зеленая конфета
+//[Reference] 'A delicious red lollipop!'
+staxel.item.crafting.CandyLollipop.description=Вкусный красный леденец!
+//[Reference] 'Lollipop'
+staxel.item.crafting.CandyLollipop.name=Леденец
 staxel.item.crafting.CandyOrange.description=
-//TODO Translate [Reference] 'Orange Candy'
-staxel.item.crafting.CandyOrange.name=
+//[Reference] 'Orange Candy'
+staxel.item.crafting.CandyOrange.name=Оранжевая конфета
 staxel.item.crafting.CandyPink.description=
-//TODO Translate [Reference] 'Pink Candy'
-staxel.item.crafting.CandyPink.name=
+//[Reference] 'Pink Candy'
+staxel.item.crafting.CandyPink.name=Розовая конфета
 staxel.item.crafting.CandyPurple.description=
-//TODO Translate [Reference] 'Purple Candy'
-staxel.item.crafting.CandyPurple.name=
+//[Reference] 'Purple Candy'
+staxel.item.crafting.CandyPurple.name=Фиолетовая конфета
 staxel.item.crafting.CandyRed.description=
-//TODO Translate [Reference] 'Red Candy'
-staxel.item.crafting.CandyRed.name=
+//[Reference] 'Red Candy'
+staxel.item.crafting.CandyRed.name=Красная конфета
 staxel.item.crafting.CandyYellow.description=
-//TODO Translate [Reference] 'Yellow Candy'
-staxel.item.crafting.CandyYellow.name=
-//TODO Translate [Reference] 'A healthy looking carrot.'
-staxel.item.crafting.Carrot.description=
-//TODO Translate [Reference] 'Carrot'
-staxel.item.crafting.Carrot.name=
+//[Reference] 'Yellow Candy'
+staxel.item.crafting.CandyYellow.name=Желтая конфета
+//[Reference] 'A healthy looking carrot.'
+staxel.item.crafting.Carrot.description=Морковка, выглядит полезной.
+//[Reference] 'Carrot'
+staxel.item.crafting.Carrot.name=Морковка
 staxel.item.crafting.Cheese.description=
-//TODO Translate [Reference] 'Cheese'
-staxel.item.crafting.Cheese.name=
-//TODO Translate [Reference] 'Useful in many recipes, everybody likes chocolate!'
-staxel.item.crafting.Chocolate.description=
-//TODO Translate [Reference] 'Chocolate'
-staxel.item.crafting.Chocolate.name=
-//TODO Translate [Reference] 'Chopped up apple.'
-staxel.item.crafting.ChoppedApple.description=
-//TODO Translate [Reference] 'Chopped Apple'
-staxel.item.crafting.ChoppedApple.name=
-//TODO Translate [Reference] 'Chopped up beet.'
-staxel.item.crafting.ChoppedBeet.description=
-//TODO Translate [Reference] 'Chopped Beet'
-staxel.item.crafting.ChoppedBeet.name=
+//[Reference] 'Cheese'
+staxel.item.crafting.Cheese.name=Сыр
+//[Reference] 'Useful in many recipes, everybody likes chocolate!'
+staxel.item.crafting.Chocolate.description=Используется во многих рецептах, все любят шоколад!
+//[Reference] 'Chocolate'
+staxel.item.crafting.Chocolate.name=Шоколад
+//[Reference] 'Chopped up apple.'
+staxel.item.crafting.ChoppedApple.description=Измельченное яблоко.
+//[Reference] 'Chopped Apple'
+staxel.item.crafting.ChoppedApple.name=Нарезанное яблоко
+//[Reference] 'Chopped up beet.'
+staxel.item.crafting.ChoppedBeet.description=Измельченная репа.
+//[Reference] 'Chopped Beet'
+staxel.item.crafting.ChoppedBeet.name=Нарезанная репа
 staxel.item.crafting.ChoppedBlackberries.description=
-//TODO Translate [Reference] 'Chopped Blackberries'
-staxel.item.crafting.ChoppedBlackberries.name=
+//[Reference] 'Chopped Blackberries'
+staxel.item.crafting.ChoppedBlackberries.name=Порезанная ежевика
 staxel.item.crafting.ChoppedBlueberries.description=
-//TODO Translate [Reference] 'Chopped Blueberries'
-staxel.item.crafting.ChoppedBlueberries.name=
+//[Reference] 'Chopped Blueberries'
+staxel.item.crafting.ChoppedBlueberries.name=Порезанная черника
 staxel.item.crafting.ChoppedCabbage.description=
-//TODO Translate [Reference] 'Chopped Cabbage'
-staxel.item.crafting.ChoppedCabbage.name=
-//TODO Translate [Reference] 'Chopped up carrot.'
-staxel.item.crafting.ChoppedCarrot.description=
-//TODO Translate [Reference] 'Chopped Carrot'
-staxel.item.crafting.ChoppedCarrot.name=
-//TODO Translate [Reference] 'Chopped up cherries.'
-staxel.item.crafting.ChoppedCherries.description=
-//TODO Translate [Reference] 'Chopped Cherries'
-staxel.item.crafting.ChoppedCherries.name=
-//TODO Translate [Reference] 'Chopped up corn.'
-staxel.item.crafting.ChoppedCorn.description=
-//TODO Translate [Reference] 'Chopped Corn'
-staxel.item.crafting.ChoppedCorn.name=
-//TODO Translate [Reference] 'Chopped up cucumber.'
-staxel.item.crafting.ChoppedCucumber.description=
-//TODO Translate [Reference] 'Chopped Cucumber'
-staxel.item.crafting.ChoppedCucumber.name=
-//TODO Translate [Reference] 'Chopped up dragonfruit.'
-staxel.item.crafting.ChoppedDragonfruit.description=
-//TODO Translate [Reference] 'Chopped Dragon Fruit'
-staxel.item.crafting.ChoppedDragonfruit.name=
-//TODO Translate [Reference] 'Chopped up eggplant'
-staxel.item.crafting.ChoppedEggplant.description=
-//TODO Translate [Reference] 'Chopped Eggplant'
-staxel.item.crafting.ChoppedEggplant.name=
-//TODO Translate [Reference] 'Chopped up kiwi.'
-staxel.item.crafting.ChoppedKiwi.description=
-//TODO Translate [Reference] 'Chopped Kiwi'
-staxel.item.crafting.ChoppedKiwi.name=
-//TODO Translate [Reference] 'Chopped up lemon.'
-staxel.item.crafting.ChoppedLemon.description=
-//TODO Translate [Reference] 'Chopped Lemon'
-staxel.item.crafting.ChoppedLemon.name=
-//TODO Translate [Reference] 'Chopped up lettuce.'
-staxel.item.crafting.ChoppedLettuce.description=
-//TODO Translate [Reference] 'Chopped Lettuce'
-staxel.item.crafting.ChoppedLettuce.name=
-//TODO Translate [Reference] 'Chopped up lime.'
-staxel.item.crafting.ChoppedLime.description=
-//TODO Translate [Reference] 'Chopped Lime'
-staxel.item.crafting.ChoppedLime.name=
-//TODO Translate [Reference] 'Chopped up mango.'
-staxel.item.crafting.ChoppedMango.description=
-//TODO Translate [Reference] 'Chopped Mango'
-staxel.item.crafting.ChoppedMango.name=
-//TODO Translate [Reference] 'Chopped up onion.'
-staxel.item.crafting.ChoppedOnion.description=
-//TODO Translate [Reference] 'Chopped Onion'
-staxel.item.crafting.ChoppedOnion.name=
-//TODO Translate [Reference] 'Chopped up orange.'
-staxel.item.crafting.ChoppedOrange.description=
-//TODO Translate [Reference] 'Chopped Orange'
-staxel.item.crafting.ChoppedOrange.name=
-//TODO Translate [Reference] 'Chopped up peach.'
-staxel.item.crafting.ChoppedPeach.description=
-//TODO Translate [Reference] 'Chopped Peach'
-staxel.item.crafting.ChoppedPeach.name=
-//TODO Translate [Reference] 'Chopped up pear.'
-staxel.item.crafting.ChoppedPear.description=
-//TODO Translate [Reference] 'Chopped Pear'
-staxel.item.crafting.ChoppedPear.name=
-//TODO Translate [Reference] 'Chopped up potato.'
-staxel.item.crafting.ChoppedPotato.description=
-//TODO Translate [Reference] 'Chopped Potato'
-staxel.item.crafting.ChoppedPotato.name=
-//TODO Translate [Reference] 'Chopped up pumpkin.'
-staxel.item.crafting.ChoppedPumpkin.description=
-//TODO Translate [Reference] 'Chopped Pumpkin'
-staxel.item.crafting.ChoppedPumpkin.name=
-//TODO Translate [Reference] 'Chopped up raspberries.'
-staxel.item.crafting.ChoppedRaspberries.description=
-//TODO Translate [Reference] 'Chopped Raspberries'
-staxel.item.crafting.ChoppedRaspberries.name=
-//TODO Translate [Reference] 'Chopped up strawberries.'
-staxel.item.crafting.ChoppedStrawberries.description=
-//TODO Translate [Reference] 'Chopped Strawberries'
-staxel.item.crafting.ChoppedStrawberries.name=
-//TODO Translate [Reference] 'Chopped up sugar beet.'
-staxel.item.crafting.ChoppedSugarBeet.description=
-//TODO Translate [Reference] 'Chopped Sugar Beet'
-staxel.item.crafting.ChoppedSugarBeet.name=
-//TODO Translate [Reference] 'Chopped up sweet potato.'
-staxel.item.crafting.ChoppedSweetPotato.description=
-//TODO Translate [Reference] 'Chopped Sweet Potato'
-staxel.item.crafting.ChoppedSweetPotato.name=
-//TODO Translate [Reference] 'Chopped up tangerine.'
-staxel.item.crafting.ChoppedTangerine.description=
-//TODO Translate [Reference] 'Chopped Tangerine'
-staxel.item.crafting.ChoppedTangerine.name=
-//TODO Translate [Reference] 'Chopped up tomato.'
-staxel.item.crafting.ChoppedTomato.description=
-//TODO Translate [Reference] 'Chopped Tomato'
-staxel.item.crafting.ChoppedTomato.name=
-//TODO Translate [Reference] 'Chopped up turnip.'
-staxel.item.crafting.ChoppedTurnip.description=
-//TODO Translate [Reference] 'Chopped Turnip'
-staxel.item.crafting.ChoppedTurnip.name=
-//TODO Translate [Reference] 'A chopping board is used to chop, slice and dice ingredients.'
-staxel.item.crafting.ChoppingBoard.description=
-//TODO Translate [Reference] 'Chopping Board'
-staxel.item.crafting.ChoppingBoard.name=
-//TODO Translate [Reference] 'Chocolate chip cookies, with extra chocolate chip!'
-staxel.item.crafting.CookiesChocolateChip.description=
-//TODO Translate [Reference] 'Chocolate Chip Cookies'
-staxel.item.crafting.CookiesChocolateChip.name=
-//TODO Translate [Reference] 'These may be plain cookies, but they smell divine.'
-staxel.item.crafting.CookiesPlain.description=
-//TODO Translate [Reference] 'Cookies'
-staxel.item.crafting.CookiesPlain.name=
-//TODO Translate [Reference] 'It's like milk, but thicker!'
-staxel.item.crafting.Cream.description=
-//TODO Translate [Reference] 'Cream'
-staxel.item.crafting.Cream.name=
-//TODO Translate [Reference] 'A standard egg, good for selling or cooking.'
-staxel.item.crafting.Egg.description=
-//TODO Translate [Reference] 'Egg'
-staxel.item.crafting.Egg.name=
-//TODO Translate [Reference] 'Looks disgusting.'
-staxel.item.crafting.FailedDish.description=
-//TODO Translate [Reference] 'Failed Dish'
-staxel.item.crafting.FailedDish.name=
-//TODO Translate [Reference] 'If you need to fry something, you should use this. It's a frying pan.'
-staxel.item.crafting.FryingPan.description=
-//TODO Translate [Reference] 'Frying Pan'
-staxel.item.crafting.FryingPan.name=
-//TODO Translate [Reference] 'Used for sawing resources manually.'
-staxel.item.crafting.HandSaw.description=
-//TODO Translate [Reference] 'Handsaw'
-staxel.item.crafting.HandSaw.name=
-//TODO Translate [Reference] 'Great for barbeques, make sure to bring ketchup and mustard!'
-staxel.item.crafting.Hotdogs.description=
-//TODO Translate [Reference] 'Hotdogs'
-staxel.item.crafting.Hotdogs.name=
-//TODO Translate [Reference] 'Mmm, the icing looks delicious! The whole thing looks good but the icing is the icing on the cake.'
-staxel.item.crafting.IcedCake.description=
-//TODO Translate [Reference] 'Iced cake'
-staxel.item.crafting.IcedCake.name=
-//TODO Translate [Reference] 'Blackberry jam, made from real blackberries!'
-staxel.item.crafting.JamBlackberry.description=
-//TODO Translate [Reference] 'Blackberry Jam'
-staxel.item.crafting.JamBlackberry.name=
-//TODO Translate [Reference] 'Ooh, blueberry jam! What a rich colour.'
-staxel.item.crafting.JamBlueberry.description=
-//TODO Translate [Reference] 'Blueberry Jam'
-staxel.item.crafting.JamBlueberry.name=
+//[Reference] 'Chopped Cabbage'
+staxel.item.crafting.ChoppedCabbage.name=Нарезанная капуста
+//[Reference] 'Chopped up carrot.'
+staxel.item.crafting.ChoppedCarrot.description=Измельченная морковь.
+//[Reference] 'Chopped Carrot'
+staxel.item.crafting.ChoppedCarrot.name=Нарезанная морковь
+//[Reference] 'Chopped up cherries.'
+staxel.item.crafting.ChoppedCherries.description=Измельченная вишня.
+//[Reference] 'Chopped Cherries'
+staxel.item.crafting.ChoppedCherries.name=Порезанная вишня
+//[Reference] 'Chopped up corn.'
+staxel.item.crafting.ChoppedCorn.description=Измельченная кукуруза.
+//[Reference] 'Chopped Corn'
+staxel.item.crafting.ChoppedCorn.name=Порезанная кукуруза
+//[Reference] 'Chopped up cucumber.'
+staxel.item.crafting.ChoppedCucumber.description=Измельченный огурец.
+//[Reference] 'Chopped Cucumber'
+staxel.item.crafting.ChoppedCucumber.name=Нарезанный огурец
+//[Reference] 'Chopped up dragonfruit.'
+staxel.item.crafting.ChoppedDragonfruit.description=Измельченная питайя.
+//[Reference] 'Chopped Dragon Fruit'
+staxel.item.crafting.ChoppedDragonfruit.name=Нарезанная питайя
+//[Reference] 'Chopped up eggplant'
+staxel.item.crafting.ChoppedEggplant.description=Измельченный баклажан.
+//[Reference] 'Chopped Eggplant'
+staxel.item.crafting.ChoppedEggplant.name=Нарезанный баклажан
+//[Reference] 'Chopped up kiwi.'
+staxel.item.crafting.ChoppedKiwi.description=Измельченный киви.
+//[Reference] 'Chopped Kiwi'
+staxel.item.crafting.ChoppedKiwi.name=Нарезанный киви
+//[Reference] 'Chopped up lemon.'
+staxel.item.crafting.ChoppedLemon.description=Измельченный лимон.
+//[Reference] 'Chopped Lemon'
+staxel.item.crafting.ChoppedLemon.name=Нарезаный лимон
+//[Reference] 'Chopped up lettuce.'
+staxel.item.crafting.ChoppedLettuce.description=Измельченный салат.
+//[Reference] 'Chopped Lettuce'
+staxel.item.crafting.ChoppedLettuce.name=Нарезаный салат
+//[Reference] 'Chopped up lime.'
+staxel.item.crafting.ChoppedLime.description=Измельченный лайм.
+//[Reference] 'Chopped Lime'
+staxel.item.crafting.ChoppedLime.name=Нарезанный лайм
+//[Reference] 'Chopped up mango.'
+staxel.item.crafting.ChoppedMango.description=Измельченное манго.
+//[Reference] 'Chopped Mango'
+staxel.item.crafting.ChoppedMango.name=Нарезанное манго
+//[Reference] 'Chopped up onion.'
+staxel.item.crafting.ChoppedOnion.description=Измельченный лук.
+//[Reference] 'Chopped Onion'
+staxel.item.crafting.ChoppedOnion.name=Нарезанный лук
+//[Reference] 'Chopped up orange.'
+staxel.item.crafting.ChoppedOrange.description=Измельченный апельсин.
+//[Reference] 'Chopped Orange'
+staxel.item.crafting.ChoppedOrange.name=Нарезаный апельсин
+//[Reference] 'Chopped up peach.'
+staxel.item.crafting.ChoppedPeach.description=Измельченный персик.
+//[Reference] 'Chopped Peach'
+staxel.item.crafting.ChoppedPeach.name=Нарезанный персик
+//[Reference] 'Chopped up pear.'
+staxel.item.crafting.ChoppedPear.description=Измельченная груша.
+//[Reference] 'Chopped Pear'
+staxel.item.crafting.ChoppedPear.name=Нарезанная груша
+//[Reference] 'Chopped up potato.'
+staxel.item.crafting.ChoppedPotato.description=Измельченный картофель.
+//[Reference] 'Chopped Potato'
+staxel.item.crafting.ChoppedPotato.name=Нарезанный картофель
+//[Reference] 'Chopped up pumpkin.'
+staxel.item.crafting.ChoppedPumpkin.description=Измельченная тыква.
+//[Reference] 'Chopped Pumpkin'
+staxel.item.crafting.ChoppedPumpkin.name=Нарезанная тыква
+//[Reference] 'Chopped up raspberries.'
+staxel.item.crafting.ChoppedRaspberries.description=Измельченная малина.
+//[Reference] 'Chopped Raspberries'
+staxel.item.crafting.ChoppedRaspberries.name=Порезанная малина
+//[Reference] 'Chopped up strawberries.'
+staxel.item.crafting.ChoppedStrawberries.description=Измельченная клубника.
+//[Reference] 'Chopped Strawberries'
+staxel.item.crafting.ChoppedStrawberries.name=Порезанная клубника
+//[Reference] 'Chopped up sugar beet.'
+staxel.item.crafting.ChoppedSugarBeet.description=Измельченная сахарная свекла.
+//[Reference] 'Chopped Sugar Beet'
+staxel.item.crafting.ChoppedSugarBeet.name=Нарезанная сахарная свекла
+//[Reference] 'Chopped up sweet potato.'
+staxel.item.crafting.ChoppedSweetPotato.description=Измельченный батат.
+//[Reference] 'Chopped Sweet Potato'
+staxel.item.crafting.ChoppedSweetPotato.name=Нарезанный батат
+//[Reference] 'Chopped up tangerine.'
+staxel.item.crafting.ChoppedTangerine.description=Измельченный мандарин.
+//[Reference] 'Chopped Tangerine'
+staxel.item.crafting.ChoppedTangerine.name=Нарезанный мандарин
+//[Reference] 'Chopped up tomato.'
+staxel.item.crafting.ChoppedTomato.description=Измельченный помидор.
+//[Reference] 'Chopped Tomato'
+staxel.item.crafting.ChoppedTomato.name=Нарезанный помидор
+//[Reference] 'Chopped up turnip.'
+staxel.item.crafting.ChoppedTurnip.description=Измельченная репа.
+//[Reference] 'Chopped Turnip'
+staxel.item.crafting.ChoppedTurnip.name=Нарезанная репа
+//[Reference] 'A chopping board is used to chop, slice and dice ingredients.'
+staxel.item.crafting.ChoppingBoard.description=Разделочная доска, используется для измельчения и нарезания полосками, стружкой и кубиками.
+//[Reference] 'Chopping Board'
+staxel.item.crafting.ChoppingBoard.name=Разделочная доска
+//[Reference] 'Chocolate chip cookies, with extra chocolate chip!'
+staxel.item.crafting.CookiesChocolateChip.description=Шоколадное печенье, обыльно усыпано шоколадной крошкой!
+//[Reference] 'Chocolate Chip Cookies'
+staxel.item.crafting.CookiesChocolateChip.name=Шоклоадное печенье
+//[Reference] 'These may be plain cookies, but they smell divine.'
+staxel.item.crafting.CookiesPlain.description=Это обычное печенье, но пахнет просто божественно.
+//[Reference] 'Cookies'
+staxel.item.crafting.CookiesPlain.name=Печенье
+//[Reference] 'It's like milk, but thicker!'
+staxel.item.crafting.Cream.description=Это как молоко, но гуще!
+//[Reference] 'Cream'
+staxel.item.crafting.Cream.name=Крем
+//[Reference] 'A standard egg, good for selling or cooking.'
+staxel.item.crafting.Egg.description=Обычное яйцо, хорошо и для готовки, и на продажу.
+//[Reference] 'Egg'
+staxel.item.crafting.Egg.name=Яйцо
+//[Reference] 'Looks disgusting.'
+staxel.item.crafting.FailedDish.description=Выглядит отвратительно.
+//[Reference] 'Failed Dish'
+staxel.item.crafting.FailedDish.name=Испорченная рыба
+//[Reference] 'If you need to fry something, you should use this. It's a frying pan.'
+staxel.item.crafting.FryingPan.description=Если нужно что-то пожарить, используй эту сковороду.
+//[Reference] 'Frying Pan'
+staxel.item.crafting.FryingPan.name=Сковорода
+//[Reference] 'Used for sawing resources manually.'
+staxel.item.crafting.HandSaw.description=Используется для распила ресурсов вручную.
+//[Reference] 'Handsaw'
+staxel.item.crafting.HandSaw.name=Пила
+//[Reference] 'Great for barbeques, make sure to bring ketchup and mustard!'
+staxel.item.crafting.Hotdogs.description=Отлично подходит для барбекю, не забудь кетчуп и горчицу!
+//[Reference] 'Hotdogs'
+staxel.item.crafting.Hotdogs.name=Хотдоги
+//[Reference] 'Mmm, the icing looks delicious! The whole thing looks good but the icing is the icing on the cake.'
+staxel.item.crafting.IcedCake.description=Ммм, глазурь выглядит восхитительно и тает во рту.
+//[Reference] 'Iced cake'
+staxel.item.crafting.IcedCake.name=Пирог с глазурью
+//[Reference] 'Blackberry jam, made from real blackberries!'
+staxel.item.crafting.JamBlackberry.description=Ежевичный джем, из настоящей ежевики!
+//[Reference] 'Blackberry Jam'
+staxel.item.crafting.JamBlackberry.name=Ежевичный джем
+//[Reference] 'Ooh, blueberry jam! What a rich colour.'
+staxel.item.crafting.JamBlueberry.description=Ах, черничный джем! Какой насыщенный цвет.
+//[Reference] 'Blueberry Jam'
+staxel.item.crafting.JamBlueberry.name=Черничный джем
 staxel.item.crafting.JamCherry.description=
-//TODO Translate [Reference] 'Cherry Jam'
-staxel.item.crafting.JamCherry.name=
+//[Reference] 'Cherry Jam'
+staxel.item.crafting.JamCherry.name=Вишневый джем
 staxel.item.crafting.JamDragonFruit.description=
-//TODO Translate [Reference] 'Dragon Fruit Jam'
-staxel.item.crafting.JamDragonFruit.name=
+//[Reference] 'Dragon Fruit Jam'
+staxel.item.crafting.JamDragonFruit.name=Джем из питайи
 staxel.item.crafting.JamRaspberry.description=
-//TODO Translate [Reference] 'Raspberry Jam'
-staxel.item.crafting.JamRaspberry.name=
-//TODO Translate [Reference] 'Ahh, in the morning nothing beats strawberry jam on toast!'
-staxel.item.crafting.JamStrawberry.description=
-//TODO Translate [Reference] 'Strawberry Jam'
-staxel.item.crafting.JamStrawberry.name=
-//TODO Translate [Reference] 'A clean, empty jar.'
-staxel.item.crafting.JarEmpty.description=
-//TODO Translate [Reference] 'Empty Jar'
-staxel.item.crafting.JarEmpty.name=
-//TODO Translate [Reference] 'A sharp, cooking knife. Be careful!'
-staxel.item.crafting.Knife.description=
-//TODO Translate [Reference] 'Knife'
-staxel.item.crafting.Knife.name=
+//[Reference] 'Raspberry Jam'
+staxel.item.crafting.JamRaspberry.name=Малиновый джем
+//[Reference] 'Ahh, in the morning nothing beats strawberry jam on toast!'
+staxel.item.crafting.JamStrawberry.description=Ах, по утрам нет ничего лучше тоста с малиновым джемом!
+//[Reference] 'Strawberry Jam'
+staxel.item.crafting.JamStrawberry.name=Клубничный джем
+//[Reference] 'A clean, empty jar.'
+staxel.item.crafting.JarEmpty.description=Чистая пустая банка.
+//[Reference] 'Empty Jar'
+staxel.item.crafting.JarEmpty.name=Пустая банка
+//[Reference] 'A sharp, cooking knife. Be careful!'
+staxel.item.crafting.Knife.description=Острый нож для готовки. Аккуратно!
+//[Reference] 'Knife'
+staxel.item.crafting.Knife.name=Нож
 staxel.item.crafting.MarmaladeLemon.description=
-//TODO Translate [Reference] 'Lemon Marmalade'
-staxel.item.crafting.MarmaladeLemon.name=
-//TODO Translate [Reference] 'This lime marmalade is brightly coloured!'
-staxel.item.crafting.MarmaladeLime.description=
-//TODO Translate [Reference] 'Lime Marmalade'
-staxel.item.crafting.MarmaladeLime.name=
+//[Reference] 'Lemon Marmalade'
+staxel.item.crafting.MarmaladeLemon.name=Лимонный мармелад
+//[Reference] 'This lime marmalade is brightly coloured!'
+staxel.item.crafting.MarmaladeLime.description=Этот лаймовый мармелад такой светлый и яркий!
+//[Reference] 'Lime Marmalade'
+staxel.item.crafting.MarmaladeLime.name=Лаймовый мармелад
 staxel.item.crafting.MarmaladeOrange.description=
-//TODO Translate [Reference] 'Orange Marmalade'
-staxel.item.crafting.MarmaladeOrange.name=
-//TODO Translate [Reference] 'Delicious, fresh milk!'
-staxel.item.crafting.Milk.description=
-//TODO Translate [Reference] 'Milk'
-staxel.item.crafting.Milk.name=
-//TODO Translate [Reference] 'A large bowl, solely used for mixing!'
-staxel.item.crafting.MixingBowl.description=
-//TODO Translate [Reference] 'Mixing Bowl'
-staxel.item.crafting.MixingBowl.name=
-//TODO Translate [Reference] 'Muffins with a healthy helping of blueberries!'
-staxel.item.crafting.MuffinsBlueberry.description=
-//TODO Translate [Reference] 'Blueberry muffins'
-staxel.item.crafting.MuffinsBlueberry.name=
-//TODO Translate [Reference] 'The chocolate chips are evenly spread out, yum!'
-staxel.item.crafting.MuffinsChocolateChip.description=
-//TODO Translate [Reference] 'Chocolate chip muffins'
-staxel.item.crafting.MuffinsChocolateChip.name=
-//TODO Translate [Reference] 'Plain muffins, baked to perfection.'
-staxel.item.crafting.MuffinsPlain.description=
-//TODO Translate [Reference] 'Plain muffins'
-staxel.item.crafting.MuffinsPlain.name=
-//TODO Translate [Reference] 'These strawberry muffins not only look great, they smell great!'
-staxel.item.crafting.MuffinsStrawberry.description=
-//TODO Translate [Reference] 'Strawberry muffins'
-staxel.item.crafting.MuffinsStrawberry.name=
-//TODO Translate [Reference] 'A muffin tin, used for baking cupcakes, muffins and more.'
-staxel.item.crafting.MuffinTin.description=
-//TODO Translate [Reference] 'Muffin Tin'
-staxel.item.crafting.MuffinTin.name=
-//TODO Translate [Reference] 'Nothing satisfies the throat quite like this silky beverage.'
-staxel.item.crafting.MugOSap.description=
-//TODO Translate [Reference] 'Mug O' Sap'
-staxel.item.crafting.MugOSap.name=
-//TODO Translate [Reference] 'Freshly picked, this mushroom looks safe to eat!'
-staxel.item.crafting.Mushroom.description=
-//TODO Translate [Reference] 'Mushroom'
-staxel.item.crafting.Mushroom.name=
-//TODO Translate [Reference] 'Chopped up mushroom.'
-staxel.item.crafting.MushroomCut.description=
-//TODO Translate [Reference] 'Chopped Mushroom'
-staxel.item.crafting.MushroomCut.name=
-//TODO Translate [Reference] 'Fresh oats. What a fine grain!'
-staxel.item.crafting.Oats.description=
-//TODO Translate [Reference] 'Oats'
-staxel.item.crafting.Oats.name=
-//TODO Translate [Reference] 'Chopped up onion.'
-staxel.item.crafting.OnionCut.description=
-//TODO Translate [Reference] 'Chopped Onion'
-staxel.item.crafting.OnionCut.name=
-//TODO Translate [Reference] 'Delicious orange juice, what a fine way to start the day.'
-staxel.item.crafting.OrangeJuice.description=
-//TODO Translate [Reference] 'Orange Juice'
-staxel.item.crafting.OrangeJuice.name=
-//TODO Translate [Reference] 'A delicious, golden, apple pie. Still warm from the oven!'
-staxel.item.crafting.PieApple.description=
-//TODO Translate [Reference] 'Apple Pie'
-staxel.item.crafting.PieApple.name=
-staxel.item.crafting.PieAppleUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Apple Pie'
-staxel.item.crafting.PieAppleUnbaked.name=
-//TODO Translate [Reference] 'A delicious, blackberry pie. Still warm from the oven!'
-staxel.item.crafting.PieBlackberry.description=
-//TODO Translate [Reference] 'Blackberry Pie'
-staxel.item.crafting.PieBlackberry.name=
-staxel.item.crafting.PieBlackberryUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Blackberry Pie'
-staxel.item.crafting.PieBlackberryUnbaked.name=
-//TODO Translate [Reference] 'A delicious, blueberry pie. Still warm from the oven!'
-staxel.item.crafting.PieBlueberry.description=
-//TODO Translate [Reference] 'Blueberry Pie'
-staxel.item.crafting.PieBlueberry.name=
-staxel.item.crafting.PieBlueberryUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Blueberry Pie'
-staxel.item.crafting.PieBlueberryUnbaked.name=
-//TODO Translate [Reference] 'A delicious, cherry pie. Still warm from the oven!'
-staxel.item.crafting.PieCherry.description=
-//TODO Translate [Reference] 'Cherry Pie'
-staxel.item.crafting.PieCherry.name=
-staxel.item.crafting.PieCherryUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Cherry Pie'
-staxel.item.crafting.PieCherryUnbaked.name=
-staxel.item.crafting.PieCrust.description=
-//TODO Translate [Reference] 'Pie Crust'
-staxel.item.crafting.PieCrust.name=
-//TODO Translate [Reference] 'A delicious, dragonfruit pie. Still warm from the oven!'
-staxel.item.crafting.PieDragonFruit.description=
-//TODO Translate [Reference] 'Dragon Fruit Pie'
-staxel.item.crafting.PieDragonFruit.name=
-staxel.item.crafting.PieDragonFruitUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Dragon Fruit Pie'
-staxel.item.crafting.PieDragonFruitUnbaked.name=
-//TODO Translate [Reference] 'A delicious, lemon pie. Still warm from the oven!'
-staxel.item.crafting.PieLemon.description=
-//TODO Translate [Reference] 'Lemon Pie'
-staxel.item.crafting.PieLemon.name=
-//TODO Translate [Reference] 'A perfect lemon pie, ready for baking!'
-staxel.item.crafting.PieLemonUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Lemon Pie'
-staxel.item.crafting.PieLemonUnbaked.name=
-//TODO Translate [Reference] 'A delicious, lime pie. Still warm from the oven!'
-staxel.item.crafting.PieLime.description=
-//TODO Translate [Reference] 'Key Lime Pie'
-staxel.item.crafting.PieLime.name=
-staxel.item.crafting.PieLimeUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Lime Pie'
-staxel.item.crafting.PieLimeUnbaked.name=
-//TODO Translate [Reference] 'A delicious, orange pie. Still warm from the oven!'
-staxel.item.crafting.PieOrange.description=
-//TODO Translate [Reference] 'Orange Pie'
-staxel.item.crafting.PieOrange.name=
-staxel.item.crafting.PieOrangeUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Orange Pie'
-staxel.item.crafting.PieOrangeUnbaked.name=
-//TODO Translate [Reference] 'A delicious, peach pie. Still warm from the oven!'
-staxel.item.crafting.PiePeach.description=
-//TODO Translate [Reference] 'Peach Pie'
-staxel.item.crafting.PiePeach.name=
-staxel.item.crafting.PiePeachUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Peach Pie'
-staxel.item.crafting.PiePeachUnbaked.name=
-//TODO Translate [Reference] 'A delicious, raspberry pie. Still warm from the oven!'
-staxel.item.crafting.PieRaspberry.description=
-//TODO Translate [Reference] 'Raspberry Pie'
-staxel.item.crafting.PieRaspberry.name=
-staxel.item.crafting.PieRaspberryUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Raspberry Pie'
-staxel.item.crafting.PieRaspberryUnbaked.name=
-//TODO Translate [Reference] 'A delicious, strawberry pie. Still warm from the oven!'
-staxel.item.crafting.PieStrawberry.description=
-//TODO Translate [Reference] 'Strawberry Pie'
-staxel.item.crafting.PieStrawberry.name=
-staxel.item.crafting.PieStrawberryUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Strawberry Pie'
-staxel.item.crafting.PieStrawberryUnbaked.name=
-//TODO Translate [Reference] 'A 'delicious', vegetable pie. Still warm from the oven!'
-staxel.item.crafting.PieVegetable.description=
-//TODO Translate [Reference] 'Vegetable Pie'
-staxel.item.crafting.PieVegetable.name=
-staxel.item.crafting.PieVegetableUnbaked.description=
-//TODO Translate [Reference] 'Unbaked Vegetable Pie'
-staxel.item.crafting.PieVegetableUnbaked.name=
-//TODO Translate [Reference] 'Plain flour has many uses, and used in plenty of cooking and baking recipes.'
-staxel.item.crafting.PlainFlour.description=
-//TODO Translate [Reference] 'Plain Flour'
-staxel.item.crafting.PlainFlour.name=
-//TODO Translate [Reference] 'A standard pot, useful for cooking.'
-staxel.item.crafting.Pot.description=
-//TODO Translate [Reference] 'Pot'
-staxel.item.crafting.Pot.name=
-//TODO Translate [Reference] 'Onion soup still in the pot.'
-staxel.item.crafting.PotOnionSoup.description=
-//TODO Translate [Reference] 'Onion Soup'
-staxel.item.crafting.PotOnionSoup.name=
-//TODO Translate [Reference] 'Tomato soup still in the pot.'
-staxel.item.crafting.PotTomatoSoup.description=
-//TODO Translate [Reference] 'Tomato Soup'
-staxel.item.crafting.PotTomatoSoup.name=
-//TODO Translate [Reference] 'A pot of boiling water.'
-staxel.item.crafting.PotWaterBoiling.description=
-//TODO Translate [Reference] 'Pot of Boiling Water'
-staxel.item.crafting.PotWaterBoiling.name=
-//TODO Translate [Reference] 'A freshly baked pie with a delicious, raspberry filling.'
-staxel.item.crafting.RaspberryPie.description=
-//TODO Translate [Reference] 'Raspberry Pie'
-staxel.item.crafting.RaspberryPie.name=
-//TODO Translate [Reference] 'Raw stone, mined from more stone.'
-staxel.item.crafting.RawStone.description=
-//TODO Translate [Reference] 'Raw Stone'
-staxel.item.crafting.RawStone.name=
-//TODO Translate [Reference] 'Raw wood, harvested from nature.'
-staxel.item.crafting.RawWood.description=
-//TODO Translate [Reference] 'Raw Wood'
-staxel.item.crafting.RawWood.name=
-//TODO Translate [Reference] 'This juice has a vague, red flavour.'
-staxel.item.crafting.RedJuice.description=
-//TODO Translate [Reference] 'Red Juice'
-staxel.item.crafting.RedJuice.name=
-//TODO Translate [Reference] 'Salt, one of the five basic taste sensations, and a fantastic way to spice up a bland dish.'
-staxel.item.crafting.Salt.description=
-//TODO Translate [Reference] 'Salt'
-staxel.item.crafting.Salt.name=
-//TODO Translate [Reference] 'A traditional cheese sandwich.'
-staxel.item.crafting.SandwichCheese.description=
-//TODO Translate [Reference] 'Cheese Sandwich'
-staxel.item.crafting.SandwichCheese.name=
-//TODO Translate [Reference] 'A cheese & tomato sandwich for the adventurous.'
-staxel.item.crafting.SandwichCheeseTomato.description=
-//TODO Translate [Reference] 'Cheese & Tomato Sandwich'
-staxel.item.crafting.SandwichCheeseTomato.name=
+//[Reference] 'Orange Marmalade'
+staxel.item.crafting.MarmaladeOrange.name=Апельсиновый мармелад
+//[Reference] 'Delicious, fresh milk!'
+staxel.item.crafting.Milk.description=Скусное, свежее молоко!
+//[Reference] 'Milk'
+staxel.item.crafting.Milk.name=Молоко
+//[Reference] 'A large bowl, solely used for mixing!'
+staxel.item.crafting.MixingBowl.description=Большая миска, используемая для смешивания!
+//[Reference] 'Mixing Bowl'
+staxel.item.crafting.MixingBowl.name=Миска для смешивания
+//[Reference] 'Muffins with a healthy helping of blueberries!'
+staxel.item.crafting.MuffinsBlueberry.description=Кексы с черникой, полезной для здоровья!
+//[Reference] 'Blueberry muffins'
+staxel.item.crafting.MuffinsBlueberry.name=Черничные кексы
+//[Reference] 'The chocolate chips are evenly spread out, yum!'
+staxel.item.crafting.MuffinsChocolateChip.description=Равномерно покрыты шоколадом, Ням!
+//[Reference] 'Chocolate chip muffins'
+staxel.item.crafting.MuffinsChocolateChip.name=Шоколадные кексы
+//[Reference] 'Plain muffins, baked to perfection.'
+staxel.item.crafting.MuffinsPlain.description=Простые кексы, идеально запеченные.
+//[Reference] 'Plain muffins'
+staxel.item.crafting.MuffinsPlain.name=Простые кексы
+//[Reference] 'These strawberry muffins not only look great, they smell great!'
+staxel.item.crafting.MuffinsStrawberry.description=Эти клубничные кексы не только отлично выглядят, но и пахнут тоже отлично!
+//[Reference] 'Strawberry muffins'
+staxel.item.crafting.MuffinsStrawberry.name=Клубничные кексы
+//[Reference] 'A muffin tin, used for baking cupcakes, muffins and more.'
+staxel.item.crafting.MuffinTin.description=Формочка для кексов, используется для выпекания пирожков, маффинов и прочего.
+//[Reference] 'Muffin Tin'
+staxel.item.crafting.MuffinTin.name=Формочка для кексов
+//[Reference] 'Nothing satisfies the throat quite like this silky beverage.'
+staxel.item.crafting.MugOSap.description=Ничто не смачивает глотку лучше, чем этот нежный напиток.
+//[Reference] 'Mug O' Sap'
+staxel.item.crafting.MugOSap.name=Кружка сока
+//[Reference] 'Freshly picked, this mushroom looks safe to eat!'
+staxel.item.crafting.Mushroom.description=Свежесобранный, этот гриб выглядит безопасным для еды!
+//[Reference] 'Mushroom'
+staxel.item.crafting.Mushroom.name=Гриб
+//[Reference] 'Chopped up mushroom.'
+staxel.item.crafting.MushroomCut.description=Измельченный гриб.
+//[Reference] 'Chopped Mushroom'
+staxel.item.crafting.MushroomCut.name=Нарезанный гриб
+//[Reference] 'Fresh oats. What a fine grain!'
+staxel.item.crafting.Oats.description=Свежий овес. Какое прекрасное зерно!
+//[Reference] 'Oats'
+staxel.item.crafting.Oats.name=Овес
+//[Reference] 'Chopped up onion.'
+staxel.item.crafting.OnionCut.description=Измельченный лук.
+//[Reference] 'Chopped Onion'
+staxel.item.crafting.OnionCut.name=Нарезаный лук
+//[Reference] 'Delicious orange juice, what a fine way to start the day.'
+staxel.item.crafting.OrangeJuice.description=Вкусный апельсиновый сок, какой прекрасный способ начать день.
+//[Reference] 'Orange Juice'
+staxel.item.crafting.OrangeJuice.name=Апельсиновый сок
+//[Reference] 'A delicious, golden, apple pie. Still warm from the oven!'
+staxel.item.crafting.PieApple.description=Вкусный, золотистый яблочный пирог. Только что из печи!
+//[Reference] 'Apple Pie'
+staxel.item.crafting.PieApple.name=Яблочный пирог
+staxel.item.crafting.PieAppleUnbaked.description=Идеальный яблочный пирог, готовый к выпечке!
+//[Reference] 'Unbaked Apple Pie'
+staxel.item.crafting.PieAppleUnbaked.name=Сырой яблочный пирог
+//[Reference] 'A delicious, blackberry pie. Still warm from the oven!'
+staxel.item.crafting.PieBlackberry.description=Вкусный, золотистый яблочный пирог. Только что из печи!
+//[Reference] 'Blackberry Pie'
+staxel.item.crafting.PieBlackberry.name=Ежевичный пирог
+staxel.item.crafting.PieBlackberryUnbaked.description=Идеальный ежевичный пирог, готовый к выпечке!
+//[Reference] 'Unbaked Blackberry Pie'
+staxel.item.crafting.PieBlackberryUnbaked.name=Сырой ежевичный пирог
+//[Reference] 'A delicious, blueberry pie. Still warm from the oven!'
+staxel.item.crafting.PieBlueberry.description=Вкусный ежевичный пирог. Только что из печи!
+//[Reference] 'Blueberry Pie'
+staxel.item.crafting.PieBlueberry.name=Черничный пирог
+staxel.item.crafting.PieBlueberryUnbaked.description=Идеальный черничный пирог, готовый к выпечке!
+//[Reference] 'Unbaked Blueberry Pie'
+staxel.item.crafting.PieBlueberryUnbaked.name=Сырой черничный пирог
+//[Reference] 'A delicious, cherry pie. Still warm from the oven!'
+staxel.item.crafting.PieCherry.description=Вкусный черничный пирог. Только что из печи!
+//[Reference] 'Cherry Pie'
+staxel.item.crafting.PieCherry.name=Вишневый пирог
+staxel.item.crafting.PieCherryUnbaked.description=Идеальный вишневый пирог, готовый к выпечке!
+//[Reference] 'Unbaked Cherry Pie'
+staxel.item.crafting.PieCherryUnbaked.name=Сырой вишневый пирог
+staxel.item.crafting.PieCrust.description=Идеальный пирожок, готовый к выпечке!
+//[Reference] 'Pie Crust'
+staxel.item.crafting.PieCrust.name=Пирожок
+//[Reference] 'A delicious, dragonfruit pie. Still warm from the oven!'
+staxel.item.crafting.PieDragonFruit.description=Вкусный пирог из питайи. Только что из печи!
+//[Reference] 'Dragon Fruit Pie'
+staxel.item.crafting.PieDragonFruit.name=Пирог из питайи
+staxel.item.crafting.PieDragonFruitUnbaked.description=Идеальный пирог из питайи, готовый к выпечке!
+//[Reference] 'Unbaked Dragon Fruit Pie'
+staxel.item.crafting.PieDragonFruitUnbaked.name=Сырой пирог из питайи
+//[Reference] 'A delicious, lemon pie. Still warm from the oven!'
+staxel.item.crafting.PieLemon.description=Вкусный лимонный пирог. Только что из печи!
+//[Reference] 'Lemon Pie'
+staxel.item.crafting.PieLemon.name=Лимонный пирог
+//[Reference] 'A perfect lemon pie, ready for baking!'
+staxel.item.crafting.PieLemonUnbaked.description=Идеальный лимонный пирог, готовый к выпечке!
+//[Reference] 'Unbaked Lemon Pie'
+staxel.item.crafting.PieLemonUnbaked.name=Сырой лимонный пирог
+//[Reference] 'A delicious, lime pie. Still warm from the oven!'
+staxel.item.crafting.PieLime.description=Вкусный, лаймовый пирог. Только что из печи!
+//[Reference] 'Key Lime Pie'
+staxel.item.crafting.PieLime.name=Лаймовый пирог
+staxel.item.crafting.PieLimeUnbaked.description=Идеальный лаймовый пирог, готовый к выпечке!
+//[Reference] 'Unbaked Lime Pie'
+staxel.item.crafting.PieLimeUnbaked.name=Сырой лаймовый пирог
+//[Reference] 'A delicious, orange pie. Still warm from the oven!'
+staxel.item.crafting.PieOrange.description=Вкусный апельсиновый пирог. Только что из печи!
+//[Reference] 'Orange Pie'
+staxel.item.crafting.PieOrange.name=Апельсиновый пирог
+staxel.item.crafting.PieOrangeUnbaked.description=Идеальный апельсиновый пирог, готовый к выпечке!
+//[Reference] 'Unbaked Orange Pie'
+staxel.item.crafting.PieOrangeUnbaked.name=Сырой апельсиновый пирог
+//[Reference] 'A delicious, peach pie. Still warm from the oven!'
+staxel.item.crafting.PiePeach.description=Вкусный персиковый пирог. Только что из печи!
+//[Reference] 'Peach Pie'
+staxel.item.crafting.PiePeach.name=Персиковый пирог
+staxel.item.crafting.PiePeachUnbaked.description=Идеальный персиковый пирог, готовый к выпечке!
+//[Reference] 'Unbaked Peach Pie'
+staxel.item.crafting.PiePeachUnbaked.name=Сырой персиковый пирог
+//[Reference] 'A delicious, raspberry pie. Still warm from the oven!'
+staxel.item.crafting.PieRaspberry.description=Вкусный малиновый пирог. Только что из печи!
+//[Reference] 'Raspberry Pie'
+staxel.item.crafting.PieRaspberry.name=Малиновый пирог
+staxel.item.crafting.PieRaspberryUnbaked.description=Идеальный малиновый пирог, готовый к выпечке!
+//[Reference] 'Unbaked Raspberry Pie'
+staxel.item.crafting.PieRaspberryUnbaked.name=Сырой малиновый пирог
+//[Reference] 'A delicious, strawberry pie. Still warm from the oven!'
+staxel.item.crafting.PieStrawberry.description=Вкусный клубничный пирог. Только что из печи!
+//[Reference] 'Strawberry Pie'
+staxel.item.crafting.PieStrawberry.name=Клубничный пирог
+staxel.item.crafting.PieStrawberryUnbaked.description=Идеальный клубничный пирог, готовый к выпечке!
+//[Reference] 'Unbaked Strawberry Pie'
+staxel.item.crafting.PieStrawberryUnbaked.name=Сырой клубничный пирог
+//[Reference] 'A 'delicious', vegetable pie. Still warm from the oven!'
+staxel.item.crafting.PieVegetable.description="Вкусный" овощной пирог. Только что из печи!
+//[Reference] 'Vegetable Pie'
+staxel.item.crafting.PieVegetable.name=Овощной пирог
+staxel.item.crafting.PieVegetableUnbaked.description=Идеальный овощной пирог, готовый к выпечке!
+//[Reference] 'Unbaked Vegetable Pie'
+staxel.item.crafting.PieVegetableUnbaked.name=Сырой овощной пирог
+//[Reference] 'Plain flour has many uses, and used in plenty of cooking and baking recipes.'
+staxel.item.crafting.PlainFlour.description=У простой муки масса возможностей быть по-разному использованной в готовке и выпечке.
+//[Reference] 'Plain Flour'
+staxel.item.crafting.PlainFlour.name=Мука
+//[Reference] 'A standard pot, useful for cooking.'
+staxel.item.crafting.Pot.description=обычный горшок, пригоден для приготовления пищи.
+//[Reference] 'Pot'
+staxel.item.crafting.Pot.name=Горшок
+//[Reference] 'Onion soup still in the pot.'
+staxel.item.crafting.PotOnionSoup.description=Луковый суп, еще в горшочке.
+//[Reference] 'Onion Soup'
+staxel.item.crafting.PotOnionSoup.name=Луковый суп
+//[Reference] 'Tomato soup still in the pot.'
+staxel.item.crafting.PotTomatoSoup.description=Томатный суп, еще в горшочке.
+//[Reference] 'Tomato Soup'
+staxel.item.crafting.PotTomatoSoup.name=Томатный суп
+//[Reference] 'A pot of boiling water.'
+staxel.item.crafting.PotWaterBoiling.description=Горшок, наполненный водой.
+//[Reference] 'Pot of Boiling Water'
+staxel.item.crafting.PotWaterBoiling.name=Горшок с водой
+//[Reference] 'A freshly baked pie with a delicious, raspberry filling.'
+staxel.item.crafting.RaspberryPie.description=Свежеиспеченный пирог с вкусной малиновой начинкой.
+//[Reference] 'Raspberry Pie'
+staxel.item.crafting.RaspberryPie.name=Малиновый пирог
+//[Reference] 'Raw stone, mined from more stone.'
+staxel.item.crafting.RawStone.description=Необработанный камень, добытый из камня.
+//[Reference] 'Raw Stone'
+staxel.item.crafting.RawStone.name=Необработанный камень
+//[Reference] 'Raw wood, harvested from nature.'
+staxel.item.crafting.RawWood.description=Сырая древесина, заготовлена на природе.
+//[Reference] 'Raw Wood'
+staxel.item.crafting.RawWood.name=Сырая древесина
+//[Reference] 'This juice has a vague, red flavour.'
+staxel.item.crafting.RedJuice.description=Этот сок имеет смутный, красный оттенок.
+//[Reference] 'Red Juice'
+staxel.item.crafting.RedJuice.name=Красный сок
+//[Reference] 'Salt, one of the five basic taste sensations, and a fantastic way to spice up a bland dish.'
+staxel.item.crafting.Salt.description=Соль, одно из пяти основных вкусовых ощущений, а так фантастический способ оживить пресное блюдо.
+//[Reference] 'Salt'
+staxel.item.crafting.Salt.name=Соль
+//[Reference] 'A traditional cheese sandwich.'
+staxel.item.crafting.SandwichCheese.description=Традиционный бутерброд с сыром.
+//[Reference] 'Cheese Sandwich'
+staxel.item.crafting.SandwichCheese.name=Бутерброд с сыром
+//[Reference] 'A cheese & tomato sandwich for the adventurous.'
+staxel.item.crafting.SandwichCheeseTomato.description=Бутерброд с сыром и помидорами для любителей приключений.
+//[Reference] 'Cheese & Tomato Sandwich'
+staxel.item.crafting.SandwichCheeseTomato.name=Бутерброд с сыром и помидорами
 staxel.item.crafting.SauceApple.description=
-//TODO Translate [Reference] 'Apple Sauce'
-staxel.item.crafting.SauceApple.name=
+//[Reference] 'Apple Sauce'
+staxel.item.crafting.SauceApple.name=Яблочное пюре
 staxel.item.crafting.SaucePeach.description=
-//TODO Translate [Reference] 'Peach Sauce'
-staxel.item.crafting.SaucePeach.name=
+//[Reference] 'Peach Sauce'
+staxel.item.crafting.SaucePeach.name=Персиковое пюре
 staxel.item.crafting.SoupBeetroot.description=
-//TODO Translate [Reference] 'Beetroot Soup'
-staxel.item.crafting.SoupBeetroot.name=
+//[Reference] 'Beetroot Soup'
+staxel.item.crafting.SoupBeetroot.name=Борщ
 staxel.item.crafting.SoupCabbage.description=
-//TODO Translate [Reference] 'Cabbage Soup'
-staxel.item.crafting.SoupCabbage.name=
+//[Reference] 'Cabbage Soup'
+staxel.item.crafting.SoupCabbage.name=Капустный суп
 staxel.item.crafting.SoupCarrot.description=
-//TODO Translate [Reference] 'Carrot Soup'
-staxel.item.crafting.SoupCarrot.name=
+//[Reference] 'Carrot Soup'
+staxel.item.crafting.SoupCarrot.name=Морковный суп
 staxel.item.crafting.SoupPumpkin.description=
-//TODO Translate [Reference] 'Pumpkin Soup'
-staxel.item.crafting.SoupPumpkin.name=
-//TODO Translate [Reference] 'It's great tucking into some tomato soup while it's raining outside.'
-staxel.item.crafting.SoupTomato.description=
-//TODO Translate [Reference] 'Tomato Soup'
-staxel.item.crafting.SoupTomato.name=
+//[Reference] 'Pumpkin Soup'
+staxel.item.crafting.SoupPumpkin.name=Тыквенный суп
+//[Reference] 'It's great tucking into some tomato soup while it's raining outside.'
+staxel.item.crafting.SoupTomato.description=Как зддорово заправиться томатным супом, когда за окном льет дождь.
+//[Reference] 'Tomato Soup'
+staxel.item.crafting.SoupTomato.name=Томатный суп
 staxel.item.crafting.SoupTurnip.description=
-//TODO Translate [Reference] 'Turnip Soup'
-staxel.item.crafting.SoupTurnip.name=
-//TODO Translate [Reference] 'Made from assorted vegetables.'
-staxel.item.crafting.SoupVegetable.description=
-//TODO Translate [Reference] 'Vegetable Soup'
-staxel.item.crafting.SoupVegetable.name=
-//TODO Translate [Reference] 'A genius invention which makes eating certain things easier.'
-staxel.item.crafting.Spoon.description=
-//TODO Translate [Reference] 'Spoon'
-staxel.item.crafting.Spoon.name=
-//TODO Translate [Reference] 'Juicy, juicy strawberries!'
-staxel.item.crafting.Strawberries.description=
-//TODO Translate [Reference] 'Strawberries'
-staxel.item.crafting.Strawberries.name=
-//TODO Translate [Reference] 'Just when you thought muffins couldn't get any better, someone went and added strawberries.'
-staxel.item.crafting.StrawberryMuffins.description=
-//TODO Translate [Reference] 'Strawberry Muffins'
-staxel.item.crafting.StrawberryMuffins.name=
-//TODO Translate [Reference] 'It's like cheese, but with holes.'
-staxel.item.crafting.SwissCheeseSlice.description=
-//TODO Translate [Reference] 'Swiss Cheese'
-staxel.item.crafting.SwissCheeseSlice.name=
-//TODO Translate [Reference] 'Sweet, thick syrup. Great with pancakes, and many other things too!'
-staxel.item.crafting.Syrup.description=
-//TODO Translate [Reference] 'Syrup'
-staxel.item.crafting.Syrup.name=
-//TODO Translate [Reference] 'A perfectly toasted cheese toastie.'
-staxel.item.crafting.ToastieCheese.description=
-//TODO Translate [Reference] 'Cheese Toastie'
-staxel.item.crafting.ToastieCheese.name=
-//TODO Translate [Reference] 'All that melty cheese with tomatos, mmmm.'
-staxel.item.crafting.ToastieCheeseTomato.description=
-//TODO Translate [Reference] 'Cheese & Tomato Toastie'
-staxel.item.crafting.ToastieCheeseTomato.name=
-//TODO Translate [Reference] 'Chopped up tomato'
-staxel.item.crafting.TomatoCut.description=
-//TODO Translate [Reference] 'Chopped Tomato'
-staxel.item.crafting.TomatoCut.name=
-//TODO Translate [Reference] 'A colourful dish made with assorted vegetables. It has the perfect balance of sweet and savoury, delicious!'
-staxel.item.crafting.VegetableMedley.description=
-//TODO Translate [Reference] 'Vegetable Medley'
-staxel.item.crafting.VegetableMedley.name=
-//TODO Translate [Reference] 'A jar of water.'
-staxel.item.crafting.WaterJar.description=
-//TODO Translate [Reference] 'Jar of Water'
-staxel.item.crafting.WaterJar.name=
-//TODO Translate [Reference] 'A tool useful for whisking, and a relative name to boot!'
-staxel.item.crafting.Whisk.description=
-//TODO Translate [Reference] 'Whisk'
-staxel.item.crafting.Whisk.name=
-//TODO Translate [Reference] 'A lot of teeny tiny crystals that are very sweet.'
-staxel.item.crafting.WhiteSugar.description=
-//TODO Translate [Reference] 'White Sugar'
-staxel.item.crafting.WhiteSugar.name=
-//TODO Translate [Reference] 'Wooden planks processed from raw wood. Useful for crafting.'
-staxel.item.crafting.WoodPlanks.description=
-//TODO Translate [Reference] 'Wooden Planks'
-staxel.item.crafting.WoodPlanks.name=
-//TODO Translate [Reference] 'Raw wood that's been processed into wooden planks.'
-staxel.item.crafting.WoodPlankTileItem.description=
-//TODO Translate [Reference] 'Wooden Planks'
-staxel.item.crafting.WoodPlankTileItem.name=
-//TODO Translate [Reference] 'Raw wood which has been processed into a wood plank wall.'
-staxel.item.crafting.WoodPlankWallItem.description=
-//TODO Translate [Reference] 'Wood plank wall.'
-staxel.item.crafting.WoodPlankWallItem.name=
-//TODO Translate [Reference] 'Fresh from a very cute sheep, this wool has many different uses!'
-staxel.item.crafting.Wool.description=
-//TODO Translate [Reference] 'Wool'
-staxel.item.crafting.Wool.name=
+//[Reference] 'Turnip Soup'
+staxel.item.crafting.SoupTurnip.name=Суп из репы
+//[Reference] 'Made from assorted vegetables.'
+staxel.item.crafting.SoupVegetable.description=Приготовлен из разных овощей.
+//[Reference] 'Vegetable Soup'
+staxel.item.crafting.SoupVegetable.name=Овощной суп
+//[Reference] 'A genius invention which makes eating certain things easier.'
+staxel.item.crafting.Spoon.description=Гениальное изобретение, которое облегчает поедание определенных вещей.
+//[Reference] 'Spoon'
+staxel.item.crafting.Spoon.name=Ложка
+//[Reference] 'Juicy, juicy strawberries!'
+staxel.item.crafting.Strawberries.description=Сочная-сочная клубника!
+//[Reference] 'Strawberries'
+staxel.item.crafting.Strawberries.name=Клубника
+//[Reference] 'Just when you thought muffins couldn't get any better, someone went and added strawberries.'
+staxel.item.crafting.StrawberryMuffins.description=Когда ты думал, что кексы не могут стать лучше, кто-то пошел и добавил в них клубнику!
+//[Reference] 'Strawberry Muffins'
+staxel.item.crafting.StrawberryMuffins.name=Клубничные кексы
+//[Reference] 'It's like cheese, but with holes.'
+staxel.item.crafting.SwissCheeseSlice.description=Как обычный сыр, но с дырками.
+//[Reference] 'Swiss Cheese'
+staxel.item.crafting.SwissCheeseSlice.name=Швейцарский сыр
+//[Reference] 'Sweet, thick syrup. Great with pancakes, and many other things too!'
+staxel.item.crafting.Syrup.description=Сладкий, густой сироп. Отлично подходит r блинам и многому другому!
+//[Reference] 'Syrup'
+staxel.item.crafting.Syrup.name=Сироп
+//[Reference] 'A perfectly toasted cheese toastie.'
+staxel.item.crafting.ToastieCheese.description=Отлично поджаренный сырный тост.
+//[Reference] 'Cheese Toastie'
+staxel.item.crafting.ToastieCheese.name=Сырный тост
+//[Reference] 'All that melty cheese with tomatos, mmmm.'
+staxel.item.crafting.ToastieCheeseTomato.description=Весь этот плавленый сыр с томатами, мммм.
+//[Reference] 'Cheese & Tomato Toastie'
+staxel.item.crafting.ToastieCheeseTomato.name=Сырно-томатный тост
+//[Reference] 'Chopped up tomato'
+staxel.item.crafting.TomatoCut.description=Измельченный помидор.
+//[Reference] 'Chopped Tomato'
+staxel.item.crafting.TomatoCut.name=Нарезанный помидор
+//[Reference] 'A colourful dish made with assorted vegetables. It has the perfect balance of sweet and savoury, delicious!'
+staxel.item.crafting.VegetableMedley.description=Красочное блюдо с мелко нашинкованными овощами. Оно соблюдает идеальный баланс между сладким и соленым, вкуснятина!
+//[Reference] 'Vegetable Medley'
+staxel.item.crafting.VegetableMedley.name=Винегрет
+//[Reference] 'A jar of water.'
+staxel.item.crafting.WaterJar.description=Кувшин, наполненный водой.
+//[Reference] 'Jar of Water'
+staxel.item.crafting.WaterJar.name=Кувшин с водой
+//[Reference] 'A tool useful for whisking, and a relative name to boot!'
+staxel.item.crafting.Whisk.description=Инструмент, пригодный для взбивания, потому у него такое название!
+//[Reference] 'Whisk'
+staxel.item.crafting.Whisk.name=Аппарат для взбивания
+//[Reference] 'A lot of teeny tiny crystals that are very sweet.'
+staxel.item.crafting.WhiteSugar.description=Много крошечных крошечных кристаллов, которые очень сладкие.
+//[Reference] 'White Sugar'
+staxel.item.crafting.WhiteSugar.name=Белый сахар
+//[Reference] 'Wooden planks processed from raw wood. Useful for crafting.'
+staxel.item.crafting.WoodPlanks.description=Деревянные доски, получающиеся при обработке сырой древесины. Используется в крафте.
+//[Reference] 'Wooden Planks'
+staxel.item.crafting.WoodPlanks.name=Деревянные доски
+//[Reference] 'Raw wood that's been processed into wooden planks.'
+staxel.item.crafting.WoodPlankTileItem.description=Сырая древесина, которая была обработана в деревянные доски.
+//[Reference] 'Wooden Planks'
+staxel.item.crafting.WoodPlankTileItem.name=Деревянные доски
+//[Reference] 'Raw wood which has been processed into a wood plank wall.'
+staxel.item.crafting.WoodPlankWallItem.description=Сырая древесина, которая была обработана в деревянную дощатую стену.
+//[Reference] 'Wood plank wall.'
+staxel.item.crafting.WoodPlankWallItem.name=Деревянная дощатая стена
+//[Reference] 'Fresh from a very cute sheep, this wool has many different uses!'
+staxel.item.crafting.Wool.description=Свежая, от очень миленькой овечки, эта шерсть имеет массу применений!
+//[Reference] 'Wool'
+staxel.item.crafting.Wool.name=Шерсть
 staxel.item.crafting.Yeast.description=
-//TODO Translate [Reference] 'Yeast'
-staxel.item.crafting.Yeast.name=
-//TODO Translate [Reference] 'This juice looks zingy!'
-staxel.item.crafting.YellowJuice.description=
-//TODO Translate [Reference] 'Yellow Juice'
-staxel.item.crafting.YellowJuice.name=
+//[Reference] 'Yeast'
+staxel.item.crafting.Yeast.name=Дрожжи
+//[Reference] 'This juice looks zingy!'
+staxel.item.crafting.YellowJuice.description=Этот сок выглядит потрясно!
+//[Reference] 'Yellow Juice'
+staxel.item.crafting.YellowJuice.name=Жёлтый сок
 staxel.item.crafting.Yoghurt.description=
-//TODO Translate [Reference] 'Yoghurt'
-staxel.item.crafting.Yoghurt.name=
-//TODO Translate [Reference] 'A delicious, juicy, crunchy apple.'
-staxel.item.crops.Apple.description=
-//TODO Translate [Reference] 'Apple'
-staxel.item.crops.Apple.name=
-//TODO Translate [Reference] 'It looks perfectly ripened.'
-staxel.item.crops.Banana.description=
-//TODO Translate [Reference] 'Banana'
-staxel.item.crops.Banana.name=
-//TODO Translate [Reference] 'A brightly coloured beet.'
-staxel.item.crops.Beet.description=
-//TODO Translate [Reference] 'Beet'
-staxel.item.crops.Beet.name=
-//TODO Translate [Reference] 'Juicy shiny, blackberries.'
-staxel.item.crops.Blackberries.description=
-//TODO Translate [Reference] 'Blackberries'
-staxel.item.crops.Blackberries.name=
-//TODO Translate [Reference] 'Fresh blueberries, cool to the touch!'
-staxel.item.crops.Blueberries.description=
-//TODO Translate [Reference] 'Blueberries'
-staxel.item.crops.Blueberries.name=
+//[Reference] 'Yoghurt'
+staxel.item.crafting.Yoghurt.name=Йогурт
+//[Reference] 'A delicious, juicy, crunchy apple.'
+staxel.item.crops.Apple.description=Вкусное, сочное, хрустящее яблоко.
+//[Reference] 'Apple'
+staxel.item.crops.Apple.name=Яблоко
+//[Reference] 'It looks perfectly ripened.'
+staxel.item.crops.Banana.description=Выглядит прекрасно созревшим.
+//[Reference] 'Banana'
+staxel.item.crops.Banana.name=Банан
+//[Reference] 'A brightly coloured beet.'
+staxel.item.crops.Beet.description=Ярко окрашенная свекла.
+//[Reference] 'Beet'
+staxel.item.crops.Beet.name=Свекла
+//[Reference] 'Juicy shiny, blackberries.'
+staxel.item.crops.Blackberries.description=Сочная и яркая ежевика.
+//[Reference] 'Blackberries'
+staxel.item.crops.Blackberries.name=Ежевика
+//[Reference] 'Fresh blueberries, cool to the touch!'
+staxel.item.crops.Blueberries.description=Свежая черника, приятная на ощупь!
+//[Reference] 'Blueberries'
+staxel.item.crops.Blueberries.name=Черника
 staxel.item.crops.Cabbage.description=
-//TODO Translate [Reference] 'Cabbage'
-staxel.item.crops.Cabbage.name=
-//TODO Translate [Reference] 'A healthy looking carrot.'
-staxel.item.crops.Carrot.description=
-//TODO Translate [Reference] 'Carrot'
-staxel.item.crops.Carrot.name=
-//TODO Translate [Reference] 'Fresh and sweet cherries.'
-staxel.item.crops.Cherries.description=
-//TODO Translate [Reference] 'Cherries'
-staxel.item.crops.Cherries.name=
-//TODO Translate [Reference] 'A fresh and sweet cherry.'
-staxel.item.crops.Cherry.description=
-//TODO Translate [Reference] 'Cherry'
-staxel.item.crops.Cherry.name=
+//[Reference] 'Cabbage'
+staxel.item.crops.Cabbage.name=Капуста
+//[Reference] 'A healthy looking carrot.'
+staxel.item.crops.Carrot.description=Морковка,выглядит питательной.
+//[Reference] 'Carrot'
+staxel.item.crops.Carrot.name=Морковь
+//[Reference] 'Fresh and sweet cherries.'
+staxel.item.crops.Cherries.description=Свежие и сладкие вишенки.
+//[Reference] 'Cherries'
+staxel.item.crops.Cherries.name=Вишни
+//[Reference] 'A fresh and sweet cherry.'
+staxel.item.crops.Cherry.description=Свежая и сладкая вишенка.
+//[Reference] 'Cherry'
+staxel.item.crops.Cherry.name=Вишня
 staxel.item.crops.Cocoa.description=
-//TODO Translate [Reference] 'Cocoa'
-staxel.item.crops.Cocoa.name=
-//TODO Translate [Reference] 'This is going to taste great... once you figure out how to crack it open.'
-staxel.item.crops.Coconut.description=
-//TODO Translate [Reference] 'Coconut'
-staxel.item.crops.Coconut.name=
-//TODO Translate [Reference] 'Delicious yellow corn.'
-staxel.item.crops.Corn.description=
-//TODO Translate [Reference] 'Corn'
-staxel.item.crops.Corn.name=
-//TODO Translate [Reference] 'A freshly grown cucumber.'
-staxel.item.crops.Cucumber.description=
-//TODO Translate [Reference] 'Cucumber'
-staxel.item.crops.Cucumber.name=
-//TODO Translate [Reference] 'What a beautiful looking fruit, it almost looks alien!'
-staxel.item.crops.DragonFruit.description=
-//TODO Translate [Reference] 'Dragon Fruit'
-staxel.item.crops.DragonFruit.name=
-//TODO Translate [Reference] 'A very shiny eggplant.'
-staxel.item.crops.Eggplant.description=
-//TODO Translate [Reference] 'Eggplant'
-staxel.item.crops.Eggplant.name=
-//TODO Translate [Reference] 'How strange, this beet is solid gold!'
-staxel.item.crops.GoldenBeet.description=
-//TODO Translate [Reference] 'Golden Beet'
-staxel.item.crops.GoldenBeet.name=
-//TODO Translate [Reference] 'Very pretty goldenberries.'
-staxel.item.crops.Goldenberries.description=
-//TODO Translate [Reference] 'Golden Berries'
-staxel.item.crops.Goldenberries.name=
-//TODO Translate [Reference] 'Oh my, this carrot is solid gold!'
-staxel.item.crops.GoldenCarrot.description=
-//TODO Translate [Reference] 'Golden Carrot'
-staxel.item.crops.GoldenCarrot.name=
-//TODO Translate [Reference] 'This corn is made of gold! Best make sure no kernels fall off!'
-staxel.item.crops.GoldenCorn.description=
-//TODO Translate [Reference] 'Golden Corn'
-staxel.item.crops.GoldenCorn.name=
-//TODO Translate [Reference] 'Wow, this cucumber is made of gold!'
-staxel.item.crops.GoldenCucumber.description=
-//TODO Translate [Reference] 'Golden Cucumber'
-staxel.item.crops.GoldenCucumber.name=
-//TODO Translate [Reference] 'This Eggplant is made of gold! Unfortunately, golden chickens don't hatch out of golden eggplants.'
-staxel.item.crops.GoldenEggplant.description=
-//TODO Translate [Reference] 'Golden Eggplant'
-staxel.item.crops.GoldenEggplant.name=
-//TODO Translate [Reference] 'This lettuce is made of gold! I hear this is what caesar salads were originally made with...'
-staxel.item.crops.GoldenLettuce.description=
-//TODO Translate [Reference] 'Golden Lettuce'
-staxel.item.crops.GoldenLettuce.name=
-//TODO Translate [Reference] 'These oats are more golden than usual! They don't taste as nice though...'
-staxel.item.crops.GoldenOats.description=
-//TODO Translate [Reference] 'Golden Oats'
-staxel.item.crops.GoldenOats.name=
-//TODO Translate [Reference] 'Wow, a golden onion! I'm tearing up!'
-staxel.item.crops.GoldenOnion.description=
-//TODO Translate [Reference] 'Golden Onion'
-staxel.item.crops.GoldenOnion.name=
-//TODO Translate [Reference] 'A golden potato, with golden eyes!'
-staxel.item.crops.GoldenPotato.description=
-//TODO Translate [Reference] 'Golden Potato'
-staxel.item.crops.GoldenPotato.name=
-//TODO Translate [Reference] 'Sweet! A golden sugar beet!'
-staxel.item.crops.GoldenSugarBeet.description=
-//TODO Translate [Reference] 'Golden Sugar Beet'
-staxel.item.crops.GoldenSugarBeet.name=
-//TODO Translate [Reference] 'Wow, a golden sugar cane!'
-staxel.item.crops.GoldenSugarCane.description=
-//TODO Translate [Reference] 'Golden Sugar Cane'
-staxel.item.crops.GoldenSugarCane.name=
-//TODO Translate [Reference] 'Woah, this Sweet Potato is solid gold!'
-staxel.item.crops.GoldenSweetPotato.description=
-//TODO Translate [Reference] 'Golden Sweet Potato'
-staxel.item.crops.GoldenSweetPotato.name=
-//TODO Translate [Reference] 'A golden tomato! I wonder what golden tomato soup would taste like...'
-staxel.item.crops.GoldenTomato.description=
-//TODO Translate [Reference] 'Golden Tomato'
-staxel.item.crops.GoldenTomato.name=
-//TODO Translate [Reference] 'Amazing, a golden turnip!'
-staxel.item.crops.GoldenTurnip.description=
-//TODO Translate [Reference] 'Golden Turnip'
-staxel.item.crops.GoldenTurnip.name=
-//TODO Translate [Reference] 'A fresh kiwi, apparently the skin is edible!'
-staxel.item.crops.Kiwi.description=
-//TODO Translate [Reference] 'Kiwi'
-staxel.item.crops.Kiwi.name=
-//TODO Translate [Reference] 'A yummy, sour fruit.'
-staxel.item.crops.Lemon.description=
-//TODO Translate [Reference] 'Lemon'
-staxel.item.crops.Lemon.name=
-//TODO Translate [Reference] 'A head of green lettuce'
-staxel.item.crops.Lettuce.description=
-//TODO Translate [Reference] 'Lettuce'
-staxel.item.crops.Lettuce.name=
-//TODO Translate [Reference] 'A brightly coloured lime green lime.'
-staxel.item.crops.Lime.description=
-//TODO Translate [Reference] 'Lime'
-staxel.item.crops.Lime.name=
-//TODO Translate [Reference] 'A very colourful fruit.'
-staxel.item.crops.Mango.description=
-//TODO Translate [Reference] 'Mango'
-staxel.item.crops.Mango.name=
-//TODO Translate [Reference] 'Fresh oats. What a fine grain!'
-staxel.item.crops.Oat.description=
-//TODO Translate [Reference] 'Oats'
-staxel.item.crops.Oat.name=
-//TODO Translate [Reference] 'Be careful when chopping!'
-staxel.item.crops.Onion.description=
-//TODO Translate [Reference] 'Onion'
-staxel.item.crops.Onion.name=
-//TODO Translate [Reference] 'An intensely orange orange.'
-staxel.item.crops.Orange.description=
-//TODO Translate [Reference] 'Orange'
-staxel.item.crops.Orange.name=
-//TODO Translate [Reference] 'A sweet, juicy peach.'
-staxel.item.crops.Peach.description=
-//TODO Translate [Reference] 'Peach'
-staxel.item.crops.Peach.name=
-//TODO Translate [Reference] 'A fresh, crunchy pear.'
-staxel.item.crops.Pear.description=
-//TODO Translate [Reference] 'Pear'
-staxel.item.crops.Pear.name=
-//TODO Translate [Reference] 'That one vegetable everybody loves.'
-staxel.item.crops.Potato.description=
-//TODO Translate [Reference] 'Potato'
-staxel.item.crops.Potato.name=
-//TODO Translate [Reference] 'The spookiest vegetable!'
-staxel.item.crops.Pumpkin.description=
-//TODO Translate [Reference] 'Pumpkin'
-staxel.item.crops.Pumpkin.name=
-//TODO Translate [Reference] 'Some soft, ripened raspberries'
-staxel.item.crops.Raspberries.description=
-//TODO Translate [Reference] 'Raspberries'
-staxel.item.crops.Raspberries.name=
-//TODO Translate [Reference] 'These strawberries look perfectly ripened!'
-staxel.item.crops.Strawberries.description=
-//TODO Translate [Reference] 'Strawberries'
-staxel.item.crops.Strawberries.name=
-//TODO Translate [Reference] 'A healthy looking sugar beet.'
-staxel.item.crops.SugarBeet.description=
-//TODO Translate [Reference] 'Sugar Beet'
-staxel.item.crops.SugarBeet.name=
-//TODO Translate [Reference] 'So sweet, I cane-not resist.'
-staxel.item.crops.SugarCane.description=
-//TODO Translate [Reference] 'Sugar Cane'
-staxel.item.crops.SugarCane.name=
-//TODO Translate [Reference] 'Like a potato, but kinder.'
-staxel.item.crops.SweetPotato.description=
-//TODO Translate [Reference] 'Sweet Potato'
-staxel.item.crops.SweetPotato.name=
-//TODO Translate [Reference] 'It's not an orange, it's a tangerine.'
-staxel.item.crops.Tangerine.description=
-//TODO Translate [Reference] 'Tangerine'
-staxel.item.crops.Tangerine.name=
-//TODO Translate [Reference] 'Fresh, soft and juicy! Mmm.'
-staxel.item.crops.Tomato.description=
-//TODO Translate [Reference] 'Tomato'
-staxel.item.crops.Tomato.name=
-//TODO Translate [Reference] 'The most popular crop for farming.'
-staxel.item.crops.Turnip.description=
-//TODO Translate [Reference] 'Turnip'
-staxel.item.crops.Turnip.name=
-//TODO Translate [Reference] 'The juiciest, red, fruit'
-staxel.item.crops.Watermelon.description=
-//TODO Translate [Reference] 'Watermelon'
-staxel.item.crops.Watermelon.name=
+//[Reference] 'Cocoa'
+staxel.item.crops.Cocoa.name=Какао
+//[Reference] 'This is going to taste great... once you figure out how to crack it open.'
+staxel.item.crops.Coconut.description=Это будет очень вкусно... после того, как ты поймешь, как его открыть.
+//[Reference] 'Coconut'
+staxel.item.crops.Coconut.name=Кокос
+//[Reference] 'Delicious yellow corn.'
+staxel.item.crops.Corn.description=Вкусная жёлтая кукуруза.
+//[Reference] 'Corn'
+staxel.item.crops.Corn.name=Кукуруза
+//[Reference] 'A freshly grown cucumber.'
+staxel.item.crops.Cucumber.description=Свежевыращенный огурец.
+//[Reference] 'Cucumber'
+staxel.item.crops.Cucumber.name=Огурец
+//[Reference] 'What a beautiful looking fruit, it almost looks alien!'
+staxel.item.crops.DragonFruit.description=Какой красивый фрукт выглядит инопланетным!
+//[Reference] 'Dragon Fruit'
+staxel.item.crops.DragonFruit.name=Питайя
+//[Reference] 'A very shiny eggplant.'
+staxel.item.crops.Eggplant.description=Очень блестящий баклажан.
+//[Reference] 'Eggplant'
+staxel.item.crops.Eggplant.name=Баклажан
+//[Reference] 'How strange, this beet is solid gold!'
+staxel.item.crops.GoldenBeet.description=Как странно... Эта свекла... золотая!
+//[Reference] 'Golden Beet'
+staxel.item.crops.GoldenBeet.name=Золотая свекла
+//[Reference] 'Very pretty goldenberries.'
+staxel.item.crops.Goldenberries.description=Очень милые золотые ягоды.
+//[Reference] 'Golden Berries'
+staxel.item.crops.Goldenberries.name=Золотые ягоды
+//[Reference] 'Oh my, this carrot is solid gold!'
+staxel.item.crops.GoldenCarrot.description=Ого, эта морковка из чистого золота!
+//[Reference] 'Golden Carrot'
+staxel.item.crops.GoldenCarrot.name=Золотая морковь
+//[Reference] 'This corn is made of gold! Best make sure no kernels fall off!'
+staxel.item.crops.GoldenCorn.description=Эта кукуруза сделана из золота! Лучше не терять ни зернышка!
+//[Reference] 'Golden Corn'
+staxel.item.crops.GoldenCorn.name=Золотая кукуруза
+//[Reference] 'Wow, this cucumber is made of gold!'
+staxel.item.crops.GoldenCucumber.description=Вау, этот огурец целиком из золота!
+//[Reference] 'Golden Cucumber'
+staxel.item.crops.GoldenCucumber.name=Золотой огурец
+//[Reference] 'This Eggplant is made of gold! Unfortunately, golden chickens don't hatch out of golden eggplants.'
+staxel.item.crops.GoldenEggplant.description=Этот баклажан сделан из золота! К сожалению, золотые куры не вылупляются из золотых баклажанов.
+//[Reference] 'Golden Eggplant'
+staxel.item.crops.GoldenEggplant.name=Золотой баклажан
+//[Reference] 'This lettuce is made of gold! I hear this is what caesar salads were originally made with...'
+staxel.item.crops.GoldenLettuce.description=Этот салат сделан из золота! Говорят, что первый салат Цезаря был сделан из подобного...
+//[Reference] 'Golden Lettuce'
+staxel.item.crops.GoldenLettuce.name=Золотой салат
+//[Reference] 'These oats are more golden than usual! They don't taste as nice though...'
+staxel.item.crops.GoldenOats.description=Этот овес более золотой, чем обычно! Однако не такой приятный на вкус...
+//[Reference] 'Golden Oats'
+staxel.item.crops.GoldenOats.name=Золотой овес
+//[Reference] 'Wow, a golden onion! I'm tearing up!'
+staxel.item.crops.GoldenOnion.description=Вау, золотой лук! Это просто чудеса!
+//[Reference] 'Golden Onion'
+staxel.item.crops.GoldenOnion.name=Золотой лук
+//[Reference] 'A golden potato, with golden eyes!'
+staxel.item.crops.GoldenPotato.description=Золотая картофелина с золотыми глазками!
+//[Reference] 'Golden Potato'
+staxel.item.crops.GoldenPotato.name=Золотой картофель
+//[Reference] 'Sweet! A golden sugar beet!'
+staxel.item.crops.GoldenSugarBeet.description=Вот это да! Золотая сахарная свекла!
+//[Reference] 'Golden Sugar Beet'
+staxel.item.crops.GoldenSugarBeet.name=Золотая сахарная свекла
+//[Reference] 'Wow, a golden sugar cane!'
+staxel.item.crops.GoldenSugarCane.description=Ничего, себе, это же золотой сахарный тростник!
+//[Reference] 'Golden Sugar Cane'
+staxel.item.crops.GoldenSugarCane.name=Золотой сахарный тростник
+//[Reference] 'Woah, this Sweet Potato is solid gold!'
+staxel.item.crops.GoldenSweetPotato.description=Вау, батат из чистого золота!
+//[Reference] 'Golden Sweet Potato'
+staxel.item.crops.GoldenSweetPotato.name=Золотой батат
+//[Reference] 'A golden tomato! I wonder what golden tomato soup would taste like...'
+staxel.item.crops.GoldenTomato.description=Золотой помидор! Интересно, каким будет суп из золотых помидоров...
+//[Reference] 'Golden Tomato'
+staxel.item.crops.GoldenTomato.name=Золлотой помидор
+//[Reference] 'Amazing, a golden turnip!'
+staxel.item.crops.GoldenTurnip.description=Чудеса - золотая репа!
+//[Reference] 'Golden Turnip'
+staxel.item.crops.GoldenTurnip.name=Золотая репа
+//[Reference] 'A fresh kiwi, apparently the skin is edible!'
+staxel.item.crops.Kiwi.description=Свежий киви, наверное, кожа съедобная!
+//[Reference] 'Kiwi'
+staxel.item.crops.Kiwi.name=Киви
+//[Reference] 'A yummy, sour fruit.'
+staxel.item.crops.Lemon.description=Вкусный, кислый фрукт.
+//[Reference] 'Lemon'
+staxel.item.crops.Lemon.name=Лимон
+//[Reference] 'A head of green lettuce'
+staxel.item.crops.Lettuce.description=Головка зеленого салата
+//[Reference] 'Lettuce'
+staxel.item.crops.Lettuce.name=Салат
+//[Reference] 'A brightly coloured lime green lime.'
+staxel.item.crops.Lime.description=Лайм яркозеленого цвета.
+//[Reference] 'Lime'
+staxel.item.crops.Lime.name=Лайм
+//[Reference] 'A very colourful fruit.'
+staxel.item.crops.Mango.description=Очень колоритный фрукт.
+//[Reference] 'Mango'
+staxel.item.crops.Mango.name=Манго
+//[Reference] 'Fresh oats. What a fine grain!'
+staxel.item.crops.Oat.description=Свежий овес. Какое прекрасное зерно!
+//[Reference] 'Oats'
+staxel.item.crops.Oat.name=Овес
+//[Reference] 'Be careful when chopping!'
+staxel.item.crops.Onion.description=Будьте осторожны при разрезании!
+//[Reference] 'Onion'
+staxel.item.crops.Onion.name=Лук
+//[Reference] 'An intensely orange orange.'
+staxel.item.crops.Orange.description=Интенсивно оранжевый апельсин.
+//[Reference] 'Orange'
+staxel.item.crops.Orange.name=Апельсин
+//[Reference] 'A sweet, juicy peach.'
+staxel.item.crops.Peach.description=Сладкий сочный персик.
+//[Reference] 'Peach'
+staxel.item.crops.Peach.name=Персик
+//[Reference] 'A fresh, crunchy pear.'
+staxel.item.crops.Pear.description=Свежая хрустящая груша.
+//[Reference] 'Pear'
+staxel.item.crops.Pear.name=Груша
+//[Reference] 'That one vegetable everybody loves.'
+staxel.item.crops.Potato.description=Это овощ, который все любят.
+//[Reference] 'Potato'
+staxel.item.crops.Potato.name=Картофель
+//[Reference] 'The spookiest vegetable!'
+staxel.item.crops.Pumpkin.description=Самый жуткий овощ!
+//[Reference] 'Pumpkin'
+staxel.item.crops.Pumpkin.name=Тыква
+//[Reference] 'Some soft, ripened raspberries'
+staxel.item.crops.Raspberries.description=Немного мягкой, созревшей малины
+//[Reference] 'Raspberries'
+staxel.item.crops.Raspberries.name=Малина
+//[Reference] 'These strawberries look perfectly ripened!'
+staxel.item.crops.Strawberries.description=Эти клубнички выглядят прекрасно созревшими!
+//[Reference] 'Strawberries'
+staxel.item.crops.Strawberries.name=Клубника
+//[Reference] 'A healthy looking sugar beet.'
+staxel.item.crops.SugarBeet.description=EСахарная свекла, выглядит очень хорошо.
+//[Reference] 'Sugar Beet'
+staxel.item.crops.SugarBeet.name=Сахарная свекла
+//[Reference] 'So sweet, I cane-not resist.'
+staxel.item.crops.SugarCane.description=Так сладко, что невозможно устоять.
+//[Reference] 'Sugar Cane'
+staxel.item.crops.SugarCane.name=Сахарный тростник
+//[Reference] 'Like a potato, but kinder.'
+staxel.item.crops.SweetPotato.description=Как картошка, но мягче.
+//[Reference] 'Sweet Potato'
+staxel.item.crops.SweetPotato.name=Батат
+//[Reference] 'It's not an orange, it's a tangerine.'
+staxel.item.crops.Tangerine.description=Это не апельсин. Это мандарин.
+//[Reference] 'Tangerine'
+staxel.item.crops.Tangerine.name=мандарин
+//[Reference] 'Fresh, soft and juicy! Mmm.'
+staxel.item.crops.Tomato.description=Свежий, мягкий и сочный! ммм...
+//[Reference] 'Tomato'
+staxel.item.crops.Tomato.name=Помидор
+//[Reference] 'The most popular crop for farming.'
+staxel.item.crops.Turnip.description=Самый популярный урожай для земледелия.
+//[Reference] 'Turnip'
+staxel.item.crops.Turnip.name=Репа
+//[Reference] 'The juiciest, red, fruit'
+staxel.item.crops.Watermelon.description=Сочный, красный, фруктовый!
+//[Reference] 'Watermelon'
+staxel.item.crops.Watermelon.name=Арбуз
 staxel.item.currency.BronzePetalCoin.description=
-//TODO Translate [Reference] 'Bronze Petal Coin'
-staxel.item.currency.BronzePetalCoin.name=
+//[Reference] 'Bronze Petal Coin'
+staxel.item.currency.BronzePetalCoin.name=Бронзовая Лепестковая Монета
 staxel.item.currency.GoldPetalCoin.description=
-//TODO Translate [Reference] 'Gold Petal Coin'
-staxel.item.currency.GoldPetalCoin.name=
+//[Reference] 'Gold Petal Coin'
+staxel.item.currency.GoldPetalCoin.name=Золотая Лепестковая Монета
 staxel.item.currency.PlatinumPetalCoin.description=
-//TODO Translate [Reference] 'Platinum Petal Coin'
-staxel.item.currency.PlatinumPetalCoin.name=
+//[Reference] 'Platinum Petal Coin'
+staxel.item.currency.PlatinumPetalCoin.name=Платиновый Лепесток Монета
 staxel.item.currency.SilverPetalCoin.description=
-//TODO Translate [Reference] 'Silver Petal Coin'
-staxel.item.currency.SilverPetalCoin.name=
-//TODO Translate [Reference] 'A bag of chicken feed. The perfect food to keep your chickens happy and healthy.'
-staxel.item.farmAnimals.ChickenFood.description=
-//TODO Translate [Reference] 'Chicken Food'
-staxel.item.farmAnimals.ChickenFood.name=
-//TODO Translate [Reference] 'A bag of cow food. This will keep your cows well fed and happy.'
-staxel.item.farmAnimals.CowFood.description=
-//TODO Translate [Reference] 'Cow Food'
-staxel.item.farmAnimals.CowFood.name=
-//TODO Translate [Reference] 'It's not for everyone, but plants love it!'
-staxel.item.farmAnimals.CowSplat.description=
-//TODO Translate [Reference] 'Cow Splat'
-staxel.item.farmAnimals.CowSplat.name=
-//TODO Translate [Reference] 'A bag of trough food. This will keep your livestock well fed and happy. (Not for poultry.)'
-staxel.item.farmAnimals.TroughFood.description=
-//TODO Translate [Reference] 'Trough Food'
-staxel.item.farmAnimals.TroughFood.name=
-//TODO Translate [Reference] 'The license to your farm. You should treasure it.'
-staxel.item.FarmLicense.description=
-//TODO Translate [Reference] 'Farm License'
-staxel.item.FarmLicense.name=
-//TODO Translate [Reference] 'A letter that registers you and your farm. Better hand it to the Mayor quick!'
-staxel.item.FarmRegistrationLetter.description=
-//TODO Translate [Reference] 'Farm Registration Letter'
-staxel.item.FarmRegistrationLetter.name=
-//TODO Translate [Reference] 'A plain, but pretty, clay jar.'
-staxel.item.fluff.ClayJar1.description=
-//TODO Translate [Reference] 'Clay Jar'
-staxel.item.fluff.ClayJar1.name=
-//TODO Translate [Reference] 'A plain, but pretty, clay jar.'
-staxel.item.fluff.ClayJar2.description=
-//TODO Translate [Reference] 'Clay Jar'
-staxel.item.fluff.ClayJar2.name=
-//TODO Translate [Reference] 'A crate filled with assorted green fruit.'
-staxel.item.fluff.CrateGreenFruit.description=
-//TODO Translate [Reference] 'Crate of Green Fruit'
-staxel.item.fluff.CrateGreenFruit.name=
-//TODO Translate [Reference] 'A crate filled with assorted red fruit.'
-staxel.item.fluff.CrateRedFruit.description=
-//TODO Translate [Reference] 'Crate of Red Fruit'
-staxel.item.fluff.CrateRedFruit.name=
-//TODO Translate [Reference] 'A crate filled with assorted yellow fruit.'
-staxel.item.fluff.CrateYellowFruit.description=
-//TODO Translate [Reference] 'Crate of Yellow Fruit'
-staxel.item.fluff.CrateYellowFruit.name=
-//TODO Translate [Reference] 'A crate filled with fish, freshly caught!'
-staxel.item.fluff.FishTray1.description=
-//TODO Translate [Reference] 'Crate of Fish'
-staxel.item.fluff.FishTray1.name=
-//TODO Translate [Reference] 'A crate filled with fish, freshly caught!'
-staxel.item.fluff.FishTray2.description=
-//TODO Translate [Reference] 'Crate of Fish'
-staxel.item.fluff.FishTray2.name=
-//TODO Translate [Reference] 'A candle that creates an orange light when lit.'
-staxel.item.fluff.OrangeCandle.description=
-//TODO Translate [Reference] 'Orange Candle'
-staxel.item.fluff.OrangeCandle.name=
-//TODO Translate [Reference] 'A candle that creates a purple light when lit.'
-staxel.item.fluff.PurpleCandle.description=
-//TODO Translate [Reference] 'Purple Candle'
-staxel.item.fluff.PurpleCandle.name=
-//TODO Translate [Reference] 'A worker bee gathers pollen from flowers and then brings it back to its hive's honey production.'
-staxel.item.gatherable.Bee.description=
-//TODO Translate [Reference] 'Worker Bee'
-staxel.item.gatherable.Bee.name=
-//TODO Translate [Reference] 'A queen bee rules over a bee colony. She takes care of all the important decisions.'
-staxel.item.gatherable.BeeQueen.description=
-//TODO Translate [Reference] 'Queen Bee'
-staxel.item.gatherable.BeeQueen.name=
+//[Reference] 'Silver Petal Coin'
+staxel.item.currency.SilverPetalCoin.name=Серебряная Лепестковая Монета
+//[Reference] 'A bag of chicken feed. The perfect food to keep your chickens happy and healthy.'
+staxel.item.farmAnimals.ChickenFood.description=Мешок корма для куриц. Идеальная еда для того чтобы держать ваших цыплят счастливыми и здоровыми.
+//[Reference] 'Chicken Food'
+staxel.item.farmAnimals.ChickenFood.name=Корм для куриц.
+//[Reference] 'A bag of cow food. This will keep your cows well fed and happy.'
+staxel.item.farmAnimals.CowFood.description=Мешок корма для коров. Идеальная еда для того чтобы держать ваших коров счастливыми и здоровыми.
+//[Reference] 'Cow Food'
+staxel.item.farmAnimals.CowFood.name=Корм для коров
+//[Reference] 'It's not for everyone, but plants love it!'
+staxel.item.farmAnimals.CowSplat.description=Это не для всех, но растения любят это!
+//[Reference] 'Cow Splat'
+staxel.item.farmAnimals.CowSplat.name=Коровья лепешка
+//[Reference] 'A bag of trough food. This will keep your livestock well fed and happy. (Not for poultry.)'
+staxel.item.farmAnimals.TroughFood.description=Мешок комбикорма. Идеальная еда для того чтобы держать ваш домашний скот счастливым и здоровым. (не для домашней птицы.)
+//[Reference] 'Trough Food'
+staxel.item.farmAnimals.TroughFood.name=Trog-Комбикорм
+//[Reference] 'The license to your farm. You should treasure it.'
+staxel.item.FarmLicense.description=Лицензия на твою ферму. Тебе стоит ее сохранить.
+//[Reference] 'Farm License'
+staxel.item.FarmLicense.name=Лицензия на ферму
+//[Reference] 'A letter that registers you and your farm. Better hand it to the Mayor quick!'
+staxel.item.FarmRegistrationLetter.description=Письмо, которое регистрирует тебя и твою ферму. Лучше отнеси это мэру, как можно скорее!
+//[Reference] 'Farm Registration Letter'
+staxel.item.FarmRegistrationLetter.name=Регистрационное письмо
+//[Reference] 'A plain, but pretty, clay jar.'
+staxel.item.fluff.ClayJar1.description=Обычная, но красивая, глиняная банка.
+//[Reference] 'Clay Jar'
+staxel.item.fluff.ClayJar1.name=Глиняная банка
+//[Reference] 'A plain, but pretty, clay jar.'
+staxel.item.fluff.ClayJar2.description=Обычная, но красивая, глиняная банка.
+//[Reference] 'Clay Jar'
+staxel.item.fluff.ClayJar2.name=Глиняная банка
+//[Reference] 'A crate filled with assorted green fruit.'
+staxel.item.fluff.CrateGreenFruit.description=Ящик, наполненный разнообразными зелеными фруктами.
+//[Reference] 'Crate of Green Fruit'
+staxel.item.fluff.CrateGreenFruit.name=Ящик зеленых фркутов
+//[Reference] 'A crate filled with assorted red fruit.'
+staxel.item.fluff.CrateRedFruit.description=Ящик, наполненный разнообразными красными фруктами.
+//[Reference] 'Crate of Red Fruit'
+staxel.item.fluff.CrateRedFruit.name=Ящик красных фркутов
+//[Reference] 'A crate filled with assorted yellow fruit.'
+staxel.item.fluff.CrateYellowFruit.description=Ящик, наполненный разнообразными жёлтыми фруктами.
+//[Reference] 'Crate of Yellow Fruit'
+staxel.item.fluff.CrateYellowFruit.name=Ящик желтых фркутов
+//[Reference] 'A crate filled with fish, freshly caught!'
+staxel.item.fluff.FishTray1.description=Ящик, наполненный свежевыловленной рыбой!
+//[Reference] 'Crate of Fish'
+staxel.item.fluff.FishTray1.name=Ящик с рыбой
+//[Reference] 'A crate filled with fish, freshly caught!'
+staxel.item.fluff.FishTray2.description=Ящик, наполненный свежевыловленной рыбой!
+//[Reference] 'Crate of Fish'
+staxel.item.fluff.FishTray2.name=Ящик с рыбой
+//[Reference] 'A candle that creates an orange light when lit.'
+staxel.item.fluff.OrangeCandle.description=Свеча, которая создает оранжевый свет при освещении
+//[Reference] 'Orange Candle'
+staxel.item.fluff.OrangeCandle.name=Оранжевая свеча
+//[Reference] 'A candle that creates a purple light when lit.'
+staxel.item.fluff.PurpleCandle.description=Свеча, которая создает фиолетовый свет при освещении
+//[Reference] 'Purple Candle'
+staxel.item.fluff.PurpleCandle.name=Фиолетовая свеча
+//[Reference] 'A worker bee gathers pollen from flowers and then brings it back to its hive's honey production.'
+staxel.item.gatherable.Bee.description=Рабочая пчела собирает пыльцу из цветов, а затем возвращает ее к производству меда в улье.
+//[Reference] 'Worker Bee'
+staxel.item.gatherable.Bee.name=Рабочая пчела
+//[Reference] 'A queen bee rules over a bee colony. She takes care of all the important decisions.'
+staxel.item.gatherable.BeeQueen.description=Матка правит пчелиной семьи. Она принимает все важные решения.
+//[Reference] 'Queen Bee'
+staxel.item.gatherable.BeeQueen.name=Матка
 staxel.item.gatherable.BlueTang.description=
-//TODO Translate [Reference] 'Blue Tang'
-staxel.item.gatherable.BlueTang.name=
-//TODO Translate [Reference] 'A freshly picked brown mushroom. This one looks safe to eat.'
-staxel.item.gatherable.BrownMushroom.description=
-//TODO Translate [Reference] 'Brown Mushroom'
-staxel.item.gatherable.BrownMushroom.name=
+//[Reference] 'Blue Tang'
+staxel.item.gatherable.BlueTang.name=Голубой хирург
+//[Reference] 'A freshly picked brown mushroom. This one looks safe to eat.'
+staxel.item.gatherable.BrownMushroom.description=Свежесобранный коричневый гриб. Выглядит съедобным.
+//[Reference] 'Brown Mushroom'
+staxel.item.gatherable.BrownMushroom.name=Бурый гриб
 staxel.item.gatherable.ClownFish.description=
-//TODO Translate [Reference] 'Clown Fish'
-staxel.item.gatherable.ClownFish.name=
+//[Reference] 'Clown Fish'
+staxel.item.gatherable.ClownFish.name=Рыба-клоун
 staxel.item.gatherable.Crab.description=
-//TODO Translate [Reference] 'Crab'
-staxel.item.gatherable.Crab.name=
-//TODO Translate [Reference] 'This Betta Fish has very elegent fins. They look like silk wings!'
-staxel.item.gatherable.FishBeta.description=
-//TODO Translate [Reference] 'Betta Fish'
-staxel.item.gatherable.FishBeta.name=
+//[Reference] 'Crab'
+staxel.item.gatherable.Crab.name=Краб
+//[Reference] 'This Betta Fish has very elegent fins. They look like silk wings!'
+staxel.item.gatherable.FishBeta.description=У этой бойцовой рыбки очень изящные плавники. Они похожи на шелковые крылья!
+//[Reference] 'Betta Fish'
+staxel.item.gatherable.FishBeta.name=Бойцовая рыбка
 staxel.item.gatherable.HermitShell.description=
-//TODO Translate [Reference] 'Hermit Shell'
-staxel.item.gatherable.HermitShell.name=
-//TODO Translate [Reference] 'A honey pot filled to the brim with honey. It looks so delicious!'
-staxel.item.gatherable.HoneyPotFull.description=
-//TODO Translate [Reference] 'Full Honey Pot'
-staxel.item.gatherable.HoneyPotFull.name=
+//[Reference] 'Hermit Shell'
+staxel.item.gatherable.HermitShell.name=Ракушка рака-отшельника
+//[Reference] 'A honey pot filled to the brim with honey. It looks so delicious!'
+staxel.item.gatherable.HoneyPotFull.description=горшок, до краев наполненный медом. Это выглядит так вкусно!
+//[Reference] 'Full Honey Pot'
+staxel.item.gatherable.HoneyPotFull.name=Полный коршок меда
 staxel.item.gatherable.Jellyfish.description=
-//TODO Translate [Reference] 'Jellyfish'
-staxel.item.gatherable.Jellyfish.name=
+//[Reference] 'Jellyfish'
+staxel.item.gatherable.Jellyfish.name=Медуза
 staxel.item.gatherable.Octopus.description=
-//TODO Translate [Reference] 'Octopus'
-staxel.item.gatherable.Octopus.name=
+//[Reference] 'Octopus'
+staxel.item.gatherable.Octopus.name=Осьминог
 staxel.item.gatherable.PearlShell.description=
-//TODO Translate [Reference] 'Pearl Shell'
-staxel.item.gatherable.PearlShell.name=
+//[Reference] 'Pearl Shell'
+staxel.item.gatherable.PearlShell.name=Ракушка с жемчужиной
 staxel.item.gatherable.RedCoral.description=
-//TODO Translate [Reference] 'Red Coral'
-staxel.item.gatherable.RedCoral.name=
-//TODO Translate [Reference] 'This red and white mushroom is very pretty, but it's not safe to eat!'
-staxel.item.gatherable.RedWhiteMushroom.description=
-//TODO Translate [Reference] 'Red & White Mushroom'
-staxel.item.gatherable.RedWhiteMushroom.name=
-//TODO Translate [Reference] 'And they said it wasn't possible.'
-staxel.item.gatherable.RhinoBeetle.description=
-//TODO Translate [Reference] 'Rhino Beetle'
-staxel.item.gatherable.RhinoBeetle.name=
+//[Reference] 'Red Coral'
+staxel.item.gatherable.RedCoral.name=Красный коралл
+//[Reference] 'This red and white mushroom is very pretty, but it's not safe to eat!'
+staxel.item.gatherable.RedWhiteMushroom.description=Этот музомор очень красивый, но опасный! Не стоит его есть!
+//[Reference] 'Red & White Mushroom'
+staxel.item.gatherable.RedWhiteMushroom.name=Мухомор
+//[Reference] 'And they said it wasn't possible.'
+staxel.item.gatherable.RhinoBeetle.description=А говорят, что так не бывает!
+//[Reference] 'Rhino Beetle'
+staxel.item.gatherable.RhinoBeetle.name=Жук-носорог
 staxel.item.gatherable.Squid.description=
-//TODO Translate [Reference] 'Squid'
-staxel.item.gatherable.Squid.name=
+//[Reference] 'Squid'
+staxel.item.gatherable.Squid.name=Кальмар
 staxel.item.gatherable.Starfish.description=
-//TODO Translate [Reference] 'Starfish'
-staxel.item.gatherable.Starfish.name=
+//[Reference] 'Starfish'
+staxel.item.gatherable.Starfish.name=Морская звезда
 staxel.item.gatherable.SwirlyShell.description=
-//TODO Translate [Reference] 'Swirly Shell'
-staxel.item.gatherable.SwirlyShell.name=
-//TODO Translate [Reference] 'White mushrooms pretty common, and taste great fried!'
-staxel.item.gatherable.WhiteMushrooms.description=
-//TODO Translate [Reference] 'White Mushroom'
-staxel.item.gatherable.WhiteMushrooms.name=
+//[Reference] 'Swirly Shell'
+staxel.item.gatherable.SwirlyShell.name=Спиральная ракушка
+//[Reference] 'White mushrooms pretty common, and taste great fried!'
+staxel.item.gatherable.WhiteMushrooms.description=Белые грибы довольно распространены, и хороши на вкус!
+//[Reference] 'White Mushroom'
+staxel.item.gatherable.WhiteMushrooms.name=Белые грибы
 staxel.item.generic.FireworkBlue.description=
-//TODO Translate [Reference] 'Blue Firework'
-staxel.item.generic.FireworkBlue.name=
+//[Reference] 'Blue Firework'
+staxel.item.generic.FireworkBlue.name=Голубой фейерверк
 staxel.item.generic.FireworkGreen.description=
-//TODO Translate [Reference] 'Green Firework'
-staxel.item.generic.FireworkGreen.name=
+//[Reference] 'Green Firework'
+staxel.item.generic.FireworkGreen.name=Зеленый фейерверк
 staxel.item.generic.FireworkRed.description=
-//TODO Translate [Reference] 'Red Firework'
-staxel.item.generic.FireworkRed.name=
+//[Reference] 'Red Firework'
+staxel.item.generic.FireworkRed.name=Красный фейерверк
 staxel.item.generic.GoalFirework.description=
-//TODO Translate [Reference] 'Goal Firework'
-staxel.item.generic.GoalFirework.name=
-//TODO Translate [Reference] 'Hit it with a stick!'
-staxel.item.generic.HockeyBall.description=
-//TODO Translate [Reference] 'Hockey Ball'
-staxel.item.generic.HockeyBall.name=
+//[Reference] 'Goal Firework'
+staxel.item.generic.GoalFirework.name=голевой фейерверк
+//[Reference] 'Hit it with a stick!'
+staxel.item.generic.HockeyBall.description=Ударь его палкой!
+//[Reference] 'Hockey Ball'
+staxel.item.generic.HockeyBall.name=Хоккейный Мяч
 staxel.item.generic.RedBook.description=
-//TODO Translate [Reference] 'Red Book'
-staxel.item.generic.RedBook.name=
-//TODO Translate [Reference] 'Use this when your pet is following you to have them do tricks!'
-staxel.item.generic.Whistle.description=
-//TODO Translate [Reference] 'Whistle'
-staxel.item.generic.Whistle.name=
+//[Reference] 'Red Book'
+staxel.item.generic.RedBook.name=Красная книга
+//[Reference] 'Use this when your pet is following you to have them do tricks!'
+staxel.item.generic.Whistle.description=Используйте это, если ваш питомец следует за вами, чтобы он исполнял трюки!
+//[Reference] 'Whistle'
+staxel.item.generic.Whistle.name=Свисток
 staxel.item.pets.PetFood.description=
-//TODO Translate [Reference] 'Pet Food'
-staxel.item.pets.PetFood.name=
-//TODO Translate [Reference] 'What is inside the present?'
-staxel.item.presents.TradePresent.description=
-//TODO Translate [Reference] 'Present'
-staxel.item.presents.TradePresent.name=
+//[Reference] 'Pet Food'
+staxel.item.pets.PetFood.name=Еда для питомца
+//[Reference] 'What is inside the present?'
+staxel.item.presents.TradePresent.description=Что же внутри?
+//[Reference] 'Present'
+staxel.item.presents.TradePresent.name=Подарок
 staxel.item.quest.BlueLetter.description=
-//TODO Translate [Reference] 'Blue Letter'
-staxel.item.quest.BlueLetter.name=
-//TODO Translate [Reference] 'How'd this end up all the way over here?'
-staxel.item.quest.BlueSocks.description=
-//TODO Translate [Reference] 'Blue Socks'
-staxel.item.quest.BlueSocks.name=
-//TODO Translate [Reference] 'Somebody forgot their gaming device!'
-staxel.item.quest.BlueVoxelboy.description=
-//TODO Translate [Reference] 'Blue Voxelboy'
-staxel.item.quest.BlueVoxelboy.name=
-//TODO Translate [Reference] 'Uh oh, looks like someone lost their phone!'
-staxel.item.quest.BunnyPhoneBlue.description=
-//TODO Translate [Reference] 'Blue Bunny Phone'
-staxel.item.quest.BunnyPhoneBlue.name=
-//TODO Translate [Reference] 'Uh oh, looks like someone lost their phone!'
-staxel.item.quest.BunnyPhonePink.description=
-//TODO Translate [Reference] 'Pink Bunny Phone'
-staxel.item.quest.BunnyPhonePink.name=
-//TODO Translate [Reference] 'Uh oh, looks like someone lost their phone!'
-staxel.item.quest.BunnyPhoneYellow.description=
-//TODO Translate [Reference] 'Yellow Bunny Phone'
-staxel.item.quest.BunnyPhoneYellow.name=
+//[Reference] 'Blue Letter'
+staxel.item.quest.BlueLetter.name=Синее письмо
+//[Reference] 'How'd this end up all the way over here?'
+staxel.item.quest.BlueSocks.description=Как это здесь оказалось?
+//[Reference] 'Blue Socks'
+staxel.item.quest.BlueSocks.name=Синие носки
+//[Reference] 'Somebody forgot their gaming device!'
+staxel.item.quest.BlueVoxelboy.description=Кто-то забыл свое игровое устройство!
+//[Reference] 'Blue Voxelboy'
+staxel.item.quest.BlueVoxelboy.name=Синий Воксель-бой
+//[Reference] 'Uh oh, looks like someone lost their phone!'
+staxel.item.quest.BunnyPhoneBlue.description=О нет! Похоже, кто-то потерял телефон!
+//[Reference] 'Blue Bunny Phone'
+staxel.item.quest.BunnyPhoneBlue.name=Синий Кролефон
+//[Reference] 'Uh oh, looks like someone lost their phone!'
+staxel.item.quest.BunnyPhonePink.description=О нет! Похоже, кто-то потерял телефон!
+//[Reference] 'Pink Bunny Phone'
+staxel.item.quest.BunnyPhonePink.name=Розовый Кролефон
+//[Reference] 'Uh oh, looks like someone lost their phone!'
+staxel.item.quest.BunnyPhoneYellow.description=О нет! Похоже, кто-то потерял телефон!
+//[Reference] 'Yellow Bunny Phone'
+staxel.item.quest.BunnyPhoneYellow.name=Желтый Кролефон
 staxel.item.quest.Parcel.description=
-//TODO Translate [Reference] 'Parcel'
-staxel.item.quest.Parcel.name=
+//[Reference] 'Parcel'
+staxel.item.quest.Parcel.name=Посылка
 staxel.item.quest.PinkLetter.description=
-//TODO Translate [Reference] 'Pink Letter'
-staxel.item.quest.PinkLetter.name=
-//TODO Translate [Reference] 'How'd this end up all the way over here?'
-staxel.item.quest.PinkSocks.description=
-//TODO Translate [Reference] 'Pink Socks'
-staxel.item.quest.PinkSocks.name=
+//[Reference] 'Pink Letter'
+staxel.item.quest.PinkLetter.name=Розовое письмо
+//[Reference] 'How'd this end up all the way over here?'
+staxel.item.quest.PinkSocks.description=Как это здесь оказалось?
+//[Reference] 'Pink Socks'
+staxel.item.quest.PinkSocks.name=Розовые носки
 staxel.item.quest.YellowLetter.description=
-//TODO Translate [Reference] 'Yellow Letter'
-staxel.item.quest.YellowLetter.name=
-//TODO Translate [Reference] 'How'd this end up all the way over here?'
-staxel.item.quest.YellowSocks.description=
-//TODO Translate [Reference] 'Yellow Socks'
-staxel.item.quest.YellowSocks.name=
-//TODO Translate [Reference] 'Somebody forgot their gaming device!'
-staxel.item.quest.YellowVoxelboy.description=
-//TODO Translate [Reference] 'Yellow Voxelboy'
-staxel.item.quest.YellowVoxelboy.name=
+//[Reference] 'Yellow Letter'
+staxel.item.quest.YellowLetter.name=Желтое письмо
+//[Reference] 'How'd this end up all the way over here?'
+staxel.item.quest.YellowSocks.description=Как это здесь оказалось?
+//[Reference] 'Yellow Socks'
+staxel.item.quest.YellowSocks.name=Желтые носки
+//[Reference] 'Somebody forgot their gaming device!'
+staxel.item.quest.YellowVoxelboy.description=Кто-то забыл свое игровое устройство!
+//[Reference] 'Yellow Voxelboy'
+staxel.item.quest.YellowVoxelboy.name=Желтый Воксель-бой
 staxel.item.seed.DarkFairyGrassSeedPacket.description=
-//TODO Translate [Reference] 'Dark Fairy Grass Seed Packet'
-staxel.item.seed.DarkFairyGrassSeedPacket.name=
+//[Reference] 'Dark Fairy Grass Seed Packet'
+staxel.item.seed.DarkFairyGrassSeedPacket.name=Семена темной сказочной травы
 staxel.item.seed.FairyGrassSeedPacket.description=
-//TODO Translate [Reference] 'Fairy Grass Seed Packet'
-staxel.item.seed.FairyGrassSeedPacket.name=
-//TODO Translate [Reference] 'Seeds for growing grass.'
-staxel.item.seed.GrassSeedPacket.description=
-//TODO Translate [Reference] 'Grass Seed Packet'
-staxel.item.seed.GrassSeedPacket.name=
-//TODO Translate [Reference] 'Seeds for growing thick grass.'
-staxel.item.seed.ThickGrassSeedPacket.description=
-//TODO Translate [Reference] 'Thick Grass Seed Packet'
-staxel.item.seed.ThickGrassSeedPacket.name=
-//TODO Translate [Reference] 'A tool used to chop down big trees. Charge the tool to cut deeper.'
-staxel.item.tool.Axe.description=
-//TODO Translate [Reference] 'Axe'
-staxel.item.tool.Axe.name=
-//TODO Translate [Reference] 'Use to push dropped items, or play broom hockey!'
-staxel.item.tool.Broom.description=
-//TODO Translate [Reference] 'Broom'
-staxel.item.tool.Broom.name=
-//TODO Translate [Reference] 'Use this to capture farm animals!'
-staxel.item.tool.captureCrate.description=
-//TODO Translate [Reference] 'Capture Crate'
-staxel.item.tool.captureCrate.name=
-//TODO Translate [Reference] 'A tool used to disassemble objects. Charge the tool to affect a larger area'
-staxel.item.tool.Hammer.description=
-//TODO Translate [Reference] 'Hammer'
-staxel.item.tool.Hammer.name=
-//TODO Translate [Reference] 'Your hands.'
-staxel.item.tool.Hands.description=
-//TODO Translate [Reference] 'your hands'
-staxel.item.tool.Hands.name=
-//TODO Translate [Reference] 'A tool used to till the ground. Charge the tool to affect a larger area.'
-staxel.item.tool.Hoe.description=
-//TODO Translate [Reference] 'Hoe'
-staxel.item.tool.Hoe.name=
-//TODO Translate [Reference] 'Grows any crop instantly!'
-staxel.item.tool.MagicWater.description=
-//TODO Translate [Reference] 'Magic Water'
-staxel.item.tool.MagicWater.name=
-//TODO Translate [Reference] 'A tool used for investigating things.'
-staxel.item.tool.MagnifyingGlass.description=
-//TODO Translate [Reference] 'Magnifying Glass'
-staxel.item.tool.MagnifyingGlass.name=
-//TODO Translate [Reference] 'A tool used to milk a cow.'
-staxel.item.tool.Milker.description=
-//TODO Translate [Reference] 'Milker'
-staxel.item.tool.Milker.name=
-//TODO Translate [Reference] 'A bag of mixed seeds. What seeds will you plant? It's a mystery!'
-staxel.item.tool.MixedSeeds.description=
-//TODO Translate [Reference] 'Bag of Mixed Seeds'
-staxel.item.tool.MixedSeeds.name=
-//TODO Translate [Reference] 'A tool used to catch insects. Look on trees or amongst flowers!'
-staxel.item.tool.Net.description=
-//TODO Translate [Reference] 'Bug Net'
-staxel.item.tool.Net.name=
-//TODO Translate [Reference] 'A tool used to mine stone. Charge the tool to affect a larger area.'
-staxel.item.tool.Pickaxe.description=
-//TODO Translate [Reference] 'Pickaxe'
-staxel.item.tool.Pickaxe.name=
-//TODO Translate [Reference] 'A form used to (re)name animals.'
-staxel.item.tool.Renamer.description=
-//TODO Translate [Reference] 'Naming Form'
-staxel.item.tool.Renamer.name=
-//TODO Translate [Reference] 'A tool used to catch fish.'
-staxel.item.tool.Rod.description=
-//TODO Translate [Reference] 'Fishing Rod'
-staxel.item.tool.Rod.name=
-//TODO Translate [Reference] 'A tool used to cut down long grass, flowers, weeds and more! Charge the tool to cut more.'
-staxel.item.tool.Scythe.description=
-//TODO Translate [Reference] 'Scythe'
-staxel.item.tool.Scythe.name=
-//TODO Translate [Reference] 'A tool used to shear wool from sheep.'
-staxel.item.tool.Shears.description=
-//TODO Translate [Reference] 'Sheep-Shears'
-staxel.item.tool.Shears.name=
-//TODO Translate [Reference] 'A tool used to dig up earth. Charge the tool to dig more.'
-staxel.item.tool.Shovel.description=
-//TODO Translate [Reference] 'Shovel'
-staxel.item.tool.Shovel.name=
-//TODO Translate [Reference] 'A smoker is used to put bees into a comfortable sleep. This ensures safety when harvesting honey.'
-staxel.item.tool.Smoker.description=
-//TODO Translate [Reference] 'Smoker'
-staxel.item.tool.Smoker.name=
-//TODO Translate [Reference] 'A tool used to water your crops easily. Hold it down to water faster.'
-staxel.item.tool.WateringCan.description=
-//TODO Translate [Reference] 'Watering Can'
-staxel.item.tool.WateringCan.name=
+//[Reference] 'Fairy Grass Seed Packet'
+staxel.item.seed.FairyGrassSeedPacket.name=Семена сказочной травы
+//[Reference] 'Seeds for growing grass.'
+staxel.item.seed.GrassSeedPacket.description=Семена для выращивания травы.
+//[Reference] 'Grass Seed Packet'
+staxel.item.seed.GrassSeedPacket.name=Семена травы
+//[Reference] 'Seeds for growing thick grass.'
+staxel.item.seed.ThickGrassSeedPacket.description=Семена для выращивания густой травы.
+//[Reference] 'Thick Grass Seed Packet'
+staxel.item.seed.ThickGrassSeedPacket.name=Семена густой травы
+//[Reference] 'A tool used to chop down big trees. Charge the tool to cut deeper.'
+staxel.item.tool.Axe.description=Инструмент, используемый для рубки больших деревьев. Заряди инструмент, чтобы вырубить большую область.
+//[Reference] 'Axe'
+staxel.item.tool.Axe.name=Топор
+//[Reference] 'Use to push dropped items, or play broom hockey!'
+staxel.item.tool.Broom.description=Используйте, чтобы смести упавшие предметы, или играйте в метло-хоккей!
+//[Reference] 'Broom'
+staxel.item.tool.Broom.name=Метла
+//[Reference] 'Use this to capture farm animals!'
+staxel.item.tool.captureCrate.description=Используйте это для переноски сельскохозяйственных животных!
+//[Reference] 'Capture Crate'
+staxel.item.tool.captureCrate.name=Переноска
+//[Reference] 'A tool used to disassemble objects. Charge the tool to affect a larger area'
+staxel.item.tool.Hammer.description=Инструмент, используемый для сбивания предметов и блоков. Заряди инструмент, чтобы сломать больше обьектов.
+//[Reference] 'Hammer'
+staxel.item.tool.Hammer.name=Молот
+//[Reference] 'Your hands.'
+staxel.item.tool.Hands.description=Твои руки.
+//[Reference] 'your hands'
+staxel.item.tool.Hands.name=Твои руки
+//[Reference] 'A tool used to till the ground. Charge the tool to affect a larger area.'
+staxel.item.tool.Hoe.description=Инструмент, используемый для прополки земли. Заряди инструмент, чтобы прополоть больше земли.
+//[Reference] 'Hoe'
+staxel.item.tool.Hoe.name=Мотыга
+//[Reference] 'Grows any crop instantly!'
+staxel.item.tool.MagicWater.description=Взращивает любой урожай мгновенно!
+//[Reference] 'Magic Water'
+staxel.item.tool.MagicWater.name=Волшебная Вода
+//[Reference] 'A tool used for investigating things.'
+staxel.item.tool.MagnifyingGlass.description=Инструмент, используемый для исследования вещей.
+//[Reference] 'Magnifying Glass'
+staxel.item.tool.MagnifyingGlass.name=Лупа
+//[Reference] 'A tool used to milk a cow.'
+staxel.item.tool.Milker.description=Инструмент, используемый того, чтобы подоить корову.
+//[Reference] 'Milker'
+staxel.item.tool.Milker.name=Доильный аппарат
+//[Reference] 'A bag of mixed seeds. What seeds will you plant? It's a mystery!'
+staxel.item.tool.MixedSeeds.description=Мешок смешанных семян. Какие семена ты высадишь? Это загадка!
+//[Reference] 'Bag of Mixed Seeds'
+staxel.item.tool.MixedSeeds.name=Смешанные семена
+//[Reference] 'A tool used to catch insects. Look on trees or amongst flowers!'
+staxel.item.tool.Net.description=Инструмент, используемый для ловли насекомых. Ищи на деревьях или среди цветов!
+//[Reference] 'Bug Net'
+staxel.item.tool.Net.name=Сачок
+//[Reference] 'A tool used to mine stone. Charge the tool to affect a larger area.'
+staxel.item.tool.Pickaxe.description=Инструмент для добычи камня. Заряди инструмент, чтобы добыть больше камня за удар.
+//[Reference] 'Pickaxe'
+staxel.item.tool.Pickaxe.name=Кирка
+//[Reference] 'A form used to (re)name animals.'
+staxel.item.tool.Renamer.description=Форма, используемая для (пере)именования животных.
+//[Reference] 'Naming Form'
+staxel.item.tool.Renamer.name=Форма Именования
+//[Reference] 'A tool used to catch fish.'
+staxel.item.tool.Rod.description=Инструмент, используемый для ловли рыбы.
+//[Reference] 'Fishing Rod'
+staxel.item.tool.Rod.name=Удочка
+//[Reference] 'A tool used to cut down long grass, flowers, weeds and more! Charge the tool to cut more.'
+staxel.item.tool.Scythe.description=инструмент, используемый для того, чтобы косить траву, цветы, сорняки и прочее! Заряди инструмент, чтобы скосить больше травы
+//[Reference] 'Scythe'
+staxel.item.tool.Scythe.name=Коса
+//[Reference] 'A tool used to shear wool from sheep.'
+staxel.item.tool.Shears.description=Инструмент, используемый для стрижки шерсти с овец.
+//[Reference] 'Sheep-Shears'
+staxel.item.tool.Shears.name=Ножницы
+//[Reference] 'A tool used to dig up earth. Charge the tool to dig more.'
+staxel.item.tool.Shovel.description=Инструмент, используемый для раскопки земли. Заряди инструмент, чтобы выкопать больше.
+//[Reference] 'Shovel'
+staxel.item.tool.Shovel.name=Лопата
+//[Reference] 'A smoker is used to put bees into a comfortable sleep. This ensures safety when harvesting honey.'
+staxel.item.tool.Smoker.description=Раскуриватель используется, чтобы погрузить пчел в комфортный сон. Это обеспечивает безопасность при сборе меда.
+//[Reference] 'Smoker'
+staxel.item.tool.Smoker.name=Раскуриватель
+//[Reference] 'A tool used to water your crops easily. Hold it down to water faster.'
+staxel.item.tool.WateringCan.description=Инструмент, используемый для полива растений. Держи его направленным вниз, чтобы быстрее полить больше растений.
+//[Reference] 'Watering Can'
+staxel.item.tool.WateringCan.name=Лейка
