@@ -2,53 +2,55 @@
 language.code=ru-RU
 //[Reference] 'English'
 language=Русский
-//TODO Translate [Reference] 'Flour! Flour! Where did I put that flour?'
-staxel.village.dialogue.job.Patissier.line:10000100=
-//TODO Translate [Reference] '^c:1486b0;{0-playername}^c:pop;, have you seen my flour?'
-staxel.village.dialogue.job.Patissier.line:10000200=
-//TODO Translate [Reference] 'Oh! I see it!'
-staxel.village.dialogue.job.Patissier.line:10000300=
-//TODO Translate [Reference] 'These cookies are going to be the best yet!'
-staxel.village.dialogue.job.Patissier.line:10000400=
-//TODO Translate [Reference] 'I just know it!'
-staxel.village.dialogue.job.Patissier.line:10000500=
-//TODO Translate [Reference] '🎶I wish I was on yonder hill🎶'
-staxel.village.dialogue.job.Patissier.line:10000600=
-//TODO Translate [Reference] 'Oh! Please forgive my tuneless wailing...'
-staxel.village.dialogue.job.Patissier.line:10000700=
-//TODO Translate [Reference] 'I always sing while I'm baking!'
-staxel.village.dialogue.job.Patissier.line:10000800=
-//TODO Translate [Reference] 'My apron has been getting a bit worn lately.'
-staxel.village.dialogue.job.Patissier.line:10000900=
-//TODO Translate [Reference] 'I should probably think about having a new one made.'
-staxel.village.dialogue.job.Patissier.line:10001000=
-//TODO Translate [Reference] 'Maybe a lacy or frilly one?'
-staxel.village.dialogue.job.Patissier.line:10001100=
-//TODO Translate [Reference] '🎶 ...sage, rosemary, and thyme... 🎶'
-staxel.village.dialogue.job.Patissier.line:10001200=
-//TODO Translate [Reference] 'No, no. While I do know at least a thousand recipes for strawberry shortcake...'
-staxel.village.dialogue.job.Patissier.line:10001300=
-//TODO Translate [Reference] 'That isn't one of them!'
-staxel.village.dialogue.job.Patissier.line:10001400=
-//TODO Translate [Reference] 'Some parts of my baking are a bit of a mystery...'
-staxel.village.dialogue.job.Patissier.line:10001500=
-//TODO Translate [Reference] 'If I don't sing while I work, my pastries don't end up as light and crispy!'
-staxel.village.dialogue.job.Patissier.line:10001600=
-//TODO Translate [Reference] 'It's almost like the songs are charms for making good sweets!'
-staxel.village.dialogue.job.Patissier.line:10001700=
-//TODO Translate [Reference] 'If you buy an ^c:d03e37;oven^c:pop; you can ^c:d03e37;bake^c:pop; all sorts of things.'
-staxel.village.dialogue.job.Patissier.line:10001800=
-//TODO Translate [Reference] 'There are lots of people in the village who might appreciate it!'
-staxel.village.dialogue.job.Patissier.line:10001900=
-//TODO Translate [Reference] 'I can't bake everything for everyone after all!'
-staxel.village.dialogue.job.Patissier.line:10002000=
-//TODO Translate [Reference] 'I'm only one person, even if I am cute!'
-staxel.village.dialogue.job.Patissier.line:10002100=
-//TODO Translate [Reference] 'I'm starting to get tired of baking round macaroons.'
-staxel.village.dialogue.job.Patissier.line:10002200=
-//TODO Translate [Reference] 'I think I'll make the next batch heart-shaped.'
-staxel.village.dialogue.job.Patissier.line:10002300=
-//TODO Translate [Reference] 'I really want to bake a princess cake, but we don't have any princesses...'
-staxel.village.dialogue.job.Patissier.line:10002400=
-//TODO Translate [Reference] 'Do you think ^c:1486b0;{0-mayor_name}^c:pop; would agree to dress up as one for a day?'
-staxel.village.dialogue.job.Patissier.line:10002500=
+//[Reference] 'Flour! Flour! Where did I put that flour?'
+staxel.village.dialogue.job.Patissier.line:10000100=Мука! Мука! Куда же я поставила муку?
+//[Reference] '^c:1486b0;{0-playername}^c:pop;, have you seen my flour?'
+staxel.village.dialogue.job.Patissier.line:10000200={0-playername}, тебе не попадалась моя мука?
+//[Reference] 'Oh! I see it!'
+staxel.village.dialogue.job.Patissier.line:10000300=О! Нашла!
+//[Reference] 'These cookies are going to be the best yet!'
+staxel.village.dialogue.job.Patissier.line:10000400=Эти печеньки будут еще лучше!
+//[Reference] 'I just know it!'
+staxel.village.dialogue.job.Patissier.line:10000500=Я просто знаю это!
+//[Reference] '🎶I wish I was on yonder hill🎶'
+staxel.village.dialogue.job.Patissier.line:10000600=🎶I wish I was on yonder hill🎶
+//[Reference] 'Oh! Please forgive my tuneless wailing...'
+staxel.village.dialogue.job.Patissier.line:10000700=Ох! Прошу простить мои немелодичные подвывания...
+//[Reference] 'I always sing while I'm baking!'
+staxel.village.dialogue.job.Patissier.line:10000800=Я всегда пою, когда занимаюсь выпечкой!
+//[Reference] 'My apron has been getting a bit worn lately.'
+staxel.village.dialogue.job.Patissier.line:10000900=Мой фартук в последнее время немного износился.
+//[Reference] 'I should probably think about having a new one made.'
+staxel.village.dialogue.job.Patissier.line:10001000=Наверное, мне стоит подумать о том, чтобы сшить новый.
+//[Reference] 'Maybe a lacy or frilly one?'
+staxel.village.dialogue.job.Patissier.line:10001100=Может, кружевной или с оборочками?
+//[Reference] '🎶 ...sage, rosemary, and thyme... 🎶'
+staxel.village.dialogue.job.Patissier.line:10001200=🎶 … sage, rosemary, and thyme … 🎶
+//[Reference] 'No, no. While I do know at least a thousand recipes for strawberry shortcake...'
+staxel.village.dialogue.job.Patissier.line:10001300=Нет-нет. А я знаю не менее тысячи рецептов клубничного торта...
+//[Reference] 'That isn't one of them!'
+staxel.village.dialogue.job.Patissier.line:10001400=Это не один из них!
+//[Reference] 'Some parts of my baking are a bit of a mystery...'
+staxel.village.dialogue.job.Patissier.line:10001500=Некоторые особенности моей выпечки весьма необычные...
+//[Reference] 'If I don't sing while I work, my pastries don't end up as light and crispy!'
+staxel.village.dialogue.job.Patissier.line:10001600=Если я не буду петь во время работы, моя выпечка не будет легкой и хрустящей!
+//[Reference] 'It's almost like the songs are charms for making good sweets!'
+staxel.village.dialogue.job.Patissier.line:10001700=Это почти как заклинание для особенно вкусных сладостей!
+//[Reference] 'If you buy an ^c:d03e37;oven^c:pop; you can ^c:d03e37;bake^c:pop; all sorts of things.'
+staxel.village.dialogue.job.Patissier.line:10001800=Если ты приобретешь ^c:d03e37;духовку^c:pop; сможешь испечь все, что угодно.
+//[Reference] 'There are lots of people in the village who might appreciate it!'
+staxel.village.dialogue.job.Patissier.line:10001900=Многие жители, конечно же, были бы рады этому!
+//[Reference] 'I can't bake everything for everyone after all!'
+staxel.village.dialogue.job.Patissier.line:10002000=В конце концов, я не могу испечь все для всех!
+//[Reference] 'I'm only one person, even if I am cute!'
+staxel.village.dialogue.job.Patissier.line:10002100=Я просто человек, даже если я милая!
+//[Reference] 'I'm starting to get tired of baking round macaroons.'
+staxel.village.dialogue.job.Patissier.line:10002200=Я начинаю уставать от выпечки мендального печенья.
+//[Reference] 'I think I'll make the next batch heart-shaped.'
+staxel.village.dialogue.job.Patissier.line:10002300=Думаю, что сделаю следующую партию в форме сердечек.
+//[Reference] 'I really want to bake a princess cake, but we don't have any princesses...'
+staxel.village.dialogue.job.Patissier.line:10002400=Я очень хочу испечь торт для принцессы, но у нас нет принцесс...
+//[Reference] 'Do you think ^c:1486b0;{0-mayor_name}^c:pop; would agree to dress up as one for a day?'
+staxel.village.dialogue.job.Patissier.line:10002500=Как ты думаешь, согласится ли ^c:1486b0;{0-mayor_name}^c:pop; одеться, как принцесса на один день?
+
+// строка 15-16 и 27-28 - персонаж напевает песню, соответственно фраза не может быть переведена, потеряется смысл.
